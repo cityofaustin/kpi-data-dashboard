@@ -10,13 +10,21 @@
     </div>
   </div>
 
-<!--   <div class="container">
-    {% for response in responses %}
-      <p>{{response['token']}}</p>
-    {% endfor %}
-  </div> -->
-
-  <div>
-    <p>yo</p>
+  <div class="container">
+    <table>
+      <tr>
+        <th>department</th>
+        <th># measures</th>
+        <th>status</th>
+      </tr>
+      {% for i in depts['current_stats'] %}
+      <tr>
+        <td>{{i['dept_name']}}</td>
+        <td>{{i['num_measures']}}</td>
+        <td>{{i['status']}}</td>
+      </tr>
+      {% endfor %}
+    </table>
   </div>
+
 {% endblock %}

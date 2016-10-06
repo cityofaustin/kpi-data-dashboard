@@ -1,0 +1,270 @@
+{
+    "current_stats": [
+        {
+            "dept_name": "Animal Services",
+            "id": "ANM",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": "not started"
+        },
+        {
+            "dept_name": "Austin Code",
+            "id": "COD",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": "not started"
+        },
+        {
+            "dept_name": "Austin Convention Center",
+            "id": "CON",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": "not started"
+        },
+        {
+            "dept_name": "Austin Energy",
+            "id": "ENE",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Austin Public Library",
+            "id": "LIB",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": "in progress"
+        },
+        {
+            "dept_name": "Austin Resource Recovery",
+            "id": "RES",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Austin Transportation",
+            "id": "TRA",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": "completed"
+        },
+        {
+            "dept_name": "Austin Water",
+            "id": "WAT",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Aviation",
+            "id": "AVI",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Building Services",
+            "id": "BLD",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Communication and Technology Management",
+            "id": "TEC",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Communications and Public Information",
+            "id": "COM",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Development Services",
+            "id": "DEV",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Economic Development",
+            "id": "ECO",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Emergency Medical Services",
+            "id": "EMS",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Financial Services",
+            "id": "FIN",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Fire",
+            "id": "FIR",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Fleet Services",
+            "id": "FLE",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Government Relations",
+            "id": "GOV",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Health and Human Services",
+            "id": "HEA",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Human Resources",
+            "id": "HUM",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Labor Relations",
+            "id": "LAB",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Law",
+            "id": "LAW",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Management Services",
+            "id": "MGT",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Mayor and Council",
+            "id": "MAY",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Municipal Court",
+            "id": "COU",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Neighborhood Housing and Community Development",
+            "id": "HOU",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Office of Real Estate Services",
+            "id": "REA",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Office of the City Auditor",
+            "id": "AUD",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Office of the City Clerk",
+            "id": "CLE",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Office of the Medical Director",
+            "id": "MED",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Parks and Recreation",
+            "id": "PAR",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Planning and Zoning",
+            "id": "PLA",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Police",
+            "id": "POL",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Public Works",
+            "id": "WOR",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Small and Minority Business Resources",
+            "id": "SMA",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Telecommunications and Regulatory Affairs",
+            "id": "TEL",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        },
+        {
+            "dept_name": "Watershed Protection",
+            "id": "WSH",
+            "num_completed": 0,
+            "num_measures": 5,
+            "status": ""
+        }
+    ]
+}
