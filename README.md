@@ -2,7 +2,7 @@
 
 ## About this repo
 
-This repo has code related to an Open Data Initiative sprint project called KPI Data Assessment. Scope and charter documentation can be found [here](http://open-data-sprints.readthedocs.io/en/latest/project-open-data-plans.html).
+This repo has code related to an Open Data Initiative sprint project called KPI Data Assessment. Scope and charter documentation for that project can be found [here](http://open-data-sprints.readthedocs.io/en/latest/project-open-data-plans.html).
 
 In a nutshell, we need to: 
 
