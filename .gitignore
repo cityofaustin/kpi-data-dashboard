@@ -1,0 +1,4 @@
+**/*.pyc
+**/.Python
+venv/bin/
+venv/lib/python3.4
