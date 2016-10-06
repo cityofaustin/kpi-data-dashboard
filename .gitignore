@@ -2,3 +2,4 @@
 **/.Python
 venv/bin/
 venv/lib/python3.4
+**/.DS_Store
