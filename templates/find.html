@@ -3,16 +3,27 @@
 {% block content %}
   <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 10%">
-        <h2>Master survey list</h2>
-        <p>Completed surveys are updated every 15 mins. <br/> Verifications will be  entered manually by concierge.</p>
+      <div class="column" style="margin-top: 10%">
+        <h2>KPI Data Surveys</h2>
+        <p><a style="color: red;">(Not set up yet!)</a> Completed surveys are updated every 15 mins. <br/><a style="color: red;">(Not set up yet!)</a>  Verifications will be  entered manually by concierge.</p>
       </div>
     </div>
   </div>
 
   <div class="container">
+    <h6>Jump to your department:</h6>
+    <div>
+      <p>
+      {% for k,v in measures.items() | sort %}
+      <a href="#{{v[0]['dept_short']}}">{{k}}</a> | 
+      {% endfor %}
+      </p>
+    </div>
+  </div>
+
+  <div class="container">
     {% for k,v in measures.items() | sort %}
-    <h4>{{k}}</h4>
+    <h4 id="{{v[0]['dept_short']}}">{{k}}</h4>
       <table style="width: 100%;">
         <tr>
           <th>id</th>
