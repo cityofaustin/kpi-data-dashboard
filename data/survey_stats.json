@@ -1,3 +1,1979 @@
+{
+    "Animal Services": [
+        {
+            "MEASURE_NAME": "Number of animals sterilized in the community",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Animal Services",
+            "id": "1838",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1838&m_name=Number%20of%20animals%20sterilized%20in%20the%20community&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Shelter intake per capita",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Animal Services",
+            "id": "8415",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8415&m_name=Shelter%20intake%20per%20capita&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of spay/neuters performed at the Animal Center",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Animal Services",
+            "id": "1850",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1850&m_name=Number%20of%20spay/neuters%20performed%20at%20the%20Animal%20Center&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of shelter live outcomes",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Animal Services",
+            "id": "8409",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8409&m_name=Percent%20of%20shelter%20live%20outcomes&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of sheltered animals returned-to-owner",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Animal Services",
+            "id": "8411",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8411&m_name=Percent%20of%20sheltered%20animals%20returned-to-owner&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Austin Code": [
+        {
+            "MEASURE_NAME": "Average number of days from when code compliance complaints are first assigned to inspectors until first response",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Code",
+            "id": "7022",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7022&m_name=Average%20number%20of%20days%20from%20when%20code%20compliance%20complaints%20are%20first%20assigned%20to%20inspectors%20until%20first%20response&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average number of days from when Nuisance Abatement complaints are first reported until non-judicial compliance",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Code",
+            "id": "6501",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=6501&m_name=Average%20number%20of%20days%20from%20when%20Nuisance%20Abatement%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average number of days from when Substandard Structure complaints are first reported until non-judicial compliance",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Code",
+            "id": "7225",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7225&m_name=Average%20number%20of%20days%20from%20when%20Substandard%20Structure%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average number of days from when Zoning complaints are first reported until non-judicial compliance",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Code",
+            "id": "7226",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7226&m_name=Average%20number%20of%20days%20from%20when%20Zoning%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total number of community and commercial events attended",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Code",
+            "id": "7024",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7024&m_name=Total%20number%20of%20community%20and%20commercial%20events%20attended&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average number of training hours for investigative FTEs for fiscal year",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Code",
+            "id": "7231",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7231&m_name=Average%20number%20of%20training%20hours%20for%20investigative%20FTEs%20for%20fiscal%20year&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Austin Convention Center": [
+        {
+            "MEASURE_NAME": "ACC Exhibit Hall and Ballroom Occupancy",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Convention Center",
+            "id": "7734",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=7734&m_name=ACC%20Exhibit%20Hall%20and%20Ballroom%20Occupancy&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Convention Center All Funds Combined Ending Balance",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Convention Center",
+            "id": "8290",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=8290&m_name=Convention%20Center%20All%20Funds%20Combined%20Ending%20Balance&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Cumulative Client Evaluation Ratings Summary (5.0 scale)",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Convention Center",
+            "id": "1146",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1146&m_name=Cumulative%20Client%20Evaluation%20Ratings%20Summary%20%285.0%20scale%29&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Hotel Occupancy Tax Distributions",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Convention Center",
+            "id": "1154",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1154&m_name=Hotel%20Occupancy%20Tax%20Distributions&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of Clients indicating they would schedule another event at the Convention Center facilities",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Convention Center",
+            "id": "1147",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1147&m_name=Percentage%20of%20Clients%20indicating%20they%20would%20schedule%20another%20event%20at%20the%20Convention%20Center%20facilities&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Austin Energy": [
+        {
+            "MEASURE_NAME": "Renewable Power Generated as a Percent of Consumption",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Austin Energy",
+            "id": "7433",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7433&m_name=Renewable%20Power%20Generated%20as%20a%20Percent%20of%20Consumption&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "System Average Interruption Frequency Index (SAIFI) (electricity outage frequency)",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Austin Energy",
+            "id": "7412",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7412&m_name=System%20Average%20Interruption%20Frequency%20Index%20%28SAIFI%29%20%28electricity%20outage%20frequency%29&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Power Supply Cost average (cents per Kilowatt hour)",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Austin Energy",
+            "id": "7438",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7438&m_name=Power%20Supply%20Cost%20average%20%28cents%20per%20Kilowatt%20hour%29&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Heat Rate",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Austin Energy",
+            "id": "7602",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7602&m_name=Heat%20Rate&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Credit rating for separate-lien electric utility system revenue bonds",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Austin Energy",
+            "id": "7446",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7446&m_name=Credit%20rating%20for%20separate-lien%20electric%20utility%20system%20revenue%20bonds&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Customer Satisfaction Index",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Austin Energy",
+            "id": "7437",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7437&m_name=Customer%20Satisfaction%20Index&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Austin Public Library": [
+        {
+            "MEASURE_NAME": "Citizen satisfaction with materials at libraries (%)",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "2309",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2309&m_name=Citizen%20satisfaction%20with%20materials%20at%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Materials expenditures per capita",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "2308",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2308&m_name=Materials%20expenditures%20per%20capita&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Circulation per capita",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "6869",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6869&m_name=Circulation%20per%20capita&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Visits per capita",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "6870",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6870&m_name=Visits%20per%20capita&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Internet sessions per capita",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "8043",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=8043&m_name=Internet%20sessions%20per%20capita&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Library program attendance per capita",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "6871",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6871&m_name=Library%20program%20attendance%20per%20capita&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Citizen satisfaction with quality of city libraries (%)",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Austin Public Library",
+            "id": "2311",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2311&m_name=Citizen%20satisfaction%20with%20quality%20of%20city%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Austin Resource Recovery": [
+        {
+            "MEASURE_NAME": "Average pounds of yard trimmings/organics collected per customer account per week",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Resource Recovery",
+            "id": "3357",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3357&m_name=Average%20pounds%20of%20yard%20trimmings/organics%20collected%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average pounds of recycled materials collected per customer account per week",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Resource Recovery",
+            "id": "3347",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3347&m_name=Average%20pounds%20of%20recycled%20materials%20collected%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average pounds of trash per customer account per week",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Resource Recovery",
+            "id": "3339",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3339&m_name=Average%20pounds%20of%20trash%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Customer satisfaction with the quality of residential curbside trash collection in the City of Austin Citizen Survey",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Resource Recovery",
+            "id": "7188",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7188&m_name=Customer%20satisfaction%20with%20the%20quality%20of%20residential%20curbside%20trash%20collection%20in%20the%20City%20of%20Austin%20Citizen%20Survey&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Lost Time Injury Rate Per the Equivalent of 100 Employees (8+ day lost time)",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Resource Recovery",
+            "id": "7986",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7986&m_name=Lost%20Time%20Injury%20Rate%20Per%20the%20Equivalent%20of%20100%20Employees%20%288%2B%20day%20lost%20time%29&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of waste stream diverted by ARR curbside, reuse, and HHW operations",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Austin Resource Recovery",
+            "id": "7020",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7020&m_name=Percent%20of%20waste%20stream%20diverted%20by%20ARR%20curbside%2C%20reuse%2C%20and%20HHW%20operations&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Austin Transportation": [
+        {
+            "MEASURE_NAME": "Percent of residents \"satisfied\" or \"very satisfied\" with signal timing on major streets",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Austin Transportation",
+            "id": "7659",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=7659&m_name=Percent%20of%20residents%20%22satisfied%22%20or%20%22very%20satisfied%22%20with%20signal%20timing%20on%20major%20streets&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of school zone indicator signals that received preventive maintenance",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Austin Transportation",
+            "id": "8417",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=8417&m_name=Percent%20of%20school%20zone%20indicator%20signals%20that%20received%20preventive%20maintenance&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent reduction in estimated vehicular travel time in corridors and intersections studied",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Austin Transportation",
+            "id": "3212",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=3212&m_name=Percent%20reduction%20in%20estimated%20vehicular%20travel%20time%20in%20corridors%20and%20intersections%20studied&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of signs that are in fair to excellent condition",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Austin Transportation",
+            "id": "6913",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=6913&m_name=Percent%20of%20signs%20that%20are%20in%20fair%20to%20excellent%20condition&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of fatality studies completed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Austin Transportation",
+            "id": "8200",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=8200&m_name=Percentage%20of%20fatality%20studies%20completed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of residents \"satisfied\" or \"very satisfied\" with traffic flow on major streets",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Austin Transportation",
+            "id": "7655",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=7655&m_name=Percent%20of%20residents%20%22satisfied%22%20or%20%22very%20satisfied%22%20with%20traffic%20flow%20on%20major%20streets&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Austin Water": [
+        {
+            "MEASURE_NAME": "Number of reportable wastewater overflows per 100 miles of wastewater lines per year",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "8128",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=8128&m_name=Number%20of%20reportable%20wastewater%20overflows%20per%20100%20miles%20of%20wastewater%20lines%20per%20year&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total pumpage per capita per day",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "7066",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=7066&m_name=Total%20pumpage%20per%20capita%20per%20day&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of priority 1 leaks responded to within 3 hours",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "8238",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=8238&m_name=Percent%20of%20priority%201%20leaks%20responded%20to%20within%203%20hours&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Dollar amount of revenue recovered",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "7067",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=7067&m_name=Dollar%20amount%20of%20revenue%20recovered&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Wastewater Quality: Carbonaceous Biochemical Oxygen Demand (CBOD)",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "3862",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=3862&m_name=Wastewater%20Quality%3A%20Carbonaceous%20Biochemical%20Oxygen%20Demand%20%28CBOD%29&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Drinking Water Quality: Turbidity",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "3861",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=3861&m_name=Drinking%20Water%20Quality%3A%20Turbidity&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent Invested in Capital Improvements Program (CIP) Projects compared to Planned Spending via the CIP Budget",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Austin Water",
+            "id": "6561",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=6561&m_name=Percent%20Invested%20in%20Capital%20Improvements%20Program%20%28CIP%29%20Projects%20compared%20to%20Planned%20Spending%20via%20the%20CIP%20Budget&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Aviation": [
+        {
+            "MEASURE_NAME": "Non-Airline revenue per enplaned passenger",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Aviation",
+            "id": "1046",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Aviation&m_id=1046&m_name=Non-Airline%20revenue%20per%20enplaned%20passenger&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Airline cost per enplaned passenger",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Aviation",
+            "id": "8038",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Aviation&m_id=8038&m_name=Airline%20cost%20per%20enplaned%20passenger&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Lost Time Injury Rate Per the Equivalent of 100 Employees",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Aviation",
+            "id": "1067",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Aviation&m_id=1067&m_name=Lost%20Time%20Injury%20Rate%20Per%20the%20Equivalent%20of%20100%20Employees&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of passengers ranking overall satisfaction with the airport \"Excellent\" in the Airport Service Quality Survey",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Aviation",
+            "id": "6757",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Aviation&m_id=6757&m_name=Percentage%20of%20passengers%20ranking%20overall%20satisfaction%20with%20the%20airport%20%22Excellent%22%20in%20the%20Airport%20Service%20Quality%20Survey&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Building Services": [
+        {
+            "MEASURE_NAME": "Average customer satisfaction with all maintenance services",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Building Services",
+            "id": "8246",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8246&m_name=Average%20customer%20satisfaction%20with%20all%20maintenance%20services&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Customer Satisfaction with Building General Maintenance Services",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Building Services",
+            "id": "1797",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=1797&m_name=Customer%20Satisfaction%20with%20Building%20General%20Maintenance%20Services&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "EPA Energy Star Portfolio Manager Score",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Building Services",
+            "id": "8422",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8422&m_name=EPA%20Energy%20Star%20Portfolio%20Manager%20Score&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Operating Cost of Ownership Per Square Foot",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Building Services",
+            "id": "8427",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8427&m_name=Operating%20Cost%20of%20Ownership%20Per%20Square%20Foot&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Ratio of Scheduled Versus Unscheduled Maintenance",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Building Services",
+            "id": "8428",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8428&m_name=Ratio%20of%20Scheduled%20Versus%20Unscheduled%20Maintenance&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Customer satisfaction with security services",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Building Services",
+            "id": "1803",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=1803&m_name=Customer%20satisfaction%20with%20security%20services&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Communication and Technology Management": [
+        {
+            "MEASURE_NAME": "Percentage of applications with service level agreements",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Communication and Technology Management",
+            "id": "8034",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=8034&m_name=Percentage%20of%20applications%20with%20service%20level%20agreements&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Incidents closed by any group within two hours of open time and not re-opened within five days",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Communication and Technology Management",
+            "id": "7844",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=7844&m_name=Incidents%20closed%20by%20any%20group%20within%20two%20hours%20of%20open%20time%20and%20not%20re-opened%20within%20five%20days&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of Urgency \"3\" Service Desk incidents for Data Center closed within 4 business days",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Communication and Technology Management",
+            "id": "7601",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=7601&m_name=Percentage%20of%20Urgency%20%223%22%20Service%20Desk%20incidents%20for%20Data%20Center%20closed%20within%204%20business%20days&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of Projects Completed by Project Management Office (PMO)",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Communication and Technology Management",
+            "id": "8397",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=8397&m_name=Number%20of%20Projects%20Completed%20by%20Project%20Management%20Office%20%28PMO%29&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of Projects in the Portfolio for CTM",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Communication and Technology Management",
+            "id": "8399",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=8399&m_name=Number%20of%20Projects%20in%20the%20Portfolio%20for%20CTM&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "CTM's overall customer service satisfaction rating",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Communication and Technology Management",
+            "id": "7139",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=7139&m_name=CTM%27s%20overall%20customer%20service%20satisfaction%20rating&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Communications and Public Information": [
+        {
+            "MEASURE_NAME": "Percent of employee respondents reporting knowledge of specific City issues (Listening to the Workforce)",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Communications and Public Information",
+            "id": "2784",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=2784&m_name=Percent%20of%20employee%20respondents%20reporting%20knowledge%20of%20specific%20City%20issues%20%28Listening%20to%20the%20Workforce%29&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of residents satisfied with City communications (Citizen Survey)",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Communications and Public Information",
+            "id": "7166",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=7166&m_name=Percent%20of%20residents%20satisfied%20with%20City%20communications%20%28Citizen%20Survey%29&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of residents that believe Austin values dialogue between residents and government",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Communications and Public Information",
+            "id": "7845",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=7845&m_name=Percent%20of%20residents%20that%20believe%20Austin%20values%20dialogue%20between%20residents%20and%20government&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of media who respond positively in regard to interactions with CPI",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Communications and Public Information",
+            "id": "6632",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=6632&m_name=Percent%20of%20media%20who%20respond%20positively%20in%20regard%20to%20interactions%20with%20CPI&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of residents accessing ATXN programming",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Communications and Public Information",
+            "id": "7170",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=7170&m_name=Percent%20of%20residents%20accessing%20ATXN%20programming&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Development Services": [
+        {
+            "MEASURE_NAME": "Percent of building inspections performed within 24 hours of request",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Development Services",
+            "id": "3578",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Development%20Services&m_id=3578&m_name=Percent%20of%20building%20inspections%20performed%20within%2024%20hours%20of%20request&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of initial commercial building plan reviews completed within Land Development Code mandated time of 21 days",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Development Services",
+            "id": "3583",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Development%20Services&m_id=3583&m_name=Percent%20of%20initial%20commercial%20building%20plan%20reviews%20completed%20within%20Land%20Development%20Code%20mandated%20time%20of%2021%20days&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of on-time initial new residential zoning reviews",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Development Services",
+            "id": "3647",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Development%20Services&m_id=3647&m_name=Percent%20of%20on-time%20initial%20new%20residential%20zoning%20reviews&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Economic Development": [
+        {
+            "MEASURE_NAME": "Number of contracts with arts professionals and arts organizations",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Economic Development",
+            "id": "8166",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=8166&m_name=Number%20of%20contracts%20with%20arts%20professionals%20and%20arts%20organizations&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of Austinites attending international events, networking and seminars which create opportunities for international businesses\n",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Economic Development",
+            "id": "1359",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=1359&m_name=Number%20of%20Austinites%20attending%20international%20events%2C%20networking%20and%20seminars%20which%20create%20opportunities%20for%20international%20businesses%0A&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of new jobs created with public private initiatives",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Economic Development",
+            "id": "1337",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=1337&m_name=Number%20of%20new%20jobs%20created%20with%20public%20private%20initiatives&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of jobs created as a result of Family Business Loans",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Economic Development",
+            "id": "7926",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=7926&m_name=Number%20of%20jobs%20created%20as%20a%20result%20of%20Family%20Business%20Loans&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Emergency Medical Services": [
+        {
+            "MEASURE_NAME": "EMS Communications Center average call processing time (in seconds)",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Emergency Medical Services",
+            "id": "1400",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1400&m_name=EMS%20Communications%20Center%20average%20call%20processing%20time%20%28in%20seconds%29&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of potentially life-threatening calls (priority 1) responded to within 9 minutes and 59 seconds within the city of Austin",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Emergency Medical Services",
+            "id": "1405",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1405&m_name=Percent%20of%20potentially%20life-threatening%20calls%20%28priority%201%29%20responded%20to%20within%209%20minutes%20and%2059%20seconds%20within%20the%20city%20of%20Austin&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of priority 1 through 5 calls responded to on time within the city of Austin",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Emergency Medical Services",
+            "id": "8229",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8229&m_name=Percent%20of%20priority%201%20through%205%20calls%20responded%20to%20on%20time%20within%20the%20city%20of%20Austin&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent reduction of EMS transport to hospitals of enrolled CHP Clients",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Emergency Medical Services",
+            "id": "8235",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8235&m_name=Percent%20reduction%20of%20EMS%20transport%20to%20hospitals%20of%20enrolled%20CHP%20Clients&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Medical Priority Dispatch Protocol Compliance",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Emergency Medical Services",
+            "id": "1431",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1431&m_name=Medical%20Priority%20Dispatch%20Protocol%20Compliance&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of patients in cardiac arrest from cardiac causes delivered to an appropriate medical facility with a return of circulation",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Emergency Medical Services",
+            "id": "1448",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1448&m_name=Percent%20of%20patients%20in%20cardiac%20arrest%20from%20cardiac%20causes%20delivered%20to%20an%20appropriate%20medical%20facility%20with%20a%20return%20of%20circulation&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Financial Services": [
+        {
+            "MEASURE_NAME": "Receiving Government Finance Officers Association Distinguished Budget Award",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "1707",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1707&m_name=Receiving%20Government%20Finance%20Officers%20Association%20Distinguished%20Budget%20Award&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average number of calendar days between Invitation for Bid issuance and contract execution",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "7244",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=7244&m_name=Average%20number%20of%20calendar%20days%20between%20Invitation%20for%20Bid%20issuance%20and%20contract%20execution&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of planned projects and programs reviewed for alignment with Imagine Austin",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "8105",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=8105&m_name=Percentage%20of%20planned%20projects%20and%20programs%20reviewed%20for%20alignment%20with%20Imagine%20Austin&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Awarded Governmental Finance Officers Association's (GFOA) Certificate of Achievement for Excellence in Financial Reporting",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "1697",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1697&m_name=Awarded%20Governmental%20Finance%20Officers%20Association%27s%20%28GFOA%29%20Certificate%20of%20Achievement%20for%20Excellence%20in%20Financial%20Reporting&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Dollar amount of purchases made that meet Sustainability guidelines",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "1750",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1750&m_name=Dollar%20amount%20of%20purchases%20made%20that%20meet%20Sustainability%20guidelines&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "City of Austin Investment Pool Yield",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6712",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6712&m_name=City%20of%20Austin%20Investment%20Pool%20Yield&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Compare to US Treasury Constant Maturity (One Year)",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6711",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6711&m_name=Compare%20to%20US%20Treasury%20Constant%20Maturity%20%28One%20Year%29&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "COA GO Bond Rating from Fitch Investors",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6718",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6718&m_name=COA%20GO%20Bond%20Rating%20from%20Fitch%20Investors&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "COA GO Bond Rating from Moody's",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6716",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6716&m_name=COA%20GO%20Bond%20Rating%20from%20Moody%27s&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "COA GO Bond Rating from Standard & Poor's",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6717",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6717&m_name=COA%20GO%20Bond%20Rating%20from%20Standard%20%26%20Poor%27s&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Combined Utility System Revenue Bond Rating from Fitch",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6715",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6715&m_name=Combined%20Utility%20System%20Revenue%20Bond%20Rating%20from%20Fitch&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Combined Utility System Revenue Bond Rating from Moody's",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6713",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6713&m_name=Combined%20Utility%20System%20Revenue%20Bond%20Rating%20from%20Moody%27s&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Combined Utility System Revenue Bond Rating from S&P",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Financial Services",
+            "id": "6714",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6714&m_name=Combined%20Utility%20System%20Revenue%20Bond%20Rating%20from%20S%26P&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Fire": [
+        {
+            "MEASURE_NAME": "Number of fire technical inspections",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "7858",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=7858&m_name=Number%20of%20fire%20technical%20inspections&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of arson cases cleared by arrest",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "1543",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=1543&m_name=Percent%20of%20arson%20cases%20cleared%20by%20arrest&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of free smoke alarms installed",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "7532",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=7532&m_name=Number%20of%20free%20smoke%20alarms%20installed&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of unintentional fire deaths in the past 12 months",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "1556",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=1556&m_name=Number%20of%20unintentional%20fire%20deaths%20in%20the%20past%2012%20months&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of cardiac arrest due to cardiac cause that arrive at hospital with a pulse",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "8032",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=8032&m_name=Percent%20of%20cardiac%20arrest%20due%20to%20cardiac%20cause%20that%20arrive%20at%20hospital%20with%20a%20pulse&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of customers satisfied with the quality of AFD services",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "7061",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=7061&m_name=Percent%20of%20customers%20satisfied%20with%20the%20quality%20of%20AFD%20services&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of emergency incidents where the amount of time between call receipt and the arrival of AFD unit is 8 minutes or less",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "1480",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=1480&m_name=Percent%20of%20emergency%20incidents%20where%20the%20amount%20of%20time%20between%20call%20receipt%20and%20the%20arrival%20of%20AFD%20unit%20is%208%20minutes%20or%20less&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of structure fires confined to room of origin",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Fire",
+            "id": "6763",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fire&m_id=6763&m_name=Percent%20of%20structure%20fires%20confined%20to%20room%20of%20origin&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Fleet Services": [
+        {
+            "MEASURE_NAME": "Fleet Availability Rate",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Fleet Services",
+            "id": "1614",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1614&m_name=Fleet%20Availability%20Rate&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Fleet Preventive Maintenance On-Time Completion Rate",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Fleet Services",
+            "id": "7217",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=7217&m_name=Fleet%20Preventive%20Maintenance%20On-Time%20Completion%20Rate&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Alternative Fuel, Hybrid, or Electric Capable Units as a Percent of Total Units Operated",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Fleet Services",
+            "id": "1650",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1650&m_name=Alternative%20Fuel%2C%20Hybrid%2C%20or%20Electric%20Capable%20Units%20as%20a%20Percent%20of%20Total%20Units%20Operated&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of Vehicles Exceeding Replacement Criteria",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Fleet Services",
+            "id": "1640",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1640&m_name=Percent%20of%20Vehicles%20Exceeding%20Replacement%20Criteria&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Alternative Fuel Issued as a Percentage of All Fuel Issued",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Fleet Services",
+            "id": "1647",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1647&m_name=Alternative%20Fuel%20Issued%20as%20a%20Percentage%20of%20All%20Fuel%20Issued&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Government Relations": [
+        {
+            "MEASURE_NAME": "Percent of priority bills with a positive outcome for the City",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Government Relations",
+            "id": "1830",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Government%20Relations&m_id=1830&m_name=Percent%20of%20priority%20bills%20with%20a%20positive%20outcome%20for%20the%20City&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Health and Human Services": [
+        {
+            "MEASURE_NAME": "% of clients enrolled in self-sufficiency case management who report a reduction or elimination of income barriers",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "7809",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=7809&m_name=%25%20of%20clients%20enrolled%20in%20self-sufficiency%20case%20management%20who%20report%20a%20reduction%20or%20elimination%20of%20income%20barriers&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of client visits at the Shots for Tots Clinics for Vaccines for Children (VFC) eligible children ages 0-18",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "1880",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1880&m_name=Number%20of%20client%20visits%20at%20the%20Shots%20for%20Tots%20Clinics%20for%20Vaccines%20for%20Children%20%28VFC%29%20eligible%20children%20ages%200-18&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of Tobacco related deaths",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "8148",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=8148&m_name=Number%20of%20Tobacco%20related%20deaths&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of all reportable infectious diseases that result in a disease intervention",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "1902",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1902&m_name=Percent%20of%20all%20reportable%20infectious%20diseases%20that%20result%20in%20a%20disease%20intervention&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of routine inspections per fixed food establishment (City)",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "1956",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1956&m_name=Number%20of%20routine%20inspections%20per%20fixed%20food%20establishment%20%28City%29&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of development encounters for youth 10-24 (leadership, healthy decision making, sexual health ed.)",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "1984",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1984&m_name=Number%20of%20development%20encounters%20for%20youth%2010-24%20%28leadership%2C%20healthy%20decision%20making%2C%20sexual%20health%20ed.%29&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of women enrolled in WIC during pregnancy who subsequently breastfeed their children",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "1993",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1993&m_name=Percent%20of%20women%20enrolled%20in%20WIC%20during%20pregnancy%20who%20subsequently%20breastfeed%20their%20children&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of homeless clients residing in shelters that receive case management services",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "8443",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=8443&m_name=Percent%20of%20homeless%20clients%20residing%20in%20shelters%20that%20receive%20case%20management%20services&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of households served through City of Austin social service contracts that maintain housing or transition into housing from homelessness",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Health and Human Services",
+            "id": "7791",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=7791&m_name=Percent%20of%20households%20served%20through%20City%20of%20Austin%20social%20service%20contracts%20that%20maintain%20housing%20or%20transition%20into%20housing%20from%20homelessness&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Human Resources": [
+        {
+            "MEASURE_NAME": "Percentage of quality assurance recommendations management agrees to implement",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "7041",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7041&m_name=Percentage%20of%20quality%20assurance%20recommendations%20management%20agrees%20to%20implement&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Citywide lost time injury rate",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "2140",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2140&m_name=Citywide%20lost%20time%20injury%20rate&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Annual health assessment conducted for percentage of workforce",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "7671",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7671&m_name=Annual%20health%20assessment%20conducted%20for%20percentage%20of%20workforce&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Employee satisfaction with benefits programs (percent favorable)",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "2111",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2111&m_name=Employee%20satisfaction%20with%20benefits%20programs%20%28percent%20favorable%29&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average time to complete the recruitment process (open date to close date)",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "2170",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2170&m_name=Average%20time%20to%20complete%20the%20recruitment%20process%20%28open%20date%20to%20close%20date%29&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Employee ratings of overall job satisfaction",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "2101",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2101&m_name=Employee%20ratings%20of%20overall%20job%20satisfaction&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of employees receiving annual performance evaluation",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Human Resources",
+            "id": "7057",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7057&m_name=Percentage%20of%20employees%20receiving%20annual%20performance%20evaluation&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Labor Relations": [
+        {
+            "MEASURE_NAME": "Percentage of time the Ombudsperson responds to requests within 5 days",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Labor Relations",
+            "id": "7750",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Labor%20Relations&m_id=7750&m_name=Percentage%20of%20time%20the%20Ombudsperson%20responds%20to%20requests%20within%205%20days&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Law": [
+        {
+            "MEASURE_NAME": "Total number of employees receiving ethics values and compliance training",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Law",
+            "id": "6486",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Law&m_id=6486&m_name=Total%20number%20of%20employees%20receiving%20ethics%20values%20and%20compliance%20training&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average cost per hour for Outside Counsel services",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Law",
+            "id": "2223",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Law&m_id=2223&m_name=Average%20cost%20per%20hour%20for%20Outside%20Counsel%20services&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of legal risk mitigation trainings provided to city employees, officials & appointees",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Law",
+            "id": "2232",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Law&m_id=2232&m_name=Number%20of%20legal%20risk%20mitigation%20trainings%20provided%20to%20city%20employees%2C%20officials%20%26%20appointees&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of clients reporting advice provided by attorneys was clear, relevant and communicated effectively",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Law",
+            "id": "2240",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Law&m_id=2240&m_name=Percent%20of%20clients%20reporting%20advice%20provided%20by%20attorneys%20was%20clear%2C%20relevant%20and%20communicated%20effectively&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of clients reporting legal advice received was timely",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Law",
+            "id": "2239",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Law&m_id=2239&m_name=Percent%20of%20clients%20reporting%20legal%20advice%20received%20was%20timely&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of clients who report that service received is good or excellent",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Law",
+            "id": "2251",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Law&m_id=2251&m_name=Percent%20of%20clients%20who%20report%20that%20service%20received%20is%20good%20or%20excellent&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Management Services": [
+        {
+            "MEASURE_NAME": "Percentage of After Action Reports distributed the day after a Council meeting",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "7984",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=7984&m_name=Percentage%20of%20After%20Action%20Reports%20distributed%20the%20day%20after%20a%20Council%20meeting&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of Changes and Corrections documents distributed on time",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "2531",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=2531&m_name=Percentage%20of%20Changes%20and%20Corrections%20documents%20distributed%20on%20time&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of Council Member Questions answered and distributed by noon the day prior to the posted meeting",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "2530",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=2530&m_name=Percentage%20of%20Council%20Member%20Questions%20answered%20and%20distributed%20by%20noon%20the%20day%20prior%20to%20the%20posted%20meeting&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "City of Austin Combined Departmental Carbon Footprint",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "7664",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=7664&m_name=City%20of%20Austin%20Combined%20Departmental%20Carbon%20Footprint&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of plans/procedures updated, based on a requirement to update 100% of plans every 5 years",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "7121",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=7121&m_name=Percent%20of%20plans/procedures%20updated%2C%20based%20on%20a%20requirement%20to%20update%20100%25%20of%20plans%20every%205%20years&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Texas Division of Emergency Management Preparedness Level Achieved",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "8125",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=8125&m_name=Texas%20Division%20of%20Emergency%20Management%20Preparedness%20Level%20Achieved&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of outreach meetings/educational forums conducted by the Office of the Police Monitor",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "2569",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=2569&m_name=Number%20of%20outreach%20meetings/educational%20forums%20conducted%20by%20the%20Office%20of%20the%20Police%20Monitor&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of citizen contacts responded to within 5 business days",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Management Services",
+            "id": "2557",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=2557&m_name=Percent%20of%20citizen%20contacts%20responded%20to%20within%205%20business%20days&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Municipal Court": [
+        {
+            "MEASURE_NAME": "Percent of frequent offenders who complete rehabilitative recommendations",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "7732",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=7732&m_name=Percent%20of%20frequent%20offenders%20who%20complete%20rehabilitative%20recommendations&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Cases terminated vs cases filed",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "2361",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2361&m_name=Cases%20terminated%20vs%20cases%20filed&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of cases filed - Total",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "2366",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2366&m_name=Number%20of%20cases%20filed%20-%20Total&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of cases set on scheduled dockets and appearing at walk-in dockets",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "2362",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2362&m_name=Number%20of%20cases%20set%20on%20scheduled%20dockets%20and%20appearing%20at%20walk-in%20dockets&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of cases set on a docket within 60 days",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "2355",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2355&m_name=Percent%20of%20cases%20set%20on%20a%20docket%20within%2060%20days&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Average age of terminated cases (days)",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "2353",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2353&m_name=Average%20age%20of%20terminated%20cases%20%28days%29&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of customers served within 10 minutes",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "7871",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=7871&m_name=Percent%20of%20customers%20served%20within%2010%20minutes&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Level of customer satisfaction as indicated by the City of Austin Citizen Survey",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Municipal Court",
+            "id": "2479",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2479&m_name=Level%20of%20customer%20satisfaction%20as%20indicated%20by%20the%20City%20of%20Austin%20Citizen%20Survey&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Neighborhood Housing and Community Development": [
+        {
+            "MEASURE_NAME": "Number of repair services provided to homeowners during the fiscal year",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Neighborhood Housing and Community Development",
+            "id": "7038",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7038&m_name=Number%20of%20repair%20services%20provided%20to%20homeowners%20during%20the%20fiscal%20year&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of affordable rental units newly constructed and/or preserved through capital investment",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Neighborhood Housing and Community Development",
+            "id": "7036",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7036&m_name=Number%20of%20affordable%20rental%20units%20newly%20constructed%20and/or%20preserved%20through%20capital%20investment&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of housing related services provided to beneficiaries",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Neighborhood Housing and Community Development",
+            "id": "7034",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7034&m_name=Number%20of%20housing%20related%20services%20provided%20to%20beneficiaries&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total number of services provided to beneficiaries through all housing and community development activities",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Neighborhood Housing and Community Development",
+            "id": "7031",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7031&m_name=Total%20number%20of%20services%20provided%20to%20beneficiaries%20through%20all%20housing%20and%20community%20development%20activities&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Office of Real Estate Services": [
+        {
+            "MEASURE_NAME": "Percent of real estate transactions processed on time",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Office of Real Estate Services",
+            "id": "1184",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20Real%20Estate%20Services&m_id=1184&m_name=Percent%20of%20real%20estate%20transactions%20processed%20on%20time&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of properties acquired on time",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Office of Real Estate Services",
+            "id": "1187",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20Real%20Estate%20Services&m_id=1187&m_name=Percent%20of%20properties%20acquired%20on%20time&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Office of the City Auditor": [
+        {
+            "MEASURE_NAME": "Council Satisfaction with Audit services",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Office of the City Auditor",
+            "id": "2744",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2744&m_name=Council%20Satisfaction%20with%20Audit%20services&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of recommendations verified as implemented by management",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Office of the City Auditor",
+            "id": "8448",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=8448&m_name=Percent%20of%20recommendations%20verified%20as%20implemented%20by%20management&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Council satisfaction with Integrity services",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Office of the City Auditor",
+            "id": "2753",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2753&m_name=Council%20satisfaction%20with%20Integrity%20services&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of prior year investigations completed where needed corrective action occurs",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Office of the City Auditor",
+            "id": "2760",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2760&m_name=Percent%20of%20prior%20year%20investigations%20completed%20where%20needed%20corrective%20action%20occurs&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of accepted quality assurance review recommendations implemented",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Office of the City Auditor",
+            "id": "8239",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=8239&m_name=Percent%20of%20accepted%20quality%20assurance%20review%20recommendations%20implemented&contact=hailey.pate%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of professional staff that have satisfied Governmental Auditing Standards Continuing Education Requirements",
+            "contact": "hailey.pate@austintexas.gov",
+            "dept": "Office of the City Auditor",
+            "id": "2749",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2749&m_name=Percent%20of%20professional%20staff%20that%20have%20satisfied%20Governmental%20Auditing%20Standards%20Continuing%20Education%20Requirements&contact=hailey.pate%40austintexas.gov"
+        }
+    ],
+    "Office of the City Clerk": [
+        {
+            "MEASURE_NAME": "Number of departmental libraries, record types, or workflow processes added to the EDIMS",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Office of the City Clerk",
+            "id": "8088",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8088&m_name=Number%20of%20departmental%20libraries%2C%20record%20types%2C%20or%20workflow%20processes%20added%20to%20the%20EDIMS&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of 10-Step deliverables completed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Office of the City Clerk",
+            "id": "1091",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=1091&m_name=Percent%20of%2010-Step%20deliverables%20completed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of elections held that comply with election laws",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Office of the City Clerk",
+            "id": "3890",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=3890&m_name=Percent%20of%20elections%20held%20that%20comply%20with%20election%20laws&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of registered voters who voted citywide during the General Municipal Election",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Office of the City Clerk",
+            "id": "1079",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=1079&m_name=Percent%20of%20registered%20voters%20who%20voted%20citywide%20during%20the%20General%20Municipal%20Election&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of Council, Board, Commission and other open meetings documents posted to the public website",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Office of the City Clerk",
+            "id": "8090",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8090&m_name=Number%20of%20Council%2C%20Board%2C%20Commission%20and%20other%20open%20meetings%20documents%20posted%20to%20the%20public%20website&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of new board and commission members completing the required training within the deadlines",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Office of the City Clerk",
+            "id": "8091",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8091&m_name=Percent%20of%20new%20board%20and%20commission%20members%20completing%20the%20required%20training%20within%20the%20deadlines&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Office of the Medical Director": [
+        {
+            "MEASURE_NAME": "Number of hours of continuing education provided (EMS System provider trainings, CPR classes, etc.)",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Office of the Medical Director",
+            "id": "8063",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20Medical%20Director&m_id=8063&m_name=Number%20of%20hours%20of%20continuing%20education%20provided%20%28EMS%20System%20provider%20trainings%2C%20CPR%20classes%2C%20etc.%29&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of high-risk/low frequency events reviewed",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Office of the Medical Director",
+            "id": "8476",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Office%20of%20the%20Medical%20Director&m_id=8476&m_name=Percent%20of%20high-risk/low%20frequency%20events%20reviewed&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Parks and Recreation": [
+        {
+            "MEASURE_NAME": "Percent of citizens satisfied with recreation programs",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Parks and Recreation",
+            "id": "6959",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=6959&m_name=Percent%20of%20citizens%20satisfied%20with%20recreation%20programs&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Citizen satisfaction with the appearance of park grounds",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Parks and Recreation",
+            "id": "7642",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=7642&m_name=Citizen%20satisfaction%20with%20the%20appearance%20of%20park%20grounds&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of city park acres per 1,000 population",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Parks and Recreation",
+            "id": "3033",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=3033&m_name=Number%20of%20city%20park%20acres%20per%201%2C000%20population&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of CIP Spending Plan achieved",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Parks and Recreation",
+            "id": "8016",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=8016&m_name=Percent%20of%20CIP%20Spending%20Plan%20achieved&contact=stefan.wray%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "ParkScore Ranking: park quality rating out of 100",
+            "contact": "stefan.wray@austintexas.gov",
+            "dept": "Parks and Recreation",
+            "id": "8474",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=8474&m_name=ParkScore%20Ranking%3A%20park%20quality%20rating%20out%20of%20100&contact=stefan.wray%40austintexas.gov"
+        }
+    ],
+    "Planning and Zoning": [
+        {
+            "MEASURE_NAME": "Completion of an Imagine Austin Annual Report by October 1st",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Planning and Zoning",
+            "id": "8020",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=8020&m_name=Completion%20of%20an%20Imagine%20Austin%20Annual%20Report%20by%20October%201st&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of neighborhood plans adopted by the City Council",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Planning and Zoning",
+            "id": "2690",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2690&m_name=Number%20of%20neighborhood%20plans%20adopted%20by%20the%20City%20Council&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of neighborhood plans scheduled on Planning Commission agenda",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Planning and Zoning",
+            "id": "2691",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2691&m_name=Number%20of%20neighborhood%20plans%20scheduled%20on%20Planning%20Commission%20agenda&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of neighborhood planning participants who satisfied with the neighborhood planning process.",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Planning and Zoning",
+            "id": "2687",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2687&m_name=Percent%20of%20neighborhood%20planning%20participants%20who%20satisfied%20with%20the%20neighborhood%20planning%20process.&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of neighborhood plan rezonings adopted by the City Council",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Planning and Zoning",
+            "id": "2710",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2710&m_name=Number%20of%20neighborhood%20plan%20rezonings%20adopted%20by%20the%20City%20Council&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of neighborhood plan rezonings scheduled on Planning Commission agenda",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Planning and Zoning",
+            "id": "2711",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2711&m_name=Number%20of%20neighborhood%20plan%20rezonings%20scheduled%20on%20Planning%20Commission%20agenda&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Police": [
+        {
+            "MEASURE_NAME": "Percent of Part I crimes cleared",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "7002",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=7002&m_name=Percent%20of%20Part%20I%20crimes%20cleared&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of residents who are satisfied with the overall quality of police services",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "6664",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=6664&m_name=Percent%20of%20residents%20who%20are%20satisfied%20with%20the%20overall%20quality%20of%20police%20services&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Part II crime rate per 1,000 population",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "7003",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=7003&m_name=Part%20II%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Property crime rate per 1,000 population",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "2815",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=2815&m_name=Property%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Violent crime rate per 1,000 population",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "2816",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=2816&m_name=Violent%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Rate of traffic fatalities per 100,000 population",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "2848",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=2848&m_name=Rate%20of%20traffic%20fatalities%20per%20100%2C000%20population&contact=david.andersen%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total police response time for EMERGENCY and URGENT calls",
+            "contact": "david.andersen@austintexas.gov",
+            "dept": "Police",
+            "id": "6691",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Police&m_id=6691&m_name=Total%20police%20response%20time%20for%20EMERGENCY%20and%20URGENT%20calls&contact=david.andersen%40austintexas.gov"
+        }
+    ],
+    "Public Works": [
+        {
+            "MEASURE_NAME": "Percent of Projects that pass one-year warranty inspection without significant construction deficiencies",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3094",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3094&m_name=Percent%20of%20Projects%20that%20pass%20one-year%20warranty%20inspection%20without%20significant%20construction%20deficiencies&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percentage of warranted locations staffed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3169",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3169&m_name=Percentage%20of%20warranted%20locations%20staffed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of lane miles in fair to excellent condition",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3160",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3160&m_name=Percent%20of%20lane%20miles%20in%20fair%20to%20excellent%20condition&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total number of lane miles of street preventive maintenance completed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "6940",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=6940&m_name=Total%20number%20of%20lane%20miles%20of%20street%20preventive%20maintenance%20completed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of curb ramps constructed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3203",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3203&m_name=Number%20of%20curb%20ramps%20constructed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total linear feet of new ADA sidewalk constructed or sidewalk rehabilitated to meet ADA requirements",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3204",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3204&m_name=Total%20linear%20feet%20of%20new%20ADA%20sidewalk%20constructed%20or%20sidewalk%20rehabilitated%20to%20meet%20ADA%20requirements&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Lane miles of overlay completed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3150",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3150&m_name=Lane%20miles%20of%20overlay%20completed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Lane miles of preventive maintenance crack seal completed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Public Works",
+            "id": "3153",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3153&m_name=Lane%20miles%20of%20preventive%20maintenance%20crack%20seal%20completed&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Small and Minority Business Resources": [
+        {
+            "MEASURE_NAME": "Number of post-award documents reviewed",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "7047",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=7047&m_name=Number%20of%20post-award%20documents%20reviewed&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of pre-award documents reviewed",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "3269",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=3269&m_name=Number%20of%20pre-award%20documents%20reviewed&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of site audits performed on construction and professional service award contracts",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "6525",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=6525&m_name=Number%20of%20site%20audits%20performed%20on%20construction%20and%20professional%20service%20award%20contracts&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of City-certified MBE/WBE and Disadvantaged Business Enterprise (DBE) businesses",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "3298",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=3298&m_name=Number%20of%20City-certified%20MBE/WBE%20and%20Disadvantaged%20Business%20Enterprise%20%28DBE%29%20businesses&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of applications, re-certification applications, and annual reviews processed within 60 days",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "3296",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=3296&m_name=Percent%20of%20applications%2C%20re-certification%20applications%2C%20and%20annual%20reviews%20processed%20within%2060%20days&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of clients that received bonding",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "8018",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=8018&m_name=Number%20of%20clients%20that%20received%20bonding&contact=sarahs.rodriquez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Total number of new firms that attend outreach events",
+            "contact": "sarahs.rodriquez@austintexas.gov",
+            "dept": "Small and Minority Business Resources",
+            "id": "6531",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=6531&m_name=Total%20number%20of%20new%20firms%20that%20attend%20outreach%20events&contact=sarahs.rodriquez%40austintexas.gov"
+        }
+    ],
+    "Telecommunications and Regulatory Affairs": [
+        {
+            "MEASURE_NAME": "Number of Credit Access Business Certificates of Registration",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Telecommunications and Regulatory Affairs",
+            "id": "7953",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=7953&m_name=Number%20of%20Credit%20Access%20Business%20Certificates%20of%20Registration&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of digital inclusion programs' participants that improved their basic digital skills",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Telecommunications and Regulatory Affairs",
+            "id": "8117",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=8117&m_name=Percent%20of%20digital%20inclusion%20programs%27%20participants%20that%20improved%20their%20basic%20digital%20skills&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Right-of-way revenue collections",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Telecommunications and Regulatory Affairs",
+            "id": "1789",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=1789&m_name=Right-of-way%20revenue%20collections&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ],
+    "Watershed Protection": [
+        {
+            "MEASURE_NAME": "Citizen satisfaction with flood hazard mitigation efforts",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "7935",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=7935&m_name=Citizen%20satisfaction%20with%20flood%20hazard%20mitigation%20efforts&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Linear feet of storm drain infrastructure installed or replaced by WPD",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "6998",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=6998&m_name=Linear%20feet%20of%20storm%20drain%20infrastructure%20installed%20or%20replaced%20by%20WPD&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of structures/roadways with increased flood hazard protection-project completed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "7604",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=7604&m_name=Number%20of%20structures/roadways%20with%20increased%20flood%20hazard%20protection-project%20completed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Number of linear feet of stream channel repairs designed",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "6466",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=6466&m_name=Number%20of%20linear%20feet%20of%20stream%20channel%20repairs%20designed&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Percent of CIP projects substantially completed on schedule",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "7949",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=7949&m_name=Percent%20of%20CIP%20projects%20substantially%20completed%20on%20schedule&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Gallons of pollutants recovered as a result of business inspections and spills response",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "3470",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=3470&m_name=Gallons%20of%20pollutants%20recovered%20as%20a%20result%20of%20business%20inspections%20and%20spills%20response&contact=jesse.rodriguez%40austintexas.gov"
+        },
+        {
+            "MEASURE_NAME": "Tons of total suspended solids (TSS) removed annually in drainage areas with publicly-funded structural water quality controls (tons per year)",
+            "contact": "jesse.rodriguez@austintexas.gov",
+            "dept": "Watershed Protection",
+            "id": "3484",
+            "num_completed": 0,
+            "response_verified": 0,
+            "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=3484&m_name=Tons%20of%20total%20suspended%20solids%20%28TSS%29%20removed%20annually%20in%20drainage%20areas%20with%20publicly-funded%20structural%20water%20quality%20controls%20%28tons%20per%20year%29&contact=jesse.rodriguez%40austintexas.gov"
+        }
+    ]
+}
+=======
 [
     {
         "MEASURE_NAME": "Number of animals sterilized in the community",

@@ -4,16 +4,33 @@
   <div class="container">
     <div class="row">
       <div class="one-half column" style="margin-top: 10%">
-        <h3>Here are the surveys for [dept name].</h3>
-        <p>If you have questions, [contact email] is your personal survey conceirge!!</p>
+        <h2>Master survey list</h2>
+        <p>Completed surveys are updated every 15 mins. <br/> Verifications will be  entered manually by concierge.</p>
       </div>
     </div>
   </div>
 
   <div class="container">
-    <p>blah</p>
-    <p>blah</p>
-    <p>blah</p>
+    {% for k,v in measures.items() | sort %}
+    <h4>{{k}}</h4>
+      <table style="width: 100%;">
+        <tr>
+          <th>id</th>
+          <th>survey</th>
+          <th># completed</th>
+          <th>verified?</th>
+        </tr>
+        {% for j in v %}
+        <tr>
+          <td>{{j['id']}}</td>
+          <td style="width: 70%;"><a href="{{j['url']}}">{{j['MEASURE_NAME']}}</a></td>
+          <td>{{j['num_completed']}}</td>
+          <td>{{j['response_verified']}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    {% endfor %}
   </div>
+
 
 {% endblock %}

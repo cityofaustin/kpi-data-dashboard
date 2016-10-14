@@ -15,7 +15,8 @@ def about():
 
 @app.route("/find")
 def find_page():
-	return render_template('find.html')
+	with open('data/survey_stats.json', 'r') as f:
+		return render_template('find.html', measures=json.loads(f.read()))
 
 if __name__ == "__main__":
 	app.run(debug=True)
