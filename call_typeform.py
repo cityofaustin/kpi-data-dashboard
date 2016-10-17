@@ -33,7 +33,7 @@ for i in d['responses']:
     if i['completed'] == '1' and i['hidden']['dept'] in dept_filter and len(i['answers']) != 0:
         w = {}
         c = c + 1
-        w = {'m_id': i['hidden']['m_id'], 'dept': i['hidden']['dept'], 'submitted': i['metadata']['date_submit']}
+        w = {'token': i['token'], 'contact': i['hidden']['contact'], 'm_id': i['hidden']['m_id'], 'dept': i['hidden']['dept'], 'started': i['metadata']['date_land'], 'submitted': i['metadata']['date_submit'], 'network_id': i['metadata']['network_id']}
         for k,v in i['answers'].items():
             w.update({k: v})
         responses_completed.append(w)
@@ -68,7 +68,10 @@ for k,v in stats.items():
         except:
             pass
 
-# write updated stats to json
+# write updated stats to json so it can get picked up by routes.py:
 
 with open('data/survey_stats.json', 'w') as outfile:
     json.dump(stats, outfile, sort_keys=True, indent=4)
+
+
+
