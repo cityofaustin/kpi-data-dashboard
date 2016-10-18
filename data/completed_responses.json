@@ -228,5 +228,25 @@
         "textfield_32615888": "BAR Team",
         "token": "3c518dcf931e9c04b3f4263373ea2f79",
         "website_31441577": "https://data.austintexas.gov/Public-Safety/EMS-Incidents-by-Month/gjtj-jt2d"
+    },
+    {
+        "contact": "jesse.rodriguez@austintexas.gov",
+        "dept": "Telecommunications and Regulatory Affairs",
+        "email_31442534": "jesse.rodriguez@austintexas.gov",
+        "list_29849202_choice": "desktop spreadsheet",
+        "list_29849901_choice": "yes",
+        "list_31434167_choice": "City staff in my department",
+        "list_31434529_choice": "digital tool",
+        "list_31439434_choice": "quarterly",
+        "list_31441558_choice": "no",
+        "m_id": "8117",
+        "network_id": "a3b3ab7191",
+        "started": "2016-10-17 20:20:51",
+        "submitted": "2016-10-17 20:32:04",
+        "textarea_31444284": "nap",
+        "textfield_31442505": "Jesse",
+        "textfield_31442528": "Business Process Specialist",
+        "textfield_32615888": "Digital Inclusion Program",
+        "token": "4789a8f638c1ab331df9ec401e65c362"
     }
 ]

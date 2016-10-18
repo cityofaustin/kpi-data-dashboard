@@ -5,7 +5,7 @@
     <div class="row">
       <div class="column" style="margin-top: 10%">
         <h2>KPI Data Surveys</h2>
-        <p><a style="color: red;">(Not set up yet!)</a> Completed surveys are updated every 15 mins. <br/><a style="color: red;">(Not set up yet!)</a>  Verifications will be  entered manually by concierge.</p>
+        <p><a style="color: red;">(Not set up yet!)</a> Completed surveys are updated every 15 mins. <br/><a style="color: red;"></a> Verifications will be entered manually by concierge.</p>
       </div>
     </div>
   </div>
@@ -28,15 +28,15 @@
         <tr>
           <th>id</th>
           <th>survey</th>
-          <th># completed</th>
-          <th>verified?</th>
+          <th># received</th>
+          <th>status</th>
         </tr>
         {% for j in v %}
         <tr>
           <td>{{j['id']}}</td>
           <td style="width: 70%;"><a href="{{j['url']}}">{{j['MEASURE_NAME']}}</a></td>
-          <td>{{j['num_completed']}}</td>
-          <td>{{j['response_verified']}}</td>
+          <td>{{j['num_received']}}</td>
+          <td>{{j['status']}}</td>
         </tr>
         {% endfor %}
     </table>
