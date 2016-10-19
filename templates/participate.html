@@ -17,15 +17,16 @@
   </div>
 
   <div class="container">
-    <h6>Jump to your department:</h6>
-    <div>
-      <p>
-      {% for k,v in measures.items() | sort %}
-      <a href="#{{v[0]['dept_short']}}">{{k}}</a> | 
-      {% endfor %}
-      </p>
-    </div>
+    <form action="">
+      <h6>Jump to your department:</h6>
+        <select id="dept" onChange="scrollTo(this.value)">
+        {% for k,v in measures.items() | sort %}
+          <option value="#{{v[0]['dept_short']}}">{{k}}</option> | 
+        {% endfor %}
+        </select> 
+    </form>
   </div>
+
 
   <div class="container">
     {% for k,v in measures.items() | sort %}
@@ -44,8 +45,16 @@
         </tr>
         {% endfor %}
     </table>
+    <a class="top" href="#">back to top</a>
     {% endfor %}
   </div>
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>  
+<script type="text/javascript">
+    function scrollTo(target){
+        var targetPosition = $(target).offset().top;
+        $('html,body').animate({ scrollTop: targetPosition}, 'slow');
+    }
+</script>
 
 {% endblock %}

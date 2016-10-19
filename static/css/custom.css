@@ -1,3 +1,9 @@
+a.top {
+  font-variant: small-caps;
+  font-size: small;
+  float: right;
+}
+
 
 nav .title {
 	float: left;
