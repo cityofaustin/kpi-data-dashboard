@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-import requests
 import json
 
 
@@ -26,4 +25,4 @@ def participate():
 	
 
 if __name__ == "__main__":
-	app.run(debug=True)
+	app.run()
