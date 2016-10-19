@@ -176,7 +176,7 @@ for k,v in counts.items():
 
 print(counts)
 
-# update the stats object with the values from counts
+# update the survey stats object with the values from counts
 for k,v in stats.items():
     for i in v:
         try:
@@ -184,15 +184,38 @@ for k,v in stats.items():
             i['status'] = counts[i['id']]['status']           
         except:
             pass
-        
-
 
 # write updated stats to json so it can get picked up by routes.py:
 
 with open('data/survey_stats.json', 'w') as outfile:
     json.dump(stats, outfile, sort_keys=True, indent=4)
 
+# calculate dept-level stats for progress table
+
+dept_stats = {}
+for k,v in stats.items():
+    dept = k
+    num_measures = len(v)
+    verified = []
+    for i in v:
+        if i['status'] == 'verified':
+            verified.append(1)
+
+    num_verified = sum(verified)
+	
+    d = {dept: {'num_measures': num_measures, 'num_verified': num_verified, 'status': ''}}
+    dept_stats.update(d)
+
+for k,v in dept_stats.items():
+	if v['num_verified'] == v['num_measures']:
+		v['status'] = 'completed'
+	elif v['num_verified'] > 0:
+		v['status'] = 'in progress'
 
 
+# write updated dept stats to json so it can get picked up by routes.py:
+with open('data/dept_stats.json', 'w') as outfile:
+    json.dump(dept_stats, outfile, sort_keys=True, indent=4)
+    
 
 
