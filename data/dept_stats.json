@@ -1,0 +1,187 @@
+{
+    "Animal Services": {
+        "num_measures": 5,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Austin Code": {
+        "num_measures": 6,
+        "num_verified": 1,
+        "status": "in progress"
+    },
+    "Austin Convention Center": {
+        "num_measures": 5,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Austin Energy": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Austin Public Library": {
+        "num_measures": 7,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Austin Resource Recovery": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Austin Transportation": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Austin Water": {
+        "num_measures": 7,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Aviation": {
+        "num_measures": 4,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Building Services": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Communication and Technology Management": {
+        "num_measures": 6,
+        "num_verified": 1,
+        "status": "in progress"
+    },
+    "Communications and Public Information": {
+        "num_measures": 5,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Development Services": {
+        "num_measures": 3,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Economic Development": {
+        "num_measures": 4,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Emergency Medical Services": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Financial Services": {
+        "num_measures": 13,
+        "num_verified": 1,
+        "status": "in progress"
+    },
+    "Fire": {
+        "num_measures": 8,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Fleet Services": {
+        "num_measures": 5,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Government Relations": {
+        "num_measures": 1,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Health and Human Services": {
+        "num_measures": 9,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Human Resources": {
+        "num_measures": 7,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Labor Relations": {
+        "num_measures": 1,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Law": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Management Services": {
+        "num_measures": 8,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Municipal Court": {
+        "num_measures": 8,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Neighborhood Housing and Community Development": {
+        "num_measures": 4,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Office of Real Estate Services": {
+        "num_measures": 2,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Office of the City Auditor": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Office of the City Clerk": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Office of the Medical Director": {
+        "num_measures": 2,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Parks and Recreation": {
+        "num_measures": 5,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Planning and Zoning": {
+        "num_measures": 6,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Police": {
+        "num_measures": 7,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Public Works": {
+        "num_measures": 8,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Small and Minority Business Resources": {
+        "num_measures": 7,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Telecommunications and Regulatory Affairs": {
+        "num_measures": 3,
+        "num_verified": 0,
+        "status": ""
+    },
+    "Watershed Protection": {
+        "num_measures": 7,
+        "num_verified": 0,
+        "status": ""
+    }
+}

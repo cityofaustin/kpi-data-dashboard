@@ -19,6 +19,7 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/skeleton.css') }}">
 
@@ -31,6 +32,20 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <nav class="navbar">
+    <div class="container">
+    <h5 class="navbar-item"><a href="{{ url_for('index') }}" class="title navbar-link">KPI Data Assessment</a></h5>
+    
+    <ul class="navbar-list">
+      <li class="navbar-item"><a class="navbar-link" href="{{ url_for('index') }}">About</a></li>
+      <li class="navbar-item"><a class="navbar-link" href="{{ url_for('progress') }}">Progress report</a></li>
+      <li class="navbar-item"><a class="navbar-link" href="{{ url_for('participate') }}">Take surveys</a></li>
+      <li class="navbar-item"><a class="navbar-link"  href="{{ url_for('help') }}">Help!</a></li>
+    </ul>
+    </div><!--container-->
+  </nav>
+
   {% block content %}
   {% endblock %}
 
