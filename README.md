@@ -11,6 +11,4 @@ In a nutshell, we need to:
 - publish a dashboard to track how many surveys are done
 - publish the data for everyone to study
 
-So this repo has code to help us do that stuff.
-
-more info later =)
+So this repo has code to help us do that stuff
