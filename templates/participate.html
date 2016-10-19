@@ -4,8 +4,13 @@
   <div class="container">
     <div class="row">
       <div class="column" style="margin-top: 10%">
-        <h2>KPI Data Surveys</h2>
-        <p><a style="color: red;">(Not set up yet!)</a> Completed surveys are updated every 15 mins. <br/><a style="color: red;"></a> Verifications will be entered manually by concierge.</p>
+        <h3>Have you been <em>chosen</em>... <br/> to take the KPI surveys?</h3>
+        <h5>Here are your steps:</h5>
+        <ol>
+          <li>First thing to do...</li>
+          <li>Second thing to do...</li>
+          <li>Maybe some other things...</li>
+        </ol>
       </div>
     </div>
   </div>
@@ -28,14 +33,12 @@
         <tr>
           <th>id</th>
           <th>survey</th>
-          <th># received</th>
           <th>status</th>
         </tr>
         {% for j in v %}
         <tr>
           <td>{{j['id']}}</td>
           <td style="width: 70%;"><a href="{{j['url']}}">{{j['MEASURE_NAME']}}</a></td>
-          <td>{{j['num_received']}}</td>
           <td>{{j['status']}}</td>
         </tr>
         {% endfor %}
