@@ -37,7 +37,7 @@ def get_survey_status():
     		i['status'] = survey_status[i['id']]
 
     # write the updated object back json for safe keeping and provision to routes.py
-    with open('static/data/survey_stats.json', 'w') as outfile:
+    with open('../static/data/survey_stats.json', 'w') as outfile:
         json.dump(survey_stats, outfile, sort_keys=True, indent=4)
 
 
