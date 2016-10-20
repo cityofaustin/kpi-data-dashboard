@@ -1,16 +1,17 @@
 import requests
-import configparser
+# import configparser
 import json
 import os
 # import logger
 
 # logging.getLogger()
 
-config = configparser.ConfigParser()
-config.read('secrets.txt')
-airtable_api_key = config['airtable']['api_key']
-form_id = config['typeform.com']['form_id']
-typeform_api_key = config['typeform.com']['api_key']
+# config = configparser.ConfigParser()
+# config.read('secrets.txt')
+# airtable_api_key = config['airtable']['api_key']
+
+airtable_api_key = os.environ['AIRTABLE_API_KEY']
+
 
 def get_survey_status():
     config = configparser.ConfigParser()
