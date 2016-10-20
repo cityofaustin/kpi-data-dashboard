@@ -24,10 +24,10 @@ def process_typeform_responses():
     all_responses = d['responses']
     
     # write to json for safe keeping
-    with open('data/tmp/responses.tmp.json', 'w') as f:
+    with open('static/data/tmp/responses.tmp.json', 'w') as f:
         j = json.dumps(d)
         f.write(j)
-    os.rename('data/tmp/responses.tmp.json', 'data/tmp/responses.json')
+    os.rename('static/data/tmp/responses.tmp.json', 'static/data/tmp/responses.json')
     
     print(str(len(d['responses'])) + ' responses fetched and written to /data/tmp/responses.json') # get logger to do this
 
@@ -49,13 +49,13 @@ def process_typeform_responses():
             pass
 
     # write completed responses to json for safekeeping
-    with open('data/completed_responses.json', 'w') as outfile:
+    with open('static/data/completed_responses.json', 'w') as outfile:
         json.dump(responses_completed, outfile, sort_keys=True, indent=4)
 
     print(str(len(responses_completed)) + ' responses identified and written to data/completed_responses.json') # use logger for this
 
     # read in most recent list of tokens already published to airtable
-    with open('data/published_tokens.json', 'r') as f:
+    with open('static/data/published_tokens.json', 'r') as f:
         t = json.loads(f.read())
 
     responses_processed = []
@@ -123,7 +123,7 @@ def process_typeform_responses():
         print(r) # need to add error handling here
 
     # update the token list if posts are successful
-    with open('data/published_tokens.json', 'w') as outfile:
+    with open('static/data/published_tokens.json', 'w') as outfile:
         json.dump(t, outfile, sort_keys=True, indent=4)
 
 
