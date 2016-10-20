@@ -10,13 +10,11 @@ import os
 # config.read('secrets.txt')
 # airtable_api_key = config['airtable']['api_key']
 
-airtable_api_key = os.environ['AIRTABLE_API_KEY']
-
-
 def get_survey_status():
-    config = configparser.ConfigParser()
-    config.read('secrets.txt')
-    airtable_api_key = config['airtable']['api_key']
+    # config = configparser.ConfigParser()
+    # config.read('secrets.txt')
+    # airtable_api_key = config['airtable']['api_key']
+    airtable_api_key = os.environ['AIRTABLE_API_KEY']
     survey_status = {}
     groups = ['1', '2', '3']
     for i in groups:
