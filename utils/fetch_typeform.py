@@ -18,7 +18,8 @@ def process_typeform_responses():
 
     form_id = os.environ['TYPEFORM_FORM_ID']
     typeform_api_key = os.environ['TYPEFORM_API_KEY']
-    
+    airtable_api_key = os.environ['AIRTABLE_API_KEY']
+
     # config = configparser.ConfigParser()
     # config.read('secrets.txt')
     # form_id = config['typeform.com']['form_id']
