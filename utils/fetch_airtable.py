@@ -55,7 +55,7 @@ def get_survey_status():
         d = {dept: {'num_measures': num_measures, 'num_verified': num_verified, 'status': ''}}
         dept_stats.update(d)
 
-    print(str(len(dept_stats) + ' records added to new dept_stats object'))
+    print(str(len(dept_stats)) + ' records added to new dept_stats object')
 
     for k,v in dept_stats.items():
         if v['num_verified'] == v['num_measures']:
