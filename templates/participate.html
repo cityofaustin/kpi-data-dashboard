@@ -4,21 +4,28 @@
   <div class="container">
     <div class="row">
       <div class="column" style="margin-top: 10%">
-      <p style="color: red;">Help write the content for this page by contributing <a target='_blank' href="https://github.com/cityofaustin/kpi-data-dashboard/issues/13">here</a>.</p>
-        <h3>Have you been <em>chosen</em>... <br/> to take the KPI surveys?</h3>
-        <h5>Here are your steps:</h5>
-        <ol>
-          <li>First thing to do...</li>
-          <li>Second thing to do...</li>
-          <li>Maybe some other things...</li>
-        </ol>
-      </div>
-    </div>
-  </div>
+      <!-- <p style="color: red;">Help write the content for this page by contributing <a target='_blank' href="https://github.com/cityofaustin/kpi-data-dashboard/issues/13">here</a>.</p> -->
+      <h3>Take KPI surveys for your department</h3>
+        <div class="column" style="margin-top: 2%">
+          <h5>Things survey takers should know:</h5>
+          <ul>
+            <li>You should be an open data liaison or designated by an open data liaison to participate.</li>
+            <li>Here's what happens when you take a survey:</li>
+            <ol>
+              <li>After it's submitted, the survey goes to <a href="">your department's concierge</a> for review.</li>
+              <li>As the concierge folks recognize a new survey arrival, the status on this page will update to "received".</li>
+              <li>Once your concierge has confirmed with you that you're happy with the response you've submitted, the status on this page will update to "verified."</li>
+            </ol>
+            <li>It's okay to take the same survey more than once. Just make sure your concierge knows which response your department wants to verify.</li>
+          </ul>
+        </div><!--column-->
+      </div><!--column-->
+    </div><!--row-->
+  </div><!--container-->
 
-  <div class="container">
+  <div class="container" style="margin-top: 2%">
     <form action="">
-      <h6>Jump to your department:</h6>
+      <h6><b>Jump to your department:</b></h6>
         <select id="dept" onChange="scrollTo(this.value)">
         {% for k,v in measures.items() | sort %}
           <option value="#{{v[0]['dept_short']}}">{{k}}</option> | 
@@ -49,12 +56,12 @@
     {% endfor %}
   </div>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>  
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>  
 <script type="text/javascript">
     function scrollTo(target){
         var targetPosition = $(target).offset().top;
         $('html,body').animate({ scrollTop: targetPosition}, 'slow');
     }
-</script>
+</script> -->
 
 {% endblock %}

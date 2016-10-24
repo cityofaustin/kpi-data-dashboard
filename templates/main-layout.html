@@ -53,5 +53,12 @@
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.1.1.min.js') }}"></script>  
+  <script type="text/javascript">
+    function scrollTo(target){
+        var targetPosition = $(target).offset().top;
+        $('html,body').animate({ scrollTop: targetPosition}, 'slow');
+    }
+</script>
 </body>
 </html>

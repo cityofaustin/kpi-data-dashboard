@@ -16,7 +16,8 @@ def progress():
 
 @app.route("/help")
 def help():
-	return render_template('help.html')
+    with open('data/concierge_list.json', 'r') as f:
+        return render_template('help.html', contacts=json.loads(f.read()))
 
 @app.route("/participate")
 def participate():
@@ -24,4 +25,4 @@ def participate():
 		return render_template('participate.html', measures=json.loads(f.read()))
 
 if __name__ == "__main__":
-	app.run()
+	app.run(debug=True)

@@ -4,15 +4,26 @@
   <div class="container">
     <div class="row">
       <div class="one-half column" style="margin-top: 10%">
-      <p style="color: red;">Help write the content for this page by contributing <a target='_blank' href="https://github.com/cityofaustin/kpi-data-dashboard/issues/15">here</a>.</p>
+ <!--      <p style="color: red;">Help write the content for this page by contributing <a target='_blank' href="https://github.com/cityofaustin/kpi-data-dashboard/issues/15">here</a>.</p> -->
         <h3>Get help</h3>
-        <p>content goes here</p>
+        <p>If you are a City staffer and have questions, please don't hesitate to contact the human who's been assigned to your department: </p>
       </div>
     </div>
   </div>
 
   <div class="container">
-    <p>and more content goes here</p>
+      <table style="width: 60%;">
+        <tr>
+          <th>dept</th>
+          <th>contact</th>
+        </tr>
+        {% for k,v in contacts.items() | sort %}
+        <tr>
+          <td>{{k}}</td>
+          <td><a href="mailto://{{v}}">{{v}}</a></td>
+        </tr>
+        {% endfor %}
+    </table>
   </div>
 
 {% endblock %}
