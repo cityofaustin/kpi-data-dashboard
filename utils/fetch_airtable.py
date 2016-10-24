@@ -49,11 +49,12 @@ def get_survey_status():
         for i in v:
             if i['status'] == 'verified':
                 verified.append(1)
-
-        num_verified = sum(verified)
+            num_verified = sum(verified)
     
         d = {dept: {'num_measures': num_measures, 'num_verified': num_verified, 'status': ''}}
         dept_stats.update(d)
+
+    print(dept_stats)
 
     print(str(len(dept_stats)) + ' records added to new dept_stats object')
 
