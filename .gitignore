@@ -6,3 +6,4 @@ venv/lib/python3.4
 **/.ipynb
 secrets.txt
 hailey_notes.md
+local_fetch_airtable.py

@@ -39,6 +39,32 @@ def get_survey_status():
     with open('static/data/survey_stats.json', 'w') as outfile:
         json.dump(survey_stats, outfile, sort_keys=True, indent=4)
 
+    # calculate dept-level stats for progress table
+    dept_stats = {}
+    for k,v in survey_stats.items():
+        dept = k
+        num_measures = len(v)
+        verified = []
+        for i in v:
+            if i['status'] == 'verified':
+                verified.append(1)
+
+        num_verified = sum(verified)
+    
+        d = {dept: {'num_measures': num_measures, 'num_verified': num_verified, 'status': ''}}
+        dept_stats.update(d)
+
+    for k,v in dept_stats.items():
+        if v['num_verified'] == v['num_measures']:
+            v['status'] = 'completed'
+        elif v['num_verified'] > 0:
+            v['status'] = 'in progress'
+
+
+    # write updated dept stats to json so it can get picked up by routes.py:
+    with open('static/data/dept_stats.json', 'w') as outfile:
+        json.dump(dept_stats, outfile, sort_keys=True, indent=4)
+
 
 if __name__ == '__main__':
     get_survey_status()
