@@ -454,5 +454,26 @@
         "textfield_31442505": "Sarah Cronin",
         "textfield_31442528": "IT Business Systems Analyst",
         "token": "3c9e1455a527492209d29039249086bc"
+    },
+    {
+        "contact": "hailey.pate@austintexas.gov",
+        "dept": "Communication and Technology Management",
+        "email_31442534": "anne.whitlock@austintexas.gov",
+        "list_29849202_choice": "sharepoint list",
+        "list_29849901_choice": "yes",
+        "list_31434167_choice": "City staff in my department",
+        "list_31434529_choice": "digital tool",
+        "list_31439434_choice": "weekly",
+        "list_31441558_choice": "we publish it, but not on the data portal",
+        "m_id": "8397",
+        "network_id": "6c8afbda38",
+        "started": "2016-10-20 19:45:14",
+        "submitted": "2016-10-20 20:05:30",
+        "textarea_31444284": "I was previously in the Project management group.  The best person to answer the questions regarding the data is Robert Pellette.  He is responsible for collecting from all project managers for all active projects on a weekly basis.",
+        "textfield_31442505": "Anne Whitlock",
+        "textfield_31442528": "IT BSA Senior",
+        "textfield_32615888": "Business Application Implementation Support",
+        "token": "6e607f88289fad0b69018d6c86e28543",
+        "website_31441577": "http://cityofaustin.sharepoint.com/sites/pwadev/Projects.aspx"
     }
 ]

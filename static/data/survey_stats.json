@@ -248,7 +248,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "8043",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=8043&m_name=Internet%20sessions%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -257,7 +257,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6871",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6871&m_name=Library%20program%20attendance%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -266,7 +266,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2311",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2311&m_name=Citizen%20satisfaction%20with%20quality%20of%20city%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
         }
     ],
