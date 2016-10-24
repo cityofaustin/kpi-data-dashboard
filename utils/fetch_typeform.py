@@ -1,29 +1,24 @@
 import requests
-# import configparser
+import configparser
 import json
 import os
 # import logger
 
 # logging.getLogger()
 
-# config = configparser.ConfigParser()
-# config.read('secrets.txt')
-# airtable_api_key = config['airtable']['api_key']
-# form_id = config['typeform.com']['form_id']
-# typeform_api_key = config['typeform.com']['api_key']
-
 
 def process_typeform_responses():
     # call typeform api and get all responses
 
-    form_id = os.environ['TYPEFORM_FORM_ID']
-    typeform_api_key = os.environ['TYPEFORM_API_KEY']
-    airtable_api_key = os.environ['AIRTABLE_API_KEY']
+    # form_id = os.environ['TYPEFORM_FORM_ID']
+    # typeform_api_key = os.environ['TYPEFORM_API_KEY']
+    # airtable_api_key = os.environ['AIRTABLE_API_KEY']
 
-    # config = configparser.ConfigParser()
-    # config.read('secrets.txt')
-    # form_id = config['typeform.com']['form_id']
-    # typeform_api_key = config['typeform.com']['api_key']
+    config = configparser.ConfigParser()
+    config.read('secrets.txt')
+    form_id = config['typeform.com']['form_id']
+    typeform_api_key = config['typeform.com']['api_key']
+    airtable_api_key = config['airtable']['api_key']
     r = requests.get('https://api.typeform.com/v1/form/'+form_id+'?key='+typeform_api_key)
     d = r.json()
     all_responses = d['responses']
@@ -63,11 +58,17 @@ def process_typeform_responses():
     with open('static/data/published_tokens.json', 'r') as f:
         t = json.loads(f.read())
 
+    print(str(len(t['tokens'])) + ' tokens already in airtable')
+
     responses_processed = []
+    c = 0
     for i in responses_completed:
-        if i['token'] not in t:
+        if i['token'] not in t['tokens']:
             responses_processed.append(i)
             t['tokens'].append(i['token'])
+            c = c+1
+
+    print('discovered ' + str(c) + ' new tokens')
 
     print(str(len(responses_processed)) + " responses to send to airtable") # use logger for this
 
@@ -130,8 +131,6 @@ def process_typeform_responses():
     # update the token list if posts are successful
     with open('static/data/published_tokens.json', 'w') as outfile:
         json.dump(t, outfile, sort_keys=True, indent=4)
-
-
 
 if __name__ == '__main__':
     process_typeform_responses()

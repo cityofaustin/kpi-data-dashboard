@@ -1,20 +1,16 @@
 import requests
-# import configparser
+import configparser
 import json
 import os
 # import logger
 
 # logging.getLogger()
 
-# config = configparser.ConfigParser()
-# config.read('secrets.txt')
-# airtable_api_key = config['airtable']['api_key']
-
 def get_survey_status():
-    # config = configparser.ConfigParser()
-    # config.read('secrets.txt')
-    # airtable_api_key = config['airtable']['api_key']
-    airtable_api_key = os.environ['AIRTABLE_API_KEY']
+    config = configparser.ConfigParser()
+    config.read('secrets.txt')
+    airtable_api_key = config['airtable']['api_key']
+    # airtable_api_key = os.environ['AIRTABLE_API_KEY']
     survey_status = {}
     groups = ['1', '2', '3']
     for i in groups:

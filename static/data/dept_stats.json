@@ -1,13 +1,13 @@
 {
     "Animal Services": {
         "num_measures": 5,
-        "num_verified": 1,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Code": {
         "num_measures": 6,
-        "num_verified": 1,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Convention Center": {
         "num_measures": 5,
@@ -21,8 +21,8 @@
     },
     "Austin Public Library": {
         "num_measures": 7,
-        "num_verified": 1,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Resource Recovery": {
         "num_measures": 6,
@@ -31,8 +31,8 @@
     },
     "Austin Transportation": {
         "num_measures": 6,
-        "num_verified": 1,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Water": {
         "num_measures": 7,
@@ -51,8 +51,8 @@
     },
     "Communication and Technology Management": {
         "num_measures": 6,
-        "num_verified": 2,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Communications and Public Information": {
         "num_measures": 5,
