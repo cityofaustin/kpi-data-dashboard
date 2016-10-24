@@ -24,4 +24,4 @@ def participate():
 		return render_template('participate.html', measures=json.loads(f.read()))
 
 if __name__ == "__main__":
-	app.run(debug=True)
+	app.run()
