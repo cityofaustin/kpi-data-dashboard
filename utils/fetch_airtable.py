@@ -27,7 +27,7 @@ def get_survey_status():
             survey_status.update(x)
 
     # read in the previous measure_stats already published to airtable
-    with open('static/data/survey_stats.json', 'r') as f:
+    with open('../static/data/survey_stats.json', 'r') as f:
         survey_stats = json.loads(f.read())
 
     # update the measure_stats with the most recent status
@@ -36,7 +36,7 @@ def get_survey_status():
     		i['status'] = survey_status[i['id']]
 
     # write the updated object back json for safe keeping and provision to routes.py
-    with open('static/data/survey_stats.json', 'w') as outfile:
+    with open('../static/data/survey_stats.json', 'w') as outfile:
         json.dump(survey_stats, outfile, sort_keys=True, indent=4)
 
     # calculate dept-level stats for progress table
@@ -62,8 +62,8 @@ def get_survey_status():
 
 
     # write updated dept stats to json so it can get picked up by routes.py:
-    with open('static/data/dept_stats.json', 'w') as outfile:
-        json.dump(dept_stats, outfile, sort_keys=True, indent=4)
+    with open('../static/data/dept_stats.json', 'w') as outfile:
+        json.dump(dept_stats, outfile, sort_keys=True, indent=4)s
 
 
 if __name__ == '__main__':
