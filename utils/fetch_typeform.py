@@ -1,24 +1,28 @@
 import requests
-import configparser
+# import configparser
 import json
 import os
 # import logger
 
 # logging.getLogger()
 
-config = configparser.ConfigParser()
-config.read('secrets.txt')
-airtable_api_key = config['airtable']['api_key']
-form_id = config['typeform.com']['form_id']
-typeform_api_key = config['typeform.com']['api_key']
+# config = configparser.ConfigParser()
+# config.read('secrets.txt')
+# airtable_api_key = config['airtable']['api_key']
+# form_id = config['typeform.com']['form_id']
+# typeform_api_key = config['typeform.com']['api_key']
 
 
 def process_typeform_responses():
     # call typeform api and get all responses
-    config = configparser.ConfigParser()
-    config.read('secrets.txt')
-    form_id = config['typeform.com']['form_id']
-    typeform_api_key = config['typeform.com']['api_key']
+
+    form_id = os.environ['TYPEFORM_FORM_ID']
+    typeform_api_key = os.environ['TYPEFORM_API_KEY']
+    
+    # config = configparser.ConfigParser()
+    # config.read('secrets.txt')
+    # form_id = config['typeform.com']['form_id']
+    # typeform_api_key = config['typeform.com']['api_key']
     r = requests.get('https://api.typeform.com/v1/form/'+form_id+'?key='+typeform_api_key)
     d = r.json()
     all_responses = d['responses']
