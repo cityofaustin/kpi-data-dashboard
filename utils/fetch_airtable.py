@@ -38,6 +38,7 @@ def get_survey_status():
     # write the updated object back json for safe keeping and provision to routes.py
     with open('static/data/survey_stats.json', 'w') as outfile:
         json.dump(survey_stats, outfile, sort_keys=True, indent=4)
+    print('wrote updated survey stats file.')
 
     # calculate dept-level stats for progress table
     dept_stats = {}
@@ -54,16 +55,21 @@ def get_survey_status():
         d = {dept: {'num_measures': num_measures, 'num_verified': num_verified, 'status': ''}}
         dept_stats.update(d)
 
+    print(str(len(dept_stats) + ' records added to new dept_stats object'))
+
     for k,v in dept_stats.items():
         if v['num_verified'] == v['num_measures']:
             v['status'] = 'completed'
+            print('another dept marked completed')
         elif v['num_verified'] > 0:
             v['status'] = 'in progress'
+            print('another dept marked in progress')
 
 
     # write updated dept stats to json so it can get picked up by routes.py:
     with open('static/data/dept_stats.json', 'w') as outfile:
         json.dump(dept_stats, outfile, sort_keys=True, indent=4)
+        print('dept stats written to json')
 
 
 if __name__ == '__main__':
