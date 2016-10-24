@@ -66,6 +66,8 @@ def get_survey_status():
             v['status'] = 'in progress'
             print('another dept marked in progress')
 
+    print(dept_stats)
+
 
     # write updated dept stats to json so it can get picked up by routes.py:
     with open('static/data/dept_stats.json', 'w') as outfile:
