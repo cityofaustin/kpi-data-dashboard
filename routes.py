@@ -22,7 +22,6 @@ def help():
 def participate():
 	with open('static/data/survey_stats.json', 'r') as f:
 		return render_template('participate.html', measures=json.loads(f.read()))
-	
 
 if __name__ == "__main__":
-	app.run()
+	app.run(debug=True)
