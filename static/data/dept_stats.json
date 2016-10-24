@@ -20,9 +20,9 @@
         "status": ""
     },
     "Austin Public Library": {
-        "num_measures": 99,
-        "num_verified": 0,
-        "status": ""
+        "num_measures": 7,
+        "num_verified": 1,
+        "status": "in progress"
     },
     "Austin Resource Recovery": {
         "num_measures": 6,
