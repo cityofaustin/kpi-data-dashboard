@@ -63,7 +63,7 @@ def get_survey_status():
 
     # write updated dept stats to json so it can get picked up by routes.py:
     with open('../static/data/dept_stats.json', 'w') as outfile:
-        json.dump(dept_stats, outfile, sort_keys=True, indent=4)s
+        json.dump(dept_stats, outfile, sort_keys=True, indent=4)
 
 
 if __name__ == '__main__':
