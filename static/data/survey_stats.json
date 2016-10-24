@@ -33,7 +33,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8409",
-            "status": "received",
+            "status": "verified",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8409&m_name=Percent%20of%20shelter%20live%20outcomes&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -230,7 +230,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6869",
-            "status": "received",
+            "status": "verified",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6869&m_name=Circulation%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -248,7 +248,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "8043",
-            "status": "verified",
+            "status": "received",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=8043&m_name=Internet%20sessions%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -360,7 +360,7 @@
             "dept": "Austin Transportation",
             "dept_short": "TRA",
             "id": "6913",
-            "status": "received",
+            "status": "verified",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=6913&m_name=Percent%20of%20signs%20that%20are%20in%20fair%20to%20excellent%20condition&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -584,7 +584,7 @@
             "dept": "Communication and Technology Management",
             "dept_short": "TEC",
             "id": "8399",
-            "status": "received",
+            "status": "verified",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=8399&m_name=Number%20of%20Projects%20in%20the%20Portfolio%20for%20CTM&contact=hailey.pate%40austintexas.gov"
         },
         {

@@ -1,8 +1,8 @@
 {
     "Animal Services": {
         "num_measures": 5,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 1,
+        "status": "in progress"
     },
     "Austin Code": {
         "num_measures": 6,
@@ -20,7 +20,7 @@
         "status": ""
     },
     "Austin Public Library": {
-        "num_measures": 7,
+        "num_measures": 99,
         "num_verified": 0,
         "status": ""
     },
@@ -31,8 +31,8 @@
     },
     "Austin Transportation": {
         "num_measures": 6,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 1,
+        "status": "in progress"
     },
     "Austin Water": {
         "num_measures": 7,
@@ -51,7 +51,7 @@
     },
     "Communication and Technology Management": {
         "num_measures": 6,
-        "num_verified": 1,
+        "num_verified": 2,
         "status": "in progress"
     },
     "Communications and Public Information": {
