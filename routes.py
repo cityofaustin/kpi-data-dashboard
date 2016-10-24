@@ -11,7 +11,7 @@ def index():
 
 @app.route("/progress")
 def progress():
-	with open('data/dept_stats.json', 'r') as f:
+	with open('static/data/dept_stats.json', 'r') as f:
 		return render_template('progress.html', depts=json.loads(f.read()))
 
 @app.route("/help")
@@ -20,9 +20,8 @@ def help():
 
 @app.route("/participate")
 def participate():
-	with open('data/survey_stats.json', 'r') as f:
+	with open('static/data/survey_stats.json', 'r') as f:
 		return render_template('participate.html', measures=json.loads(f.read()))
-	
 
 if __name__ == "__main__":
 	app.run()

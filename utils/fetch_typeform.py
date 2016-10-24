@@ -6,65 +6,34 @@ import os
 
 # logging.getLogger()
 
-config = configparser.ConfigParser()
-config.read('secrets.txt')
-airtable_api_key = config['airtable']['api_key']
-form_id = config['typeform.com']['form_id']
-typeform_api_key = config['typeform.com']['api_key']
 
-def get_survey_status():
-    config = configparser.ConfigParser()
-    config.read('secrets.txt')
-    airtable_api_key = config['airtable']['api_key']
-    survey_status = {}
-    groups = ['1', '2', '3']
-    for i in groups:
-        url = 'https://api.airtable.com/v0/apprncjzrsX5xkKCA/measures%20list?view=group' + i
-        headers = {'authorization': airtable_api_key}
-        r = requests.get(url, headers=headers, verify=False)
-        j = r.json()
-        for d in j['records']:
-            x = {d['fields']['measure_id']: d['fields']['survey_status']}
-            survey_status.update(x)
+def process_typeform_responses():
+    # call typeform api and get all responses
 
-    # read in the previous measure_stats already published to airtable
-    with open('data/survey_stats.json', 'r') as f:
-        survey_stats = json.loads(f.read())
+    # form_id = os.environ['TYPEFORM_FORM_ID']
+    # typeform_api_key = os.environ['TYPEFORM_API_KEY']
+    # airtable_api_key = os.environ['AIRTABLE_API_KEY']
 
-    # update the measure_stats with the most recent status
-    for k,v in survey_stats.items():
-    	for i in v:
-    		i['status'] = survey_status[i['id']]
-
-    # write the updated object back json for safe keeping and provision to routes.py
-    with open('data/survey_stats.json', 'w') as outfile:
-        json.dump(survey_stats, outfile, sort_keys=True, indent=4)
-
-    return survey_stats
-
-def get_typeform_responses():
     config = configparser.ConfigParser()
     config.read('secrets.txt')
     form_id = config['typeform.com']['form_id']
     typeform_api_key = config['typeform.com']['api_key']
+    airtable_api_key = config['airtable']['api_key']
     r = requests.get('https://api.typeform.com/v1/form/'+form_id+'?key='+typeform_api_key)
     d = r.json()
     all_responses = d['responses']
     
     # write to json for safe keeping
-    with open('data/tmp/responses.tmp.json', 'w') as f:
+    with open('static/data/tmp/responses.tmp.json', 'w') as f:
         j = json.dumps(d)
         f.write(j)
-    os.rename('data/tmp/responses.tmp.json', 'data/tmp/responses.json')
+    os.rename('static/data/tmp/responses.tmp.json', 'static/data/tmp/responses.json')
     
     print(str(len(d['responses'])) + ' responses fetched and written to /data/tmp/responses.json') # get logger to do this
+
     
-    return all_responses
+    # process the responses we just got...
 
-
-
-def process_typeform_responses(all_responses):
-    
     # filter out responses that are incomplete or don't have a valid dept name
     dept_filter = ['Austin Energy', 'Animal Services', 'Austin Transportation', 'Aviation', 'Building Services', 'Office of the City Clerk', 'Austin Code', 'Austin Convention Center', 'Communication and Technology Management', 'Development Services', 'Economic Development', 'Emergency Medical Services', 'Fire', 'Fleet Services', 'Financial Services', 'Government Relations', 'Health and Human Services', 'Human Resources', 'Law', 'Austin Public Library', 'Labor Relations', 'Municipal Court', 'Management Services', 'Neighborhood Housing and Community Development', 'Office of the City Auditor', 'Office of the Medical Director', 'Office of Real Estate Services', 'Planning and Zoning', 'Communications and Public Information', 'Police', 'Parks and Recreation', 'Public Works', 'Small and Minority Business Resources', 'Austin Resource Recovery', 'Telecommunications and Regulatory Affairs', 'Watershed Protection', 'Austin Water']
 
@@ -72,35 +41,40 @@ def process_typeform_responses(all_responses):
     c = -1
     for i in all_responses:
         if i['completed'] == '1' and i['hidden']['dept'] in dept_filter and len(i['answers']) != 0:
-            w = {}
-            c = c + 1
             w = {'token': i['token'], 'contact': i['hidden']['contact'], 'm_id': i['hidden']['m_id'], 'dept': i['hidden']['dept'], 'started': i['metadata']['date_land'], 'submitted': i['metadata']['date_submit'], 'network_id': i['metadata']['network_id']}
             for k,v in i['answers'].items():
                 w.update({k: v})
-        responses_completed.append(w)
+            responses_completed.append(w)
+        else:
+            pass
 
     # write completed responses to json for safekeeping
-    with open('data/completed_responses.json', 'w') as outfile:
+    with open('static/data/completed_responses.json', 'w') as outfile:
         json.dump(responses_completed, outfile, sort_keys=True, indent=4)
 
-    print(str(c) + ' responses identified and written to data/completed_responses.json') # use logger for this
+    print(str(len(responses_completed)) + ' responses identified and written to data/completed_responses.json') # use logger for this
 
     # read in most recent list of tokens already published to airtable
-    with open('data/published_tokens.json', 'r') as f:
+    with open('static/data/published_tokens.json', 'r') as f:
         t = json.loads(f.read())
 
+    print(str(len(t['tokens'])) + ' tokens already in airtable')
+
     responses_processed = []
+    c = 0
     for i in responses_completed:
-        if i['token'] not in t:
+        if i['token'] not in t['tokens']:
             responses_processed.append(i)
-            t.append(i['token'])
+            t['tokens'].append(i['token'])
+            c = c+1
+
+    print('discovered ' + str(c) + ' new tokens')
 
     print(str(len(responses_processed)) + " responses to send to airtable") # use logger for this
 
-    return responses_processed, t
 
+    # post the responses to airtable...
 
-def post_responses_to_airtable(responses_processed, t):
     # prep the responses to go to airtable by giving them more readable keys
     answer_map = {'token': 'token', 
     'list_29849901_choice': 'Does your department collect and analyze the data needed for this measure?', 
@@ -155,12 +129,9 @@ def post_responses_to_airtable(responses_processed, t):
         print(r) # need to add error handling here
 
     # update the token list if posts are successful
-    with open('data/published_tokens.json', 'w') as outfile:
+    with open('static/data/published_tokens.json', 'w') as outfile:
         json.dump(t, outfile, sort_keys=True, indent=4)
 
-
-
 if __name__ == '__main__':
-    # get_survey_status()
-    get_typeform_responses()
     process_typeform_responses()
+    

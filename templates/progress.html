@@ -18,7 +18,7 @@
         <th># completed</th>
         <th>status</th>
       </tr>
-      {% for k,v in depts.items() %}
+      {% for k,v in depts|dictsort %}
       <tr>
         <td>{{k}}</td>
         <td>{{v['num_measures']}}</td>
