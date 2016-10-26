@@ -4429,5 +4429,26 @@
         "id": "6561",
         "measure_for_url": "Percent%20Invested%20in%20Capital%20Improvements%20Program%20%28CIP%29%20Projects%20compared%20to%20Planned%20Spending%20via%20the%20CIP%20Budget",
         "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=6561&m_name=Percent%20Invested%20in%20Capital%20Improvements%20Program%20%28CIP%29%20Projects%20compared%20to%20Planned%20Spending%20via%20the%20CIP%20Budget&contact=david.andersen%40austintexas.gov"
+    },
+    {
+        "ACTIVITY_NAME": "Departmental Support Services",
+        "AGENCY": "9300",
+        "CFY": "2016",
+        "DATA_SOURCE": "Austin-Travis County EMS conducts customer call back surveys on a regular basis, reaching out to those patients who were transported via ambulance to the hospital. The survey focuses on a customer satisfaction rating of 1 to 5, with 5 being the highest level of satisfaction possible. Customers who were transported are called within 72 hours after transport and given the opportunity to let us know how satisfied they are with the care they received during transpor",
+        "DEPT_CD": "EMS",
+        "DIV_CD": "9MGT",
+        "FREQUENCY_NAME": "Monthly",
+        "GP_CD": "9ADM",
+        "KEY_PERFORMANCE": "1",
+        "MEASURE_ID": "8231",
+        "MEASURE_NAME": "Percentage of patients who are satisfied or very satisfied with EMS customer service",
+        "MEASURE_TYPE_NAME": "Result",
+        "PROGRAM_NAME": "Support Services",
+        "contact": "david.andersen@austintexas.gov",
+        "dept": "Emergency Medical Services",
+        "dept_short": "EMS",
+        "id": "8231",
+        "measure_for_url": "Percentage%20of%20patients%20who%20are%20satisfied%20or%20very%20satisfied%20with%20EMS%20customer%20service",
+        "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8231&m_name=Percentage%20of%20patients%20who%20are%20satisfied%20or%20very%20satisfied%20with%20EMS%20customer%20service&contact=david.andersen%40austintexas.gov"
     }
 ]
