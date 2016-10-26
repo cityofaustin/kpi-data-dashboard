@@ -16,7 +16,7 @@ def progress():
 
 @app.route("/help")
 def help():
-    with open('data/concierge_list.json', 'r') as f:
+    with open('static/data/concierge_list.json', 'r') as f:
         return render_template('help.html', contacts=json.loads(f.read()))
 
 @app.route("/participate")
