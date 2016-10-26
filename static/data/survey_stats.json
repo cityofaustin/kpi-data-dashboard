@@ -772,7 +772,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "8231",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8231&m_name=Percentage%20of%20patients%20who%20are%20satisfied%20or%20very%20satisfied%20with%20EMS%20customer%20service&contact=david.andersen%40austintexas.gov"
         }
     ],

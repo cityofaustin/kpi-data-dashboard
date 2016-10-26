@@ -71,8 +71,8 @@
     },
     "Emergency Medical Services": {
         "num_measures": 7,
-        "num_verified": 6,
-        "status": "in progress"
+        "num_verified": 7,
+        "status": "completed"
     },
     "Financial Services": {
         "num_measures": 13,
