@@ -718,7 +718,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "1400",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1400&m_name=EMS%20Communications%20Center%20average%20call%20processing%20time%20%28in%20seconds%29&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -727,7 +727,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "1405",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1405&m_name=Percent%20of%20potentially%20life-threatening%20calls%20%28priority%201%29%20responded%20to%20within%209%20minutes%20and%2059%20seconds%20within%20the%20city%20of%20Austin&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -736,7 +736,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "8229",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8229&m_name=Percent%20of%20priority%201%20through%205%20calls%20responded%20to%20on%20time%20within%20the%20city%20of%20Austin&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -745,7 +745,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "8235",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8235&m_name=Percent%20reduction%20of%20EMS%20transport%20to%20hospitals%20of%20enrolled%20CHP%20Clients&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -754,7 +754,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "1431",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1431&m_name=Medical%20Priority%20Dispatch%20Protocol%20Compliance&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -763,7 +763,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "1448",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1448&m_name=Percent%20of%20patients%20in%20cardiac%20arrest%20from%20cardiac%20causes%20delivered%20to%20an%20appropriate%20medical%20facility%20with%20a%20return%20of%20circulation&contact=david.andersen%40austintexas.gov"
         },
         {
