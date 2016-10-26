@@ -96,23 +96,18 @@ ATD,2400,7659,"Percent of residents ""satisfied"" or ""very satisfied"" with sig
 ATD,2400,8417,Percent of school zone indicator signals that received preventive maintenance,1,3TRC,Traffic Management,32SN,Arterial Management,Result,Work records,Annually,2016
 ATD,2400,8416,Percent of traffic signals that received preventative maintenance,0,3TRC,Traffic Management,32SN,Arterial Management,Result,Work records,Annually,2016
 ATD,2400,3212,Percent reduction in estimated vehicular travel time in corridors and intersections studied,1,3TRC,Traffic Management,32SN,Arterial Management,Result,Travel time from JAMAR software,Annually,2016
-ATD,2400,8252,Miles of improved bike lanes,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,"Calculated from updated bicycle facilities GIS inventory.  Include all facilities within COA Jurisdiction
-",Quarterly,2016
+ATD,2400,8252,Miles of improved bike lanes,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,"Calculated from updated bicycle facilities GIS inventory.  Include all facilities within COA Jurisdiction",Quarterly,2016
 ATD,2400,8264,Miles of new protected bicycle lanes,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,Calculated from updated bicycle facilities GIS inventory.  Include all facilities withing COA Jurisdiction.,Quarterly,2016
 ATD,2400,8253,Miles of new protected or buffered bicycle lanes,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,Calculated from updated bicycle facilities GIS inventory.  Include all facilities withing COA Jurisdiction.,Quarterly,2016
 ATD,2400,8266,"Percent of arterials with a bicycle lane, protected bicycle lane or shared used path",0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Result,GIS inventory and GIS street data attributes,Quarterly,2016
 ATD,2400,7930,Percent of commuters that bicycle to work,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Result,This is from the most recent American Community Survey 1 year city-wide dataset,Annually,2016
-ATD,2400,8269,Percentage of commuters that bicycle to work in the central city,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Result,"This is from the most recent American Community Survey, 5 year composite dataset.  The Central City is defined as from Mopac on the west, Manor Rd/Springdale Rd on the east, Oltorf on the south,  to 2222 on the north
-",Annually,2016
+ATD,2400,8269,Percentage of commuters that bicycle to work in the central city,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Result,"This is from the most recent American Community Survey, 5 year composite dataset.  The Central City is defined as from Mopac on the west, Manor Rd/Springdale Rd on the east, Oltorf on the south,  to 2222 on the north",Annually,2016
 ATD,2400,8265,"Total miles of arterials with bicycle lane, protected bicycle lane, or shared use path",0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,Calculated from updated bicycle facilities GIS inventory.  Include all facilities within COA Jurisdiction.,Quarterly,2016
-ATD,2400,8272,Total new and improved on-street bicycle facilities,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,"Calculated from updated bicycle facilities GIS inventory.  Include all facilities withing COA Jurisdiction. Integrate all bicycle facilities regardless of who builds.  
-",Quarterly,2016
+ATD,2400,8272,Total new and improved on-street bicycle facilities,0,3TRC,Traffic Management,32BP,Bicycle Infrastructure Management,Output,"Calculated from updated bicycle facilities GIS inventory.  Include all facilities withing COA Jurisdiction. Integrate all bicycle facilities regardless of who builds.",Quarterly,2016
 ATD,2400,7545,Percent of CSR requests completed on time,0,3TRC,Traffic Management,31TS,Traffic Signs,Result,"Work records, Maximo, 311 system records",Quarterly,2016
 ATD,2400,6909,Number of new signs installed,0,3TRC,Traffic Management,31TS,Traffic Signs,Demand,Customer Service Requests and sign inventory,Quarterly,2016
 ATD,2400,7576,Number of sign requests received,0,3TRC,Traffic Management,31TS,Traffic Signs,Demand,CSR system / work records,Quarterly,2016
-ATD,2400,7546,Number of signs installed/maintained,0,3TRC,Traffic Management,31TS,Traffic Signs,Output,"Work records, Maximo, 311 system records 
-
-",Quarterly,2016
+ATD,2400,7546,Number of signs installed/maintained,0,3TRC,Traffic Management,31TS,Traffic Signs,Output,"Work records, Maximo, 311 system records ",Quarterly,2016
 ATD,2400,6913,Percent of signs that are in fair to excellent condition,1,3TRC,Traffic Management,31TS,Traffic Signs,Result,Estimate from inventory,Annually,2016
 ATD,2400,8205,Number of all-way stop studies completed,0,3TRC,Traffic Management,31TE,Transportation Engineering,Output,Department records of number of all-way stop studies completed,Quarterly,2016
 ATD,2400,3183,Number of citizen requests received,0,3TRC,Traffic Management,31TE,Transportation Engineering,Demand,Service request activity management report,Monthly,2016
@@ -153,8 +148,7 @@ AVIAT,8100,1033,Airport security costs per passenger,0,4FOP,"Facilities Manageme
 AVIAT,8100,7764,Security Violations Issued,0,4FOP,"Facilities Management, Operations and Airport Security",5SEC,Airport Security,Output,OPSEC Monthly Report - Security Warnings Tab,Monthly,2016
 AVIAT,8100,1003,Airside maintenance costs per acre maintained,0,4FOP,"Facilities Management, Operations and Airport Security",4ARR,Airside Maintenance,Efficiency,Aviation financial reports and the total acreage maintained (provided by Field Maintenance),Monthly,2016
 AVIAT,8100,1002,Number of incidents of noncompliance with FAA Part 139 during federal inspections,0,4FOP,"Facilities Management, Operations and Airport Security",4ARR,Airside Maintenance,Result,FAA Inspection Report,Annually,2016
-AVIAT,8100,7201,Number of work orders requested,0,4FOP,"Facilities Management, Operations and Airport Security",4MAX,Asset Management Services,Demand,"Total requested work orders in the work order system.
-",Monthly,2016
+AVIAT,8100,7201,Number of work orders requested,0,4FOP,"Facilities Management, Operations and Airport Security",4MAX,Asset Management Services,Demand,"Total requested work orders in the work order system.",Monthly,2016
 AVIAT,8100,8131,Preventative maintenance costs compared to total maintenance costs,0,4FOP,"Facilities Management, Operations and Airport Security",4MAX,Asset Management Services,Efficiency,Asset Management manager,Monthly,2016
 AVIAT,8100,7766,Annual Gallons of Water Used in Terminal,0,4FOP,"Facilities Management, Operations and Airport Security",4BLD,Building Maintenance,Output,Utility Invoices,Annually,2016
 AVIAT,8100,7765,Annual Kilowatts used in Terminal,0,4FOP,"Facilities Management, Operations and Airport Security",4BLD,Building Maintenance,Output,Utility Bill from Austin Energy,Annually,2016
@@ -162,8 +156,7 @@ AVIAT,8100,8144,Building maintenance costs per passenger,0,4FOP,"Facilities Mana
 AVIAT,8100,8145,Facilities service costs per passenger,0,4FOP,"Facilities Management, Operations and Airport Security",4FAS,Facility Services,Efficiency,Aviation financial reports and DOA statistics,Monthly,2016
 AVIAT,8100,7674,"Percentage of passengers  ranking cleanliness of airport  terminal  ""Excellent"" in the Airport Service Quality Survey",0,4FOP,"Facilities Management, Operations and Airport Security",4FAS,Facility Services,Result,ASQ Customer Survey,Quarterly,2016
 AVIAT,8100,1013,Grounds maintenance costs per acre maintained,0,4FOP,"Facilities Management, Operations and Airport Security",4GRD,Grounds Maintenance,Efficiency,Aviation financial reports and the ground maintenance section for the number of acres maintained.,Monthly,2016
-AVIAT,8100,8150,Number of gallons of reclaimed water used,0,4FOP,"Facilities Management, Operations and Airport Security",4GRD,Grounds Maintenance,Efficiency,"Austin Water Utility bill for account number 34633 00000
-Meter number is RW000047",Monthly,2016
+AVIAT,8100,8150,Number of gallons of reclaimed water used,0,4FOP,"Facilities Management, Operations and Airport Security",4GRD,Grounds Maintenance,Efficiency,"Austin Water Utility bill for account number 34633 00000 Meter number is RW000047",Monthly,2016
 AVIAT,8100,8147,Preventative maintenance performed on fleet vehicles,0,4FOP,"Facilities Management, Operations and Airport Security",4MEC,Mechanic Shop,Efficiency,COA Fleet Service M5 System; their systems generates PM-A and PM-B for Aviation fleet vehicles.,Monthly,2016
 AVIAT,8100,7769,Total number of Alternative Fuel Units Maintained,0,4FOP,"Facilities Management, Operations and Airport Security",4MEC,Mechanic Shop,Output,Data to be provided by Mechanic Shop,Monthly,2016
 AVIAT,8100,1022,Number of Part 139 findings during the daily inspections,0,4FOP,"Facilities Management, Operations and Airport Security",4OPR,Operations,Result,FAA Inspection Report,Monthly,2016
@@ -206,8 +199,7 @@ BUILD,7500,8531,Total Number of Reactive Work Orders Backlogged Greater than 30 
 CC,4500,1092,Number of 10-Step deliverables completed,0,45RS,Austin Records and Information Management,45RD,Records and Information Management Services,Output,Departments annual records management report submitted to OCC.,Annually,2016
 CC,4500,8088,"Number of departmental libraries, record types, or workflow processes added to the EDIMS",1,45RS,Austin Records and Information Management,45RD,Records and Information Management Services,Output,,Annually,2016
 CC,4500,1086,Number of documents downloaded from the EDIMS Public Library,0,45RS,Austin Records and Information Management,45RD,Records and Information Management Services,Output,A report generated by an internal tracking program that counts the number of hits to the website.,Monthly,2016
-CC,4500,1094,"Number of Records and Information Management Consulting Services Provided
-",0,45RS,Austin Records and Information Management,45RD,Records and Information Management Services,Output,"Staff of the Records and Information Management Servcies group submit a monthly activity report which tracks the number of phone calls, e-mails, trainings, meetings, special projects, and  face to face contacts with departmental staff, other local governments, and special project meetings.",Monthly,2016
+CC,4500,1094,"Number of Records and Information Management Consulting Services Provided",0,45RS,Austin Records and Information Management,45RD,Records and Information Management Services,Output,"Staff of the Records and Information Management Servcies group submit a monthly activity report which tracks the number of phone calls, e-mails, trainings, meetings, special projects, and  face to face contacts with departmental staff, other local governments, and special project meetings.",Monthly,2016
 CC,4500,1091,Percent of 10-Step deliverables completed,1,45RS,Austin Records and Information Management,45RD,Records and Information Management Services,Result,Manual count from the departments annual report submitted to OCC.,Annually,2016
 CC,4500,1078,Number of City-wide ballots cast during the General Municipal Election,0,45EL,Elections,45CE,Elections,Output,"Actual count based on the numbers received from Travis, Hays, Bastrop and Williamson Counties.",Quarterly,2016
 CC,4500,6963,Number of registered voters during the General Municipal Election,0,45EL,Elections,45CE,Elections,Output,"Travis, Hays, Bastrop and Williamson CountyElection Divisions",Quarterly,2016
@@ -289,39 +281,22 @@ CCTR,8200,1164,Number of employee injuries,0,9MGT,Support Services,9ADM,Departme
 CCTR,8200,1148,Number of grievances and appeals per 100 employees,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"The Human Resources Department submits this information to the departments (Tommy Tucker).Measures the number of grievances and appeals occurring within the reporting period where HRD conducts grievance hearings resulting from personnel actions such as: denial of promotion, demotion, suspension, disciplinary probation, or termination.The number is taken from logs and records maintained by HRD.Includes the number of individuals who were employed at the end of the reporting period, regardless of whether they were full or part time. This number is derived from BANNER.",Monthly,2016
 CCTR,8200,1157,Percentage of Help desk Tickets closed by Target date,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,CTM staff will provide each CTM-supported department with information to record and calculate this measure.All other departments must track the information internally.In-house database,Quarterly,2016
 CCTR,8200,1150,Total department budget,0,9MGT,Support Services,9ADM,Departmental Support Services,Output,Fund Summary that is based on AFS3 and DXR reports.,Annually,2016
-CCTR,8200,8453,Annual Training Hours Per FTE,0,9MGT,Support Services,9ADM,Departmental Support Services,Output,"COA TRAIN Database
-A TRAIN administrator has access to run the report in TRAIN
-",Annually,2016
-CCTR,8200,8290,Convention Center All Funds Combined Ending Balance,1,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Revenue information from DXR reports.
-Revenue information from BG0003A-01
-Expenditure information from 104A-01
-Beginning balance from Performance report Fund Summary.",Annually,2016
+CCTR,8200,8453,Annual Training Hours Per FTE,0,9MGT,Support Services,9ADM,Departmental Support Services,Output,"COA TRAIN DatabaseA TRAIN administrator has access to run the report in TRAIN",Annually,2016
+CCTR,8200,8290,Convention Center All Funds Combined Ending Balance,1,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Revenue information from DXR reports. Revenue information from BG0003A-01 Expenditure information from 104A-01 Beginning balance from Performance report Fund Summary.",Annually,2016
 CCTR,8200,1146,Cumulative Client Evaluation Ratings Summary (5.0 scale),1,9MGT,Support Services,9ADM,Departmental Support Services,Result,customer surveys maintained by CTM,Quarterly,2016
 CCTR,8200,1149,Employee Turnover Rate,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Entries made by department personnel into Banner, the City's Human Resources Information System.",Quarterly,2016
-CCTR,8200,1154,Hotel Occupancy Tax Distributions,1,9MGT,Support Services,9ADM,Departmental Support Services,Result,"The Controller's Office posts cash reciepts to the AFS3 system.
-DXR reports GA0001A-01",Monthly,2016
+CCTR,8200,1154,Hotel Occupancy Tax Distributions,1,9MGT,Support Services,9ADM,Departmental Support Services,Result,"The Controller's Office posts cash reciepts to the AFS3 system. DXR reports GA0001A-01",Monthly,2016
 CCTR,8200,1165,Lost Time Injury Rate Per the Equivalent of 100 Employees,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Injury data is generated from entries made by department personnel into a claims database provided by the City's third party administrator (currently known as the "David System"). Actual hours worked is from the productive/overtime report generated by Banner, the City's human resource information system.",Monthly,2016
 CCTR,8200,1147,Percentage of Clients indicating they would schedule another event at the Convention Center facilities,1,9MGT,Support Services,9ADM,Departmental Support Services,Result,customer surveys,Quarterly,2016
 CCTR,8200,1151,"Sick leave hours used per 1,000 hours",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Entries made by department personnel into Banner, the City's Human Resources Information System.",Monthly,2016
 CTM,5600,6595,Percent of data and map requests processed by next business day,0,1CTM,Communications and Technology Management,3APP,Applications,Result,GIS system:  Regional Mapping Request Database,Annually,2016
-CTM,5600,6601,Percentage of Database Administration help desk tickets resolved by the date scheduled,0,1CTM,Communications and Technology Management,3APP,Applications,Result,"Help Desk - Magic Service Desk system crystal report
-Reporting Group(s): CTM Reporting
-""resolved""/closed data is now calculated by the closed date only",Quarterly,2016
-CTM,5600,6594,"Percentage of Enterprise Geospatial Services Severity Level ""3"" help desk tickets resolved within 5 business days
-",0,1CTM,Communications and Technology Management,3APP,Applications,Result,"Help Desk - Magic Database
-
-Groups:  GIS Addressing, GIS Data Support, GIS Support, GIS Data Development*
-* NOTE:  GIS Data Developement numbers are excluded from the 6594 measure (excluded from Resolved/Resolved3BusDay) but are included in the ""Severity Level 3"" resolved numbers (percentages for ""Severity Level ""3"" Tickets Closed within 5 Business Days"" are provided but is not a measure). 
-",Quarterly,2016
+CTM,5600,6601,Percentage of Database Administration help desk tickets resolved by the date scheduled,0,1CTM,Communications and Technology Management,3APP,Applications,Result,"Help Desk - Magic Service Desk system crystal report Reporting Group(s): CTM Reporting""resolved""/closed data is now calculated by the closed date only",Quarterly,2016
+CTM,5600,6594,"Percentage of Enterprise Geospatial Services Severity Level ""3"" help desk tickets resolved within 5 business days",0,1CTM,Communications and Technology Management,3APP,Applications,Result,"Help Desk - Magic Database Groups:  GIS Addressing, GIS Data Support, GIS Support, GIS Data Development* * NOTE:  GIS Data Developement numbers are excluded from the 6594 measure (excluded from Resolved/Resolved3BusDay) but are included in the ""Severity Level 3"" resolved numbers (percentages for ""Severity Level ""3"" Tickets Closed within 5 Business Days"" are provided but is not a measure). ",Quarterly,2016
 CTM,5600,6596,Percentage of new subdivisions addressed and entered into database by 7 days of receipt,0,1CTM,Communications and Technology Management,3APP,Applications,Result,GIS system:  Subdivision Log maintained by 911 Addressing.,Quarterly,2016
 CTM,5600,8002,Number of applications in the inventory,0,1CTM,Communications and Technology Management,3APP,Applications,Output,,Annually,2016
-CTM,5600,6599,Number of help desk tickets for Database Administration,0,1CTM,Communications and Technology Management,3APP,Applications,Output,"Report from Help Desk - Magic system
-""resolved""/closed data is now calculated by the closed date only 
-Reporting Group:  CTM Reporting",Monthly,2016
+CTM,5600,6599,Number of help desk tickets for Database Administration,0,1CTM,Communications and Technology Management,3APP,Applications,Output,"Report from Help Desk - Magic system""resolved""/closed data is now calculated by the closed date only Reporting Group:  CTM Reporting",Monthly,2016
 CTM,5600,8011,Number of mobile applications implemented,0,1CTM,Communications and Technology Management,3APP,Applications,Output,Business Application Servises,Annually,2016
-CTM,5600,6604,"Percent of Severity Level ""3"" help desk tickets closed within 5 business days for all CTM groups",0,1CTM,Communications and Technology Management,3APP,Applications,Result,"Help Desk - Magic System crystal report
-Reporting Group: Internet
-""resolved""/closed data is now calculated by the closed date only",Quarterly,2016
+CTM,5600,6604,"Percent of Severity Level ""3"" help desk tickets closed within 5 business days for all CTM groups",0,1CTM,Communications and Technology Management,3APP,Applications,Result,"Help Desk - Magic System crystal report Reporting Group: Internet ""resolved""/closed data is now calculated by the closed date only",Quarterly,2016
 CTM,5600,8034,Percentage of applications with service level agreements,1,1CTM,Communications and Technology Management,3APP,Applications,Result,,Annually,2016
 CTM,5600,7148,Percentage of Severity Level 3 Help Desk Tickets for EIG closed within 5 business days,0,1CTM,Communications and Technology Management,7INF,Infrastructure,Result,Magic System:  Group:  EIG,Quarterly,2016
 CTM,5600,7844,Incidents closed by any group within two hours of open time and not re-opened within five days,1,1CTM,Communications and Technology Management,7INF,Infrastructure,Result,Service Desk Reports,Quarterly,2016
@@ -368,8 +343,7 @@ DSD,5300,7330,Number of permits issued,0,1SSP,One Stop Shop,6LUR,Land Use Review
 DSD,5300,3605,Number of total applications reviewed,0,1SSP,One Stop Shop,6LUR,Land Use Review,Output,"AMANDA, and DSD's internal logs/databases",Monthly,2016
 DSD,5300,3599,Percent of on-time subdivision and site plan initial reviews,0,1SSP,One Stop Shop,6LUR,Land Use Review,Result,PIER,Monthly,2016
 DSD,5300,3608,Customer Wait per visit (in minutes),0,1SSP,One Stop Shop,6PRC,Permit Center,Result,Customer wait time database,Monthly,2016
-DSD,5300,3609,Number of permits issued,0,1SSP,One Stop Shop,6PRC,Permit Center,Output,"AMANDA, Permit Center Activity Summary Reports, Liquor License Approved Applications, PDR G:drive 
-",Monthly,2016
+DSD,5300,3609,Number of permits issued,0,1SSP,One Stop Shop,6PRC,Permit Center,Output,"AMANDA, Permit Center Activity Summary Reports, Liquor License Approved Applications, PDR G:drive ",Monthly,2016
 DSD,5300,3607,Number of walk-in customers served,0,1SSP,One Stop Shop,6PRC,Permit Center,Output,Customer wait time database,Monthly,2016
 DSD,5300,3643,Number of Residential Design Compatibility Commission cases processed,0,1SSP,One Stop Shop,6ZRW,Residential Review,Output,Internal log,Monthly,2016
 DSD,5300,3648,Cycle time for new residential zoning reviews (in days),0,1SSP,One Stop Shop,6ZRW,Residential Review,Result,AMANDA,Monthly,2016
@@ -409,19 +383,14 @@ EGRS,5500,1360,Number of recognized Sister Cities,0,2GIS,Global Business Recruit
 EGRS,5500,8257,Number of recruitment projects evaluated and managed,0,2GIS,Global Business Recruitment and Expansion,2DRV,Global Business Recruitment and Expansion,Output,"This measure reports the number of projects that are evaluated to determine resource coordination for the creation of jobs, investment, and generation of tax revenues in the City of Austin.",Annually,2016
 EGRS,5500,1355,Percentage of inquiries that lead to formal international visits,0,2GIS,Global Business Recruitment and Expansion,2DRV,Global Business Recruitment and Expansion,Result,"Percentage of sum inquired from the general public, external partners and businesses engaged or exploring international activity.",Annually,2016
 EGRS,5500,1334,Dollar amount of investment created through economic development efforts,0,2GIS,Global Business Recruitment and Expansion,2DRV,Global Business Recruitment and Expansion,Result,Agreements,Annually,2016
-EGRS,5500,1359,"Number of Austinites attending international events, networking and seminars which create opportunities for international businesses
-",1,2GIS,Global Business Recruitment and Expansion,2DRV,Global Business Recruitment and Expansion,Output,Reports from staff and partner organizations,Annually,2016
+EGRS,5500,1359,"Number of Austinites attending international events, networking and seminars which create opportunities for international businesses",1,2GIS,Global Business Recruitment and Expansion,2DRV,Global Business Recruitment and Expansion,Output,Reports from staff and partner organizations,Annually,2016
 EGRS,5500,1337,Number of new jobs created with public private initiatives,1,2GIS,Global Business Recruitment and Expansion,2DRV,Global Business Recruitment and Expansion,Output,"Jobs created for Chapter 380 agreements, the Small Business Program, and the Texas Enterprise program.",Annually,2016
-EGRS,5500,8171,"Number of community engagement agreements made by the Music
-& Entertainment Division",0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Partner contracts,Annually,2016
+EGRS,5500,8171,"Number of community engagement agreements made by the Music & Entertainment Division",0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Partner contracts,Annually,2016
 EGRS,5500,8170,Number of Music & Entertainment Division public-private partnerships,0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Contacts executed,Annually,2016
-EGRS,5500,7892,"Number of programs and initiatives managed by Music & 
-Entertainment
-",0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Event Scheduled by the Music Division,Annually,2016
+EGRS,5500,7892,"Number of programs and initiatives managed by Music & Entertainment",0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Event Scheduled by the Music Division,Annually,2016
 EGRS,5500,7894,Number of Sound Complaints Investigated,0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,311 call center data,Annually,2016
 EGRS,5500,7328,Total audience served through Music & Entertainment programs,0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Department records,Annually,2016
-EGRS,5500,7893,"Total number of applicants served through the temporary event
-sound permitting process",0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Permit applications received by the division.,Annually,2016
+EGRS,5500,7893,"Total number of applicants served through the temporary event sound permitting process",0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Permit applications received by the division.,Annually,2016
 EGRS,5500,7616,Number of  sound impact evaluations completed,0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Staff reports,Annually,2016
 EGRS,5500,8169,Total audience served through public-private partnerships,0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Music Events and Outreach initiatives,Annually,2016
 EGRS,5500,8273,Total number of applicants served through the annual outdoor music venue permitting process,0,2MUS,Music and Entertainment Division,2MSD,Music and Entertainment,Output,Applications processed through office for outdoor music venue permits,Annually,2016
@@ -492,9 +461,7 @@ EMS,9300,1448,Percent of patients in cardiac arrest from cardiac causes delivere
 EMS,9300,1461,"% of under 5,000 competitive procurement awards to certified MBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Information is extracted from the Subcontracting, Procurement and Management System (SPAM).The Purchasing Office calculates this information on a quarterly basis and reports to the departments.",Quarterly,2016
 EMS,9300,1464,"% of under 5,000 competitive procurement awards to certified WBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Information is extracted from the Subcontracting, Procurement and Management System (SPAM).The Purchasing Office calculates this information on a quarterly basis and reports to the departments.",Quarterly,2016
 EMS,9300,1454,Employee Turnover Rate,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Entries made by department personnel into Banner, the City's Human Resources Information System.",Quarterly,2016
-EMS,9300,1468,Lost Time Injury Rate Per the Equivalent of 100 Employees,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Injury data is generated from entries made by department personnel into a claims database provided by the City's third party administrator (currently known as the "David System"). Actual hours worked is from the productive/overtime report generated by Banner, the City's human resource information system. 
-
-",Monthly,2016
+EMS,9300,1468,Lost Time Injury Rate Per the Equivalent of 100 Employees,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Injury data is generated from entries made by department personnel into a claims database provided by the City's third party administrator (currently known as the "David System"). Actual hours worked is from the productive/overtime report generated by Banner, the City's human resource information system.",Monthly,2016
 EMS,9300,8231,Percentage of patients who are satisfied or very satisfied with EMS customer service,1,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Austin-Travis County EMS conducts customer call back surveys on a regular basis, reaching out to those patients who were transported via ambulance to the hospital. The survey focuses on a customer satisfaction rating of 1 to 5, with 5 being the highest level of satisfaction possible. Customers who were transported are called within 72 hours after transport and given the opportunity to let us know how satisfied they are with the care they received during transpor",Monthly,2016
 EMS,9300,1456,"Sick leave hours used per 1,000 hours",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Entries made by department personnel into Banner, the City's Human Resources Information System.",Monthly,2016
 EMS,9300,8270,Percent of sworn staff attending safety training,0,,,,,Output,safety unit,Annually,2016
@@ -535,8 +502,7 @@ FIRE,8300,1479,Percent of total calls which are medical first responder calls,0,
 FIRE,8300,8133,Percent of unit responses inside the City of Austin with an AFD unit response,0,2CFS,Fire / Emergency Response,2CBT,Combat Operations,Result,AFD dispatch system (CAD),Quarterly,2016
 FIRE,8300,1484,Total number of incidents responded to by Operations units,0,2CFS,Fire / Emergency Response,2CBT,Combat Operations,Output,RMS call volume report,Quarterly,2016
 FIRE,8300,1564,Percent of initial commercial building plan reviews completed within Land Development Code mandated time of 21 days,0,1SSP,One Stop Shop,6SPT,"Inspection, Review, and Support",Result,This measure is a Planning and Development Review measure and the numbers are provided by that department. PIER,Quarterly,2016
-FIRE,8300,1569,Percent of on-time subdivision and site plan initial reviews (city-wide),0,1SSP,One Stop Shop,6SPT,"Inspection, Review, and Support",Result,"This measure is a Planning and Development Review measure and the numbers are provided by that department.
-PIER",Quarterly,2016
+FIRE,8300,1569,Percent of on-time subdivision and site plan initial reviews (city-wide),0,1SSP,One Stop Shop,6SPT,"Inspection, Review, and Support",Result,"This measure is a Planning and Development Review measure and the numbers are provided by that department. PIER",Quarterly,2016
 FIRE,8300,6780,Number of frontline apparatus that have been in service longer than the recommended standard for that apparatus type,0,3SPT,Operations Support,3MSF,"Air, Equipment and Vehicle Support",Result,Vehicle spreadsheet maintained by Shops chief.  In-services data from Fleet records.,Annually,2016
 FIRE,8300,6781,Number of reserve apparatus past Fleet and industry standards for years of service,0,3SPT,Operations Support,3MSF,"Air, Equipment and Vehicle Support",Output,Vehicle spreadsheet maintained by Shops Chief.  In-service dates will be obtained from Fleet records.,Annually,2016
 FIRE,8300,1505,Percent of AFD airpacks receiving flow testing annually in accordance with state law,0,3SPT,Operations Support,3MSF,"Air, Equipment and Vehicle Support",Result,Flow test records in Vendor database downloaded to an Excel performance measure spreadsheet.,Annually,2016
@@ -627,10 +593,8 @@ FSD,7400,8335,Percent of Stand-Alone Professional Service procurements that meet
 FSD,7400,7976,Aggregate percentage of GO bond program dollars spent compared to spending plan,0,2CPO,Capital Planning Office,2CPL,Capital Planning,Result,,Annually,2016
 FSD,7400,7653,Percentage customer/public satisfaction with capital program information provided,0,2CPO,Capital Planning Office,2CPL,Capital Planning,Result,Online survey,Annually,2016
 FSD,7400,8105,Percentage of planned projects and programs reviewed for alignment with Imagine Austin,1,2CPO,Capital Planning Office,2CPL,Capital Planning,Result,,Annually,2016
-FSD,7400,8370,Number of Hotel/Motel Occupancy customers active at year-end,0,2CNT,Controller's Office,2ACC,Accounting and Reporting,Output,"Advantage 3 customers
-",Annually,2016
-FSD,7400,8371,Total number of billings for Public Improvement Districts assessments,0,2CNT,Controller's Office,2ACC,Accounting and Reporting,Output,"Advantage 3 account billings
-",Annually,2016
+FSD,7400,8370,Number of Hotel/Motel Occupancy customers active at year-end,0,2CNT,Controller's Office,2ACC,Accounting and Reporting,Output,"Advantage 3 customers",Annually,2016
+FSD,7400,8371,Total number of billings for Public Improvement Districts assessments,0,2CNT,Controller's Office,2ACC,Accounting and Reporting,Output,"Advantage 3 account billings",Annually,2016
 FSD,7400,1699,Average days between system close and availability of automated report,0,2CNT,Controller's Office,2ACC,Accounting and Reporting,Result,DXR Report and e-mail from administrative,Monthly,2016
 FSD,7400,1697,Awarded Governmental Finance Officers Association's (GFOA) Certificate of Achievement for Excellence in Financial Reporting,1,2CNT,Controller's Office,2ACC,Accounting and Reporting,Result,GFOA,Annually,2016
 FSD,7400,1698,"Comprehensive Annual Financial Report (CAFR) awarded ""clean opinion""",0,2CNT,Controller's Office,2ACC,Accounting and Reporting,Result,Letter from independent audit firm,Annually,2016
@@ -638,29 +602,22 @@ FSD,7400,1694,"Percentage of hotel/motel occupancy tax delinquent accounts great
 FSD,7400,1701,"Average number of calendar days for A/P to review, approve and pay vouchers for departments",0,2CNT,Controller's Office,2ACP,Accounts Payable,Result,Controller's Office Transaction Sampling Database,Quarterly,2016
 FSD,7400,1703,Number of payment transactions processed for departments,0,2CNT,Controller's Office,2ACP,Accounts Payable,Output,"DXR, Advantage 3",Annually,2016
 FSD,7400,7260,Number of payment transactions processed per A/P FTE,0,2CNT,Controller's Office,2ACP,Accounts Payable,Output,"DXR, Advantage 3",Annually,2016
-FSD,7400,1724,Cost per payroll payment,0,2CNT,Controller's Office,2PAY,Payroll,Efficiency,"Payroll Costs- ADV3 BG0001A01-FSA104 Report for Unit 4030; # of Payments-Banner database query by Payroll Dept
-",Annually,2016
+FSD,7400,1724,Cost per payroll payment,0,2CNT,Controller's Office,2PAY,Payroll,Efficiency,"Payroll Costs- ADV3 BG0001A01-FSA104 Report for Unit 4030; # of Payments-Banner database query by Payroll Dept",Annually,2016
 FSD,7400,1723,"Number of payroll payments, including voluntary/non-voluntary payroll deduction payments to employees and vendors",0,2CNT,Controller's Office,2PAY,Payroll,Output,Payroll Dept,Annually,2016
 FSD,7400,1725,Number of payrolls not met,0,2CNT,Controller's Office,2PAY,Payroll,Result,Payroll Dept,Monthly,2016
-FSD,7400,8193,Dollar amount of cost savings and avoidance,0,3PUR,Purchasing Office,3CTS,Contract Services,Output,"Buyer and Contract Management reports
-",Annually,2016
-FSD,7400,8187,Hours of outreach event and training presentations provided by staff,0,3PUR,Purchasing Office,3CTS,Contract Services,Output,"Banner task order
-",Annually,2016
+FSD,7400,8193,Dollar amount of cost savings and avoidance,0,3PUR,Purchasing Office,3CTS,Contract Services,Output,"Buyer and Contract Management reports",Annually,2016
+FSD,7400,8187,Hours of outreach event and training presentations provided by staff,0,3PUR,Purchasing Office,3CTS,Contract Services,Output,"Banner task order",Annually,2016
 FSD,7400,1752,Number of contract actions completed,0,3PUR,Purchasing Office,3CTS,Contract Services,Output,Monica Kasper or Cynthia Gonzalez - Contract Tracking Database,Annually,2016
 FSD,7400,1754,Number of Purchases made City-wide by Central Purchasing Office,0,3PUR,Purchasing Office,3PRC,Procurement,Output,H:\BILL\PROGRAM\AFS3 Kickoff\Interfaces\OutBound\Purchasing\Mike_PO_Counts.mdb from Bill Schurtz,Quarterly,2016
 FSD,7400,7093,"Percent of transactions under $3,000 paid via ProCard vs. invoiced and paid via Check",0,3PUR,Purchasing Office,3PRC,Procurement,Efficiency,AIMS invoice (IN) count: H:\BILL\PROGRAM\AFS3 Kickoff\AccountsPayable\1099_2008\Mike_request.mdb query1. from Bill Schurtz Works transaction count: sum from COA and AE accounts,Annually,2016
 FSD,7400,8192,Average number of bids received per solicitation,0,3PUR,Purchasing Office,3PRC,Procurement,Output,,Annually,2016
 FSD,7400,1750,Dollar amount of purchases made that meet Sustainability guidelines,1,3PUR,Purchasing Office,3PRC,Procurement,Output,AIMS report - Mark Walsh,Quarterly,2016
 FSD,7400,1756,Dollar value of contract awards made by Central Purchasing Office,0,3PUR,Purchasing Office,3PRC,Procurement,Output,H:\BILL\PROGRAM\AFS3 Kickoff\Interfaces\OutBound\Purchasing\Mike_PO_Counts.mdb from Bill Schurtz,Annually,2016
-FSD,7400,8191,Number of purchases requiring RCAs,0,3PUR,Purchasing Office,3PRC,Procurement,Output,"Agenda management records
-",Annually,2016
-FSD,7400,8188,Percent of consent-agenda RCAs approved on consent,0,3PUR,Purchasing Office,3PRC,Procurement,Result,"Agenda management records
-",Annually,2016
+FSD,7400,8191,Number of purchases requiring RCAs,0,3PUR,Purchasing Office,3PRC,Procurement,Output,"Agenda management records",Annually,2016
+FSD,7400,8188,Percent of consent-agenda RCAs approved on consent,0,3PUR,Purchasing Office,3PRC,Procurement,Result,"Agenda management records",Annually,2016
 FSD,7400,8186,Percent of employees with professional certifications,0,3PUR,Purchasing Office,3PRC,Procurement,Result,HR records,Annually,2016
-FSD,7400,8194,Percent of procurement card transactions posted without reject,0,3PUR,Purchasing Office,3PRC,Procurement,Result,"Works procurement card system
-",Quarterly,2016
-FSD,7400,8195,Percent of procurement card transactions signed off prior to closing deadline,0,3PUR,Purchasing Office,3PRC,Procurement,Result,"Works report 'Dept Audit 2' with all groups & accounts, based on calendar quarter
-",Annually,2016
+FSD,7400,8194,Percent of procurement card transactions posted without reject,0,3PUR,Purchasing Office,3PRC,Procurement,Result,"Works procurement card system",Quarterly,2016
+FSD,7400,8195,Percent of procurement card transactions signed off prior to closing deadline,0,3PUR,Purchasing Office,3PRC,Procurement,Result,"Works report 'Dept Audit 2' with all groups & accounts, based on calendar quarter",Annually,2016
 FSD,7400,1820,"% of under $5,000 competitive procurement awards to certified MBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,Quarterly M/WBE report,Quarterly,2016
 FSD,7400,1823,"% of under $5,000 competitive procurement awards to certified WBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,Quarterly MWBE report,Quarterly,2016
 FSD,7400,1825,Number of employee injuries,0,9MGT,Support Services,9ADM,Departmental Support Services,Output,Includes all lost time injuries as well as all medical only injuries (where an employee visited the doctor for the injury) that did not qualify as lost time.Numbers are taken from the David System (Workers' Compensation Database). The FREQUENCY ANALYSIS REPORT is run approximately three weeks after the last pay period of the reporting month. The Human Resources Department calculates the information and reports to the departments. (Tommy Tucker),Monthly,2016
@@ -690,30 +647,21 @@ GRO,4200,7924,Turnover Rate,0,,,,,Result,"Entries made by department personnel i
 HHS,9100,2057,Number of Day Labor placements (duplicated),0,2CMS,Community Services,2CMR,Community Relations,Output,Daily sign-in and sign-out rosters,Quarterly,2016
 HHS,9100,7774,Number of job fairs developed in underserved areas,0,2CMS,Community Services,2CMR,Community Relations,Output,Activity records,Quarterly,2016
 HHS,9100,2060,Percent of Day Labor clients placed weekly,0,2CMS,Community Services,2CMR,Community Relations,Result,"Manual, daily registration sheets and placement logs maintained at Day Labor Site",Quarterly,2016
-HHS,9100,7803,Percent of HIV Planning Council membership who indicate overall satisfaction of staff support,0,2CMS,Community Services,2CMR,Community Relations,Result,"Electronically-administered survey instrument via Constant Contact online interface.
-",Annually,2016
+HHS,9100,7803,Percent of HIV Planning Council membership who indicate overall satisfaction of staff support,0,2CMS,Community Services,2CMR,Community Relations,Result,"Electronically-administered survey instrument via Constant Contact online interface.",Annually,2016
 HHS,9100,1967,Number of clients served by the Quality of Life (QOL) Preventive Team Initiative,0,2CMS,Community Services,2CMR,Community Relations,Output,,Quarterly,2016
-HHS,9100,8154,"Number of units of preventative health services provided by QL
-",0,2CMS,Community Services,2CMR,Community Relations,Output,,Quarterly,2016
-HHS,9100,8360,"Percent of QL (Quality of Life) clients who followed through with referrals to a healthcare provider or community resource
-",0,2CMS,Community Services,2CMR,Community Relations,Result,,Monthly,2016
-HHS,9100,7810,Number of unduplicated households receiving case management through Neighborhood Services Unit,0,2CMS,Community Services,2NHS,Neighborhood Services,Output,"Shah Client Tracking System
-",Quarterly,2016
-HHS,9100,7808,Number of unduplicated persons served by the Public Health Nursing activity,0,2CMS,Community Services,2NHS,Neighborhood Services,Output,"Internal Records
-",Quarterly,2016
+HHS,9100,8154,"Number of units of preventative health services provided by QL",0,2CMS,Community Services,2CMR,Community Relations,Output,,Quarterly,2016
+HHS,9100,8360,"Percent of QL (Quality of Life) clients who followed through with referrals to a healthcare provider or community resource",0,2CMS,Community Services,2CMR,Community Relations,Result,,Monthly,2016
+HHS,9100,7810,Number of unduplicated households receiving case management through Neighborhood Services Unit,0,2CMS,Community Services,2NHS,Neighborhood Services,Output,"Shah Client Tracking System",Quarterly,2016
+HHS,9100,7808,Number of unduplicated persons served by the Public Health Nursing activity,0,2CMS,Community Services,2NHS,Neighborhood Services,Output,"Internal Records",Quarterly,2016
 HHS,9100,6459,Percent of clients who followed through with referrals to a health provider,0,2CMS,Community Services,2NHS,Neighborhood Services,Result,internal records,Monthly,2016
-HHS,9100,7809,% of clients enrolled in self-sufficiency case management who report a reduction or elimination of income barriers,1,2CMS,Community Services,2NHS,Neighborhood Services,Result,"Shah Client Tracking System
-",Annually,2016
-HHS,9100,8359,"Number of duplicated persons served by the Neighborhood Services activity for basic needs
-",0,2CMS,Community Services,2NHS,Neighborhood Services,Output,Client Tracking System database,Monthly,2016
-HHS,9100,6452,Number of unduplicated persons served for the first time by the Neighborhood Services Activity for basic needs,0,2CMS,Community Services,2NHS,Neighborhood Services,Output,"from the Shah Client Tracking Sytem and Access Database
-",Monthly,2016
+HHS,9100,7809,% of clients enrolled in self-sufficiency case management who report a reduction or elimination of income barriers,1,2CMS,Community Services,2NHS,Neighborhood Services,Result,"Shah Client Tracking System",Annually,2016
+HHS,9100,8359,"Number of duplicated persons served by the Neighborhood Services activity for basic needs",0,2CMS,Community Services,2NHS,Neighborhood Services,Output,Client Tracking System database,Monthly,2016
+HHS,9100,6452,Number of unduplicated persons served for the first time by the Neighborhood Services Activity for basic needs,0,2CMS,Community Services,2NHS,Neighborhood Services,Output,"from the Shah Client Tracking Sytem and Access Database",Monthly,2016
 HHS,9100,1889,Number of HIV/STD tests provided in outreach settings,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,Internal database for Outreach activities,Monthly,2016
 HHS,9100,8445,Number of newly diagnosed HIV patients in Travis County in the previous Calendar Year,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,DSHS Texas HIV Surveillance Annual Report,Annually,2016
 HHS,9100,1890,Number of STD patient visits seen at the RBJ & Correctional Facility clinics,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,STD database for RBJ and manual count for GB and DV.  Information is contained in reports stored in STD Program Statistical Summary binder.,Monthly,2016
 HHS,9100,8024,Number of TB screenings at the RBJ Health Center,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,TB screening log,Monthly,2016
-HHS,9100,1861,"Number of units of medical social work services provided by CDU Medical Social Workers
-",0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,Social workers' schedule of patient info. contained in monthly report to Supervisor,Monthly,2016
+HHS,9100,1861,"Number of units of medical social work services provided by CDU Medical Social Workers",0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,Social workers' schedule of patient info. contained in monthly report to Supervisor,Monthly,2016
 HHS,9100,1908,Percent of  Latent TB Infected (LTBI) patients that complete preventable therapy,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Result,Reported from medical records and internal medication database. Information is contained in the monthly TB report.,Quarterly,2016
 HHS,9100,1906,Percent of  patients with active TB that complete therapy in 12 months,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Result,Reported from medical records.,Quarterly,2016
 HHS,9100,6914,Percentage of TB contacts evaluated,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Result,Internal HHSD records,Annually,2016
@@ -721,8 +669,7 @@ HHS,9100,8025,Number of newly identified HIV positive cases from outreach testin
 HHS,9100,8442,Number of Refugee patient visits at the Refugee Clinic,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,Dr. Works appointment record,Monthly,2016
 HHS,9100,7792,"Percent of clients who come into the RBJ STD clinic who are examined, tested &/or treated the same day",0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,Internal STD database (WebMedrec) and manual tracking of clients turned away.  Information is contained in monthly STD clinic attendance report in STD monthly report binder.,Monthly,2016
 HHS,9100,1881,Percent of refugees screened for communicable diseases within 90 days of arrival in the Austin/Travis County area,0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Result,internal data; verified by data compiled by the TDSHS Refugee Health Program,Quarterly,2016
-HHS,9100,7795,"Percentage of newly-diagnosed HIV+ clients linked to HIV- related medical care
-",0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,"External TDSHS STD surveillance system (STD MIS) and internal DIS tracking system.  (Some clients are from external agencies on not just from HHS clinics, such as private practices).",Monthly,2016
+HHS,9100,7795,"Percentage of newly-diagnosed HIV+ clients linked to HIV- related medical care",0,5DPH,Disease Prevention & Health Promotion,5CDA,Communicable Disease,Output,"External TDSHS STD surveillance system (STD MIS) and internal DIS tracking system.  (Some clients are from external agencies on not just from HHS clinics, such as private practices).",Monthly,2016
 HHS,9100,6446,Number of community changes in the area of chronic disease prevention,0,5DPH,Disease Prevention & Health Promotion,5CHS,Community Health,Output,internal records of chronic disease prevention staff,Quarterly,2016
 HHS,9100,8447,Number of dealths related to heart disease in Travis County,0,5DPH,Disease Prevention & Health Promotion,5CHS,Community Health,Output,Travis County Mortality Data.  Vital Records,Annually,2016
 HHS,9100,1970,Number of health promotion/health education activities or programs conducted and/or facilitated in the area of chronic disease prevention,0,5DPH,Disease Prevention & Health Promotion,5CHS,Community Health,Output,Internal database,Monthly,2016
@@ -741,23 +688,17 @@ HHS,9100,6910,Number of emergency plans reviewed and updated,0,5DPH,Disease Prev
 HHS,9100,8141,Number of Sexually Transmitted Infections (STIs) reported in Travis County,0,5DPH,Disease Prevention & Health Promotion,5EPH,Epidemiology & Health Statistics,Output,Disease Surveillance,Annually,2016
 HHS,9100,6912,Percent emergency plans reviewed and updated,0,5DPH,Disease Prevention & Health Promotion,5EPH,Epidemiology & Health Statistics,Result,HHSD internal records,Annually,2016
 HHS,9100,1902,Percent of all reportable infectious diseases that result in a disease intervention,1,5DPH,Disease Prevention & Health Promotion,5EPH,Epidemiology & Health Statistics,Result,"NEDSS, National Electronic Data Surveillance System",Monthly,2016
-HHS,9100,8139,"Number of birth & death records registered or amended
-",0,5DPH,Disease Prevention & Health Promotion,5VTL,Vital Records,Output,Registration and Document spreadsheet maintained and updated by staff,Monthly,2016
-HHS,9100,8137,"Number of certified copies of death & birth certificates issued 
-",0,5DPH,Disease Prevention & Health Promotion,5VTL,Vital Records,Output,Point of Sale (POS): Group item sales report,Monthly,2016
-HHS,9100,8138,"Number of supplemental record services performed
-",0,5DPH,Disease Prevention & Health Promotion,5VTL,Vital Records,Output,Maintained spreadsheet entered and updated by Office of Vital Records staff,Monthly,2016
-HHS,9100,8096,"Number of Mobile Vending permit inspections and routine inspections conducted.
-",0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,Amanda,Monthly,2016
-HHS,9100,1958,"Number of public health education/outreach activities.
-",0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,Internal report,Monthly,2016
+HHS,9100,8139,"Number of birth & death records registered or amended",0,5DPH,Disease Prevention & Health Promotion,5VTL,Vital Records,Output,Registration and Document spreadsheet maintained and updated by staff,Monthly,2016
+HHS,9100,8137,"Number of certified copies of death & birth certificates issued ",0,5DPH,Disease Prevention & Health Promotion,5VTL,Vital Records,Output,Point of Sale (POS): Group item sales report,Monthly,2016
+HHS,9100,8138,"Number of supplemental record services performed",0,5DPH,Disease Prevention & Health Promotion,5VTL,Vital Records,Output,Maintained spreadsheet entered and updated by Office of Vital Records staff,Monthly,2016
+HHS,9100,8096,"Number of Mobile Vending permit inspections and routine inspections conducted.",0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,Amanda,Monthly,2016
+HHS,9100,1958,"Number of public health education/outreach activities.",0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,Internal report,Monthly,2016
 HHS,9100,1946,Number of reinspections due to noncompliance at Food Establishments,0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,ECH food establishment database,Monthly,2016
 HHS,9100,1954,Number of routine inspections for fixed food establishments (City),0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,,Monthly,2016
 HHS,9100,1957,Number of routine inspections per fixed food establishment (County),0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Result,AMANDA,Quarterly,2016
 HHS,9100,7813,Percent of City of Austin fixed food establishments who prominently display their permit for Public Viewing,0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Result,,Annually,2016
 HHS,9100,6442,Percent of field services conducted that result in control measures being applied in the Rodent and Vector program,0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Result,rodent/vector amanda database,Monthly,2016
-HHS,9100,1953,"Percent of public pools & spas in compliance upon inspection.
-",0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Result,AMANDA,Quarterly,2016
+HHS,9100,1953,"Percent of public pools & spas in compliance upon inspection.",0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Result,AMANDA,Quarterly,2016
 HHS,9100,8093,Total number of pool and spas permits issued,0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,AMANDA,Monthly,2016
 HHS,9100,8097,% of Retail and Food Service Fixed Est. routine inspections resulting in a score of 80 or greater,0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,Amanda,Quarterly,2016
 HHS,9100,1960,Number of field services conducted in the Rodent and Vector Program,0,4EHS,Environmental Health Services,4HSC,Health and Safety Code Compliance,Output,Activity logs which are maintained in the activity database.,Monthly,2016
@@ -768,8 +709,7 @@ HHS,9100,8092,Total number of food permits issued,0,4EHS,Environmental Health Se
 HHS,9100,1919,Average number of business days before graffiti is removed,0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Result,311 system,Quarterly,2016
 HHS,9100,1920,Number of graffitti clean-ups completed,0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,Internal graffiti database,Quarterly,2016
 HHS,9100,6450,Number of sexuality education & skills development encounters provided to adults ages 25 & over,0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,provider records,Monthly,2016
-HHS,9100,7812,Number of youth in the Austin Youth Development Program with completed Individual Development Plans (IDP),0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,"Internal youth development data base
-",Quarterly,2016
+HHS,9100,7812,Number of youth in the Austin Youth Development Program with completed Individual Development Plans (IDP),0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,"Internal youth development data base",Quarterly,2016
 HHS,9100,6461,Number of youth who successfully complete the Summer Youth Employment Program,0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,internal hr logs,Annually,2016
 HHS,9100,1914,Number of youth with disabilities placed in Summer Youth Employment jobs,0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,Internal Youth Program database,Annually,2016
 HHS,9100,1932,Number youth in AYD direct services completing educational goals.,0,3MCH,"Maternal, Child & Adolescent Health",3FHS,Family Health,Output,,Annually,2016
@@ -827,8 +767,7 @@ HR,5800,2187,Percentage of charges resolved required by contract,0,1HRM,Human Re
 HR,5800,8211,Percentage of departments conducting annual ADA planning meeting,0,1HRM,Human Resources Management Services,8CMS,Community Services,Result,"ADA Onsite Summary Reports, log sheets",Annually,2016
 HR,5800,2094,"Citywide sick leave utilization per 1,000 hours worked",0,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Result,"""The Human Resources Department trackss this information and reports it quarterly. Sick leave hours and number of scheduled hours are taken from BANNER.""",Monthly,2016
 HR,5800,2089,Employee ratings of personnel policy administration,0,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Result,Listening to the Workforce Survey,Annually,2016
-HR,5800,8440,Number of appealable actions filed with MCS and Civil Service,0,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Result,"AIMS on Target System (database) report - MCS
-Excel Workbook - CS",Quarterly,2016
+HR,5800,8440,Number of appealable actions filed with MCS and Civil Service,0,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Result,"AIMS on Target System (database) report - MCS Excel Workbook - CS",Quarterly,2016
 HR,5800,8456,Number of Civil Service and Municipal Civil Service hearings held,0,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Output,Signed notice of decision (Municipal Civil Service),Quarterly,2016
 HR,5800,7041,Percentage of quality assurance recommendations management agrees to implement,1,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Result,Quality Assurance database,Quarterly,2016
 HR,5800,7040,"Percentage of timely postings of Public Notice for Commission Meetings, Promotional Exams and Disciplinary Proceedings",0,1HRM,Human Resources Management Services,1ELR,Employee and Labor Relations,Result,Program log,Quarterly,2016
@@ -878,11 +817,7 @@ LAW,5700,6487,Percentage of employees familiar with the ethics policies,0,5OPA,O
 LAW,5700,6488,Percentage of employees who know how to report unethical behavior,0,5OPA,Opinions and Advice,4ETO,Ethics and Compliance,Result,Listening to the Workforce survey,Annually,2016
 LAW,5700,6486,Total number of employees receiving ethics values and compliance training,1,5OPA,Opinions and Advice,4ETO,Ethics and Compliance,Output,,Quarterly,2016
 LAW,5700,6640,Percent of clients reporting that employment advice provided by attorneys was clear and relevant,0,5OPA,Opinions and Advice,5EMP,General Counsel,Result,Customer survey results,Annually,2016
-LAW,5700,6642,Percent of clients reporting that employment advice provided by attorneys was timely,0,5OPA,Opinions and Advice,5EMP,General Counsel,Result,"The survey uses a Likert scale of 1 to 5, with 5 being always or almost always and 1 being very rarely or never. At the end of the fiscal year, the number of participants who selected 5-always or almost always, 4-more often than not, and 3- about half the time for the related survey question is totaled then divided by the total number of responses to determine the percentage of respondents were provided employment advice by the Law Department in a timely manner. 
-
-Note: the number of respondents that select the response - I haven't received any employee advice from the Law Department are removed from the total respondents.
-
-Note: the number of respondents that select the response - I haven't received any employee advice from the Law Department are removed from the total respondents.",Annually,2016
+LAW,5700,6642,Percent of clients reporting that employment advice provided by attorneys was timely,0,5OPA,Opinions and Advice,5EMP,General Counsel,Result,"The survey uses a Likert scale of 1 to 5, with 5 being always or almost always and 1 being very rarely or never. At the end of the fiscal year, the number of participants who selected 5-always or almost always, 4-more often than not, and 3- about half the time for the related survey question is totaled then divided by the total number of responses to determine the percentage of respondents were provided employment advice by the Law Department in a timely manner. Note: the number of respondents that select the response - I haven't received any employee advice from the Law Department are removed from the total respondents. Note: the number of respondents that select the response - I haven't received any employee advice from the Law Department are removed from the total respondents.",Annually,2016
 LAW,5700,7110,Average turnaround time to complete Neighborhood Housing & Community Development Department matters,0,5OPA,Opinions and Advice,5CTS,Land Use and Real Estate,Result,Time Matters,Quarterly,2016
 LAW,5700,7391,Average turnaround time to complete other real estate matters,0,5OPA,Opinions and Advice,5CTS,Land Use and Real Estate,Result,Excel Spreadsheet,Quarterly,2016
 LAW,5700,7109,Average turnaround time to complete Parks Department matters,0,5OPA,Opinions and Advice,5CTS,Land Use and Real Estate,Result,Time Matters,Quarterly,2016
@@ -913,8 +848,7 @@ LIB,8500,2304,Number of volumes added to the collection (GF+CIP),0,3CDL,Material
 LIB,8500,2307,Number of volumes received,0,3CDL,Materials Management Services,3CLL,Collection Support,Output,"Daily physical tic mark count by staff of volumes received, processed, and added to the collection, along with the number of cataloged and drop-shipped items by vendor that are added to the collection, entered into and tallied by Excel spreadsheet.",Quarterly,2016
 LIB,8500,2309,Citizen satisfaction with materials at libraries (%),1,3CDL,Materials Management Services,3CLL,Collection Support,Result,"Annual ""City of Austin Citizen Survey"" that is administered through the Budget Office.",Annually,2016
 LIB,8500,2308,Materials expenditures per capita,1,3CDL,Materials Management Services,3CLL,Collection Support,Result,Current fiscal year approved FP population figure (as reported and updated by the Budget Office through the Budget Manual); DXR FS104A01 expenditure report for specified period.,Quarterly,2016
-LIB,8500,7673,Materials expenditures per capita (Capital funding),0,3CDL,Materials Management Services,3CLL,Collection Support,Output,"Current fiscal year approved FP population figure (as reported and updated by the Budget Office through the Budget Manual); DXR FS104A01 expenditure report for specified period.
-",Annually,2016
+LIB,8500,7673,Materials expenditures per capita (Capital funding),0,3CDL,Materials Management Services,3CLL,Collection Support,Output,"Current fiscal year approved FP population figure (as reported and updated by the Budget Office through the Budget Manual); DXR FS104A01 expenditure report for specified period.",Annually,2016
 LIB,8500,2275,Number of new items digitized,0,2PBS,Public Services,2AHC,Austin History Center,Output,Hand count of number of new items digitized by Photo Curator and other designated staff or volunteers.,Quarterly,2016
 LIB,8500,2274,"Number of WEB ""hits""",0,2PBS,Public Services,2AHC,Austin History Center,Output,"Statistics generated from Google Analytics for AHC pages, statistics from the Portal to Texas History generated by the University of North Texas, statistics from TARO generated by the University of Texas, and monthly statistical report from Facebook.",Quarterly,2016
 LIB,8500,6437,Number of archival items processed,0,2PBS,Public Services,2AHC,Austin History Center,Output,"Manual count of items processed by the curator for each collection unit (Austin Files, General Collection, Periodicals, Maps, Archives, Photographs, and Recordings).",Quarterly,2016
@@ -991,16 +925,13 @@ MCRT,4600,2406,Number of cases filed requiring appearance at DACC,0,5DAC,Downtow
 MCRT,4600,2407,Percent of cases docketed for which offenders appear for any scheduled appearance,0,5DAC,Downtown Austin Community Court,5ARR,Court Operations,Result,query report using court's database,Annually,2016
 MCRT,4600,2402,Total number of cases docketed,0,5DAC,Downtown Austin Community Court,5ARR,Court Operations,Output,DACCP Performance Measure Docket report,Monthly,2016
 MCRT,4600,7722,Number of client admissions to DACC-funded Partnership Housing (Permanent Supportive Housing),0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP TCM checkboxes,Monthly,2016
-MCRT,4600,7694,Number of client screenings for Road to Recovery,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,"Project Recovery Monthy Performance Report
-",Monthly,2016
+MCRT,4600,7694,Number of client screenings for Road to Recovery,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,"Project Recovery Monthy Performance Report",Monthly,2016
 MCRT,4600,2421,Number of clients served in residential at Road to Recovery,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,Contractor/Vendor,Monthly,2016
 MCRT,4600,2425,Number of completed rehabilitation sentences,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,query report from court's database,Monthly,2016
 MCRT,4600,7717,Number of direct client contacts by ICMs,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP IMC checkboxes,Monthly,2016
 MCRT,4600,7716,Number of distinct individuals contacted by Intensive Case Managers (ICM),0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP TMC checkboxes,Monthly,2016
-MCRT,4600,7700,Number of incomplete treatment episodes due to client leaving the Road to Recovery program,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,"Road to Recovery Monthly Performance Report
-",Monthly,2016
-MCRT,4600,7701,Number of incomplete treatment episodes due to the Road to Recovery program discharging the client,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,"Road to Recovery Monthly Performance Report
-",Monthly,2016
+MCRT,4600,7700,Number of incomplete treatment episodes due to client leaving the Road to Recovery program,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,"Road to Recovery Monthly Performance Report",Monthly,2016
+MCRT,4600,7701,Number of incomplete treatment episodes due to the Road to Recovery program discharging the client,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,"Road to Recovery Monthly Performance Report",Monthly,2016
 MCRT,4600,7718,Number of referrals to substance abuse treatment by ICMs,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,CP IMC checkboxes,Quarterly,2016
 MCRT,4600,2426,Number of rehabilitation sentences,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,query report from court's database,Monthly,2016
 MCRT,4600,7725,Number of times ICM facilitated a client applying for a source of income,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP ICM checkboxes,Monthly,2016
@@ -1011,21 +942,14 @@ MCRT,4600,7730,Number of times ICM facilitated client obtaining any form of iden
 MCRT,4600,2423,Number of unduplicated clients in aftercare services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,Contractor/Vendor,Monthly,2016
 MCRT,4600,7966,Number of unduplicated clients who obtain safe and stable housing as a result of participating in Rapid Rehousing services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP  RRH Checkboxes,Quarterly,2016
 MCRT,4600,7965,Number of unduplicated clients who receive Rapid Rehousing Services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP  RRH Checkboxes,Quarterly,2016
-MCRT,4600,7699,Percent of clients in Road to Recovery discharged to stable housing upon completion of residential treatment,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report
-",Monthly,2016
-MCRT,4600,7698,Percent of clients in Road to Recovery who have maintained or obtained a primary medical care home before they complete the residential program,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Project Recovery Monthly Performance Report
-",Monthly,2016
-MCRT,4600,7697,Percent of clients in Road to Recovery who have maintained or obtained income,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report
-",Monthly,2016
-MCRT,4600,7696,Percent of clients in Road to Recovery who have obtained a picture ID,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report
-",Monthly,2016
+MCRT,4600,7699,Percent of clients in Road to Recovery discharged to stable housing upon completion of residential treatment,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report",Monthly,2016
+MCRT,4600,7698,Percent of clients in Road to Recovery who have maintained or obtained a primary medical care home before they complete the residential program,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Project Recovery Monthly Performance Report",Monthly,2016
+MCRT,4600,7697,Percent of clients in Road to Recovery who have maintained or obtained income,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report",Monthly,2016
+MCRT,4600,7696,Percent of clients in Road to Recovery who have obtained a picture ID,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report",Monthly,2016
 MCRT,4600,2420,Percent of clients successfully completing residential treatment at Road to Recovery,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Result,Contractor/Vendor,Monthly,2016
-MCRT,4600,7705,Percent of clients with successful Road to Recovery treatment episodes who report sobriety 6 months after exiting services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report
-",Monthly,2016
-MCRT,4600,7703,Percent of Road to Recovery clients who complete at least 60 days of aftercare services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report
-",Monthly,2016
-MCRT,4600,7704,Percent of Road to Recovery clients who complete at least 90 days of aftercare services.,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report
-",Monthly,2016
+MCRT,4600,7705,Percent of clients with successful Road to Recovery treatment episodes who report sobriety 6 months after exiting services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report",Monthly,2016
+MCRT,4600,7703,Percent of Road to Recovery clients who complete at least 60 days of aftercare services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report",Monthly,2016
+MCRT,4600,7704,Percent of Road to Recovery clients who complete at least 90 days of aftercare services.,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Efficiency,"Road to Recovery Monthly Performance Report",Monthly,2016
 MCRT,4600,7967,Percentage of unduplicated clients who obtain safe and stable housing as a result of participating in Rapid Rehousing services,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,DACCP  RRH Checkboxes,Quarterly,2016
 MCRT,4600,2430,"Rehabilitation services funding level (detox, inpatient and outpatient substance abuse treatment, transitional housing, and stability support services)",0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,City's financial reports,Annually,2016
 MCRT,4600,7968,Total Number of clients leaving residential treatment at Road to Recovery and entering transitional housing funded by Downtown Austin Community Court,0,5DAC,Downtown Austin Community Court,5SSV,Rehabilitation Services,Output,ATCIC - Road to Recovery monthly performance report,Monthly,2016
@@ -1037,8 +961,7 @@ MCRT,4600,2368,Number of case documents,0,4PUB,Municipal Court Operations,3CFM,C
 MCRT,4600,7887,Number of cases placed for quality review - Total,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,Crystal report,Monthly,2016
 MCRT,4600,2357,Number of cases processed at walk-in dockets - Total,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,Crystal Report,Monthly,2016
 MCRT,4600,2364,Number of cases scheduled on appearance dockets - Total,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,Crystal reports,Monthly,2016
-MCRT,4600,2358,Number of cases scheduled on trial dockets - Total,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,"Crystal Report
-",Monthly,2016
+MCRT,4600,2358,Number of cases scheduled on trial dockets - Total,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,"Crystal Report",Monthly,2016
 MCRT,4600,2365,Number of cases terminated - Total,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,courts database,Monthly,2016
 MCRT,4600,2367,Number of cases updated,0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Output,"Crystal Report /Performance Measure AC JEMS 60,12.rptPerf.",Monthly,2016
 MCRT,4600,7886,"Number of court work processes, modified or created",0,4PUB,Municipal Court Operations,3CFM,Caseflow Management,Result,Manual count,Monthly,2016
@@ -1057,8 +980,7 @@ MCRT,4600,2401,Number of class C release to appear cases,0,4PUB,Municipal Court 
 MCRT,4600,2399,Number of Emergency Protective Orders distributed,0,4PUB,Municipal Court Operations,4MST,Central Booking Support,Output,CASE SUBTYPE REPORT run from within the court's case  management application,Monthly,2016
 MCRT,4600,2400,Number of jail cases prepared,0,4PUB,Municipal Court Operations,4MST,Central Booking Support,Output,"Class C case total is received from SetOnArraignmentDocet report located in courts case  management , Misdemeanor and Felony numbers are e-mailed from Julie Cullen with Travis County",Monthly,2016
 MCRT,4600,2397,Percent of release to appear cases to the number of class C cases prepared,0,4PUB,Municipal Court Operations,4MST,Central Booking Support,Result,Court's case management system,Monthly,2016
-MCRT,4600,2384,Number of boot/tow cases terminated,0,4PUB,Municipal Court Operations,4CPA,Civil Parking Administration,Output,"Crystal Reports
-",Monthly,2016
+MCRT,4600,2384,Number of boot/tow cases terminated,0,4PUB,Municipal Court Operations,4CPA,Civil Parking Administration,Output,"Crystal Reports",Monthly,2016
 MCRT,4600,2382,Number of boot/tow orders issued,0,4PUB,Municipal Court Operations,4CPA,Civil Parking Administration,Output,Crystal Reports,Monthly,2016
 MCRT,4600,2380,Number of cases terminated - Parking,0,4PUB,Municipal Court Operations,4CPA,Civil Parking Administration,Output,Crystal Reports,Monthly,2016
 MCRT,4600,2383,Number of parking hearings appealed,0,4PUB,Municipal Court Operations,4CPA,Civil Parking Administration,Output,Log book kept in Hearings Office,Monthly,2016
@@ -1083,8 +1005,7 @@ MCRT,4600,2395,Pieces of Mail Processed,0,4PUB,Municipal Court Operations,4CSV,C
 MCRT,4600,2455,Average length of time to terminate (in days) - Cameras at Red Light,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Result,Crystal Reports,Monthly,2016
 MCRT,4600,2461,Number of affidavits processed,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Output,Crystal Reports,Monthly,2016
 MCRT,4600,2458,Number of case hearings held,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Output,Crystal Reports,Monthly,2016
-MCRT,4600,2456,Number of cases terminated - Cameras at Red Light,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Output,"Crystal Reports
-",Monthly,2016
+MCRT,4600,2456,Number of cases terminated - Cameras at Red Light,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Output,"Crystal Reports",Monthly,2016
 MCRT,4600,2454,Number of fatal collisions at camera intersections,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Result,APD,Monthly,2016
 MCRT,4600,2459,Number of hearings appealed to Judges,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Output,Log book kept in Hearing Offices,Monthly,2016
 MCRT,4600,2451,Number of images submitted to APD for review,0,7MSP,Municipal Court Special Programs,7CAR,Civil Red Light Administration,Demand,Red Flex reporting,Monthly,2016
@@ -1101,8 +1022,7 @@ MCRT,4600,2475,Number of cases terminated - Juvenile,0,7MSP,Municipal Court Spec
 MCRT,4600,2474,Number of cases transferred to Juvenile Court,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Output,Juvenile Monthly Summary Report/Report Library,Monthly,2016
 MCRT,4600,7632,Number successfully completing teen court,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Result,Crystal report/Manual calculation,Monthly,2016
 MCRT,4600,7733,Show-up Rate,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Output,JEMS,Monthly,2016
-MCRT,4600,7248,Percent of cases successfully completing sentencing/deferred disposition,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Result,"The data is provided on a monthly report that tallies the total deferrals of the month and the number of those done successfully; these two numbers are then calculated into a percentage manually on an excel spreadsheet.
-",Monthly,2016
+MCRT,4600,7248,Percent of cases successfully completing sentencing/deferred disposition,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Result,"The data is provided on a monthly report that tallies the total deferrals of the month and the number of those done successfully; these two numbers are then calculated into a percentage manually on an excel spreadsheet.",Monthly,2016
 MCRT,4600,6782,Percent of cases terminated to filed - Juvenile,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Result,Court's database,Monthly,2016
 MCRT,4600,2476,Total number of cases filed - Juvenile,0,7MSP,Municipal Court Special Programs,7JCA,Youth Case Management,Output,Juvenile Monthly Summary Report/Report Library,Monthly,2016
 MCRT,4600,2518,"% of under 5,000 competitive procurement awards to certified MBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Information is extracted from the Subcontracting, Procurement and Management System (SPAM).The Purchasing Office calculates this information on a quarterly basis and reports to the departments. For more information, contact Helen Lee in the Purchasing",Quarterly,2016
@@ -1147,21 +1067,9 @@ MS,4400,6785,Percent of citizens satisfied with quality of services provided by 
 MS,4400,2541,Percent of Service Requests (including CAFs) delivered on time,0,44CM,City Manager's Office,4CMO,City Management,Result,Database tracking.,Annually,2016
 MS,4400,8384,Number of staff trained,0,44MI,Management Initiatives,4INV,Innovation Office,Output,Sign-in sheets for trainings,Annually,2016
 MS,4400,8386,Percent of subscribers utilizing innovative software,0,44MI,Management Initiatives,4INV,Innovation Office,Result,Percentage of users who are actually using the innovative software that is offered to City employees,Annually,2016
-MS,4400,7669,Audience Reached with Web-based Information,0,44MI,Management Initiatives,4STO,Sustainability Office,Output,"Web tracking data from www.austintexas.gov/sustainability
-Web tracking data from www.coolaustin.org 
-Number of unique web users during each reporting period.
-
-",Annually,2016
-MS,4400,7664,City of Austin Combined Departmental Carbon Footprint,1,44MI,Management Initiatives,4STO,Sustainability Office,Output,"CIS/CC&B
-Fleet M5
-Advantage 3
-Texas Gas Service 
-LCRA
-Individual documentation of generator fuel use and refrigerant use",Annually,2016
-MS,4400,7665,"Number of people reached with educational messaging related to topics of the environment, sustainability, and community greenhouse gas reductions",0,44MI,Management Initiatives,4STO,Sustainability Office,Output,"Staff-created spreadsheets tracking all presentations and events.
-Number of events and number of attendees.
-Internal and external events and audiences.
-",Annually,2016
+MS,4400,7669,Audience Reached with Web-based Information,0,44MI,Management Initiatives,4STO,Sustainability Office,Output,"Web tracking data from www.austintexas.gov/sustainability; Web tracking data from www.coolaustin.org; Number of unique web users during each reportingperiod.",Annually,2016
+MS,4400,7664,City of Austin Combined Departmental Carbon Footprint,1,44MI,Management Initiatives,4STO,Sustainability Office,Output,"CIS/CC&B Fleet M5 Advantage 3 Texas Gas Service LCRA Individual documentation of generator fuel use and refrigerant use",Annually,2016
+MS,4400,7665,"Number of people reached with educational messaging related to topics of the environment, sustainability, and community greenhouse gas reductions",0,44MI,Management Initiatives,4STO,Sustainability Office,Output,"Staff-created spreadsheets tracking all presentations and events. Number of events and number of attendees. Internal and external events and audiences. ",Annually,2016
 MS,4400,7738,Number of contact hours of training provided to internal & external stakeholders,0,44PS,Public Safety Corporate Support,4OEM,Office of Homeland Security & Emergency Management,Output,,Annually,2016
 MS,4400,7739,Number of exercises in which HSEM plays an integral planning and/or response role,0,44PS,Public Safety Corporate Support,4OEM,Office of Homeland Security & Emergency Management,Output,,Annually,2016
 MS,4400,7122,"Number of plans or procedures developed or updated, based on a requirement to update all plans every 5 years",0,44PS,Public Safety Corporate Support,4OEM,Office of Homeland Security & Emergency Management,Output,,Annually,2016
@@ -1411,14 +1319,12 @@ POLIC,8700,8078,Training hours per civilian employee,0,9MGT,Support Services,9AD
 POLIC,8700,8760,Percent of 9-1-1 calls answered within 10 seconds,0,,,,,Result,CAD,Quarterly,2016
 PR,8600,8307,Safe pool visits,0,7CRS,Community Services,2AQU,Aquatics,Result,RecTrac and Aquatic Division Records,Annually,2016
 PR,8600,8460,Number of patron injuries at pools,0,7CRS,Community Services,2AQU,Aquatics,Output,Safety Office Records,Monthly,2016
-PR,8600,8471,Percent of aquatics program participants reporting an improvement to their quality of life,0,7CRS,Community Services,2AQU,Aquatics,Result,"Recreation Program Unit Surveys & Evaluations
-",Annually,2016
+PR,8600,8471,Percent of aquatics program participants reporting an improvement to their quality of life,0,7CRS,Community Services,2AQU,Aquatics,Result,"Recreation Program Unit Surveys & Evaluations",Annually,2016
 PR,8600,7639,Percent of users satisfied with City of Austin swimming pools,0,7CRS,Community Services,2AQU,Aquatics,Result,Annual Citizen Survey.,Annually,2016
 PR,8600,8297,Pool visits,0,7CRS,Community Services,2AQU,Aquatics,Demand,RecTrac,Monthly,2016
 PR,8600,8461,Number of patron injuries during athletic programs,0,7CRS,Community Services,2ATH,Athletics,Result,Safety Office Records,Monthly,2016
 PR,8600,7640,Percent of athletic league participants satisfied with the quality of outdoor athletic fields,0,7CRS,Community Services,2ATH,Athletics,Result,Athletics Survey,Annually,2016
-PR,8600,8467,Percent of athletics program participants reporting an improvement to their quality of life,0,7CRS,Community Services,2ATH,Athletics,Result,"Recreation Program Unit Surveys & Evaluations
-",Annually,2016
+PR,8600,8467,Percent of athletics program participants reporting an improvement to their quality of life,0,7CRS,Community Services,2ATH,Athletics,Result,"Recreation Program Unit Surveys & Evaluations",Annually,2016
 PR,8600,2981,Percent of participants satisfied with City of Austin athletic programs,0,7CRS,Community Services,2ATH,Athletics,Result,Annual Citizen Survey,Annually,2016
 PR,8600,8310,Youth sports participants,0,7CRS,Community Services,2ATH,Athletics,Output,RecTrac,Annually,2016
 PR,8600,8336,Number of park trees receiving maintenance,0,7CRS,Community Services,5FOR,Forestry,Output,MicroMain Work Order System,Monthly,2016
@@ -1458,8 +1364,7 @@ PR,8600,8470,Percent of recreation program participants reporting an improvement
 PR,8600,8306,Percent of users satisfied with recreation programs,0,7CRS,Community Services,7RCA,Recreation & Program Services,Result,Annual Citizen Survey,Annually,2016
 PR,8600,8380,Seniors enrolled in organized programs at Senior Centers,0,7CRS,Community Services,7RCA,Recreation & Program Services,Demand,RecTrac,Annually,2016
 PR,8600,8379,Youth served through organized programs at Recreation Centers,0,7CRS,Community Services,7RCA,Recreation & Program Services,Output,RecTrac,Annually,2016
-PR,8600,8073,Cemetery operations cost per acre maintained,0,10PL,"Parks, Planning, Development & Operations",5CEM,Cemetery Operations,Efficiency,"1) Monthly DXR Report and 2) Monthly Parkland Inventory Report 
-",Quarterly,2016
+PR,8600,8073,Cemetery operations cost per acre maintained,0,10PL,"Parks, Planning, Development & Operations",5CEM,Cemetery Operations,Efficiency,"1) Monthly DXR Report and 2) Monthly Parkland Inventory Report ",Quarterly,2016
 PR,8600,8048,Citizen satisfaction with City of Austin cemetery grounds,0,10PL,"Parks, Planning, Development & Operations",5CEM,Cemetery Operations,Result,City of Austin Cemetery survey of Citizens that use or visit the cemeteries,Annually,2016
 PR,8600,8375,Customer satisfaction with the customer service provided by City of Austin cemetery staff,0,10PL,"Parks, Planning, Development & Operations",5CEM,Cemetery Operations,Result,to be determined,Annually,2016
 PR,8600,8770,Number of municipal cemetery spaces sold,0,10PL,"Parks, Planning, Development & Operations",5CEM,Cemetery Operations,Output,Cemetery Operations Financial Software,Annually,2016
@@ -1482,11 +1387,9 @@ PR,8600,8317,Total acres of new parkland purchased,0,10PL,"Parks, Planning, Deve
 PR,8600,3082,"% of under 5,000 competitive procurement awards to certified MBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Information is extracted from the Subcontracting, Procurement and Management System (SPAM).The Purchasing Office calculates this information on a quarterly basis and reports to the departments. For more information, contact Helen Lee in the Purchasing Office.",Quarterly,2016
 PR,8600,3085,"% of under 5,000 competitive procurement awards to certified WBE vendors",0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Information is extracted from the Subcontracting, Procurement and Management System (SPAM).The Purchasing Office calculates this information on a quarterly basis and reports to the departments. For more information, contact Helen Lee in the Purchasing Office.",Quarterly,2016
 PR,8600,8342,Electricity use (millions of kilowatt hours),0,9MGT,Support Services,9ADM,Departmental Support Services,Output,Austin Energy Statements,Quarterly,2016
-PR,8600,8197,Parks and Recreation spending per capita,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"For PARD actuals, eCOMBS "Combined Summary by Department" report. For census information,  https://www.austintexas.gov/demographics. 
-",Annually,2016
+PR,8600,8197,Parks and Recreation spending per capita,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"For PARD actuals, eCOMBS "Combined Summary by Department" report. For census information,  https://www.austintexas.gov/demographics. ",Annually,2016
 PR,8600,8341,Potable water consumed (billions of gallons),0,9MGT,Support Services,9ADM,Departmental Support Services,Output,Austin Water Billing Records,Quarterly,2016
-PR,8600,8206,Annual volunteer hours,0,9MGT,Support Services,9ADM,Departmental Support Services,Output,"Volunteer hours are tracked by PARD's volunteer coordinator 
-",Annually,2016
+PR,8600,8206,Annual volunteer hours,0,9MGT,Support Services,9ADM,Departmental Support Services,Output,"Volunteer hours are tracked by PARD's volunteer coordinator ",Annually,2016
 PR,8600,3088,Lost Time Injury Rate,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,"Injury data is generated from entries made by department personnel into a claims database provided by the City's third party administrator (currently known as the "David System"). Actual hours worked is from the productive/overtime report generated by Banner, the City's human resource information system.",Monthly,2016
 PR,8600,3087,Number of employee injuries,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,Includes all lost time injuries as well as all medical only injuries (where an employee visited the doctor for the injury) that did not qualify as lost time.Numbers are taken from the David System (Workers' Compensation Database). The FREQUENCY ANALYSIS REPORT is run approximately three weeks after the last pay period of the reporting month. The Human Resources Department calculates the information and reports to the departments. (Tommy Tucker),Monthly,2016
 PR,8600,8472,Number of patron injuries,0,9MGT,Support Services,9ADM,Departmental Support Services,Result,Safety Office Records,Monthly,2016
@@ -1546,8 +1449,7 @@ PW,6200,3197,Linear feet of new ADA sidewalk constructed to fill in gaps in the 
 PW,6200,3202,Linear feet of sidewalks rehabilitated to meet ADA requirements,0,7SDW,Sidewalk Infrastructure Program,32SW,Sidewalk Program,Output,Reports from Sidewalk Team project manager which includes quantities reported by PWD Street & Bridge Ops Superintendent for in-house construction and contracted sources as related to CIP funding,Quarterly,2016
 PW,6200,3203,Number of curb ramps constructed,1,7SDW,Sidewalk Infrastructure Program,32SW,Sidewalk Program,Output,Reports from Sidewalk Team project manager which includes quantities reported by PWD Street & Bridge Ops Superintendent for in-house construction and contracted sources as related to CIP funding,Quarterly,2016
 PW,6200,3204,Total linear feet of new ADA sidewalk constructed or sidewalk rehabilitated to meet ADA requirements,1,7SDW,Sidewalk Infrastructure Program,32SW,Sidewalk Program,Output,Reports from Sidewalk Team project manager which includes quantities reported by PWD Street & Bridge Ops Superintendent for in-house construction and contracted sources as related to CIP funding,Quarterly,2016
-PW,6200,3150,Lane miles of overlay completed,1,2SPM,Street Preventative Maintenance,2ASP,Asphalt Overlay,Output,"1.From in house work forces :Daily Worklogs, Worklog database in PMIS (Pavement Management Information System) 
-2.From contracted lane miles reported by the Public Works construction contract Project Manager",Monthly,2016
+PW,6200,3150,Lane miles of overlay completed,1,2SPM,Street Preventative Maintenance,2ASP,Asphalt Overlay,Output,"1.From in house work forces :Daily Worklogs, Worklog database in PMIS (Pavement Management Information System) 2.From contracted lane miles reported by the Public Works construction contract Project Manager",Monthly,2016
 PW,6200,3151,Percent of street inventory improved by overlay,0,2SPM,Street Preventative Maintenance,2ASP,Asphalt Overlay,Result,Lanes miles of overlay completed and number of lanes  miles managed,Quarterly,2016
 PW,6200,3153,Lane miles of preventive maintenance crack seal completed,1,2SPM,Street Preventative Maintenance,2CKS,Crack Seal Resurfacing,Output,Daily Worklogs and Worklog database in PMIS (Pavement Management Information System),Monthly,2016
 PW,6200,3154,Percent of street inventory maintained by preventive maintenance crack seal,0,2SPM,Street Preventative Maintenance,2CKS,Crack Seal Resurfacing,Result,Lane miles of preventive maintenance crack seal lane miles completed and number of lane miles managed,Quarterly,2016
@@ -1758,9 +1660,7 @@ WWW,2200,7276,Percent of samples with chlorine residuals less than 0.5 mg/l,0,NV
 WWW,2200,7273,"Utility-wide energy efficiency (kWh per million gallons of water, wastewater, and reclaimed water services provided)",0,NVAC,Environmental Affairs & Conservation,NREG,Environmental and Regulatory Services,Result,"All electric accounts, Treatment records.",Annually,2016
 WWW,2200,8261,Number of community meetings,0,NVAC,Environmental Affairs & Conservation,NPIN,Public Affairs,Output,Public Affairs Office records,Quarterly,2016
 WWW,2200,8263,Percentage of Press Coverage,0,NVAC,Environmental Affairs & Conservation,NPIN,Public Affairs,Output,City of Austin Tele Clips,Quarterly,2016
-WWW,2200,8184,Number of pass through and interference events caused by industrial users,0,NVAC,Environmental Affairs & Conservation,PSSS,Special Services,Output,"WEIRS database, wastewater treatment  and bio-solids plants monitoring data and reports from the Laboratory Services Division, Treatment Program Area's operational data and reports.
-
-",Annually,2016
+WWW,2200,8184,Number of pass through and interference events caused by industrial users,0,NVAC,Environmental Affairs & Conservation,PSSS,Special Services,Output,"WEIRS database, wastewater treatment  and bio-solids plants monitoring data and reports from the Laboratory Services Division, Treatment Program Area's operational data and reports.",Annually,2016
 WWW,2200,8183,Percentage of tests reported in compliance with water protection requirements,0,NVAC,Environmental Affairs & Conservation,PSSS,Special Services,Result,"The WEIRS database is used to track the regulated customers, notifications and receipt of reports and compliance status for BPAs, PFHs and CCTs.  The WEIRS database is used to identify the AWU customers of record responsible for meeting these requirements and for billing the fees used in support of these programs.",Annually,2016
 WWW,2200,8163,Peaking Factor (ratio of maximum daily demand to average daily demand),0,NVAC,Environmental Affairs & Conservation,NCON,Water Conservation,Result,Daily pumpage records (treatment and systems planning),Annually,2016
 WWW,2200,7066,Total pumpage per capita per day,1,NVAC,Environmental Affairs & Conservation,NCON,Water Conservation,Result,"Treatment plant meters, Census, Billing System-CC&B",Annually,2016
@@ -1798,20 +1698,17 @@ WWW,2200,7296,"Percent digester effluent biosolids reused as compost, land appli
 WWW,2200,3845,Percentage of compliance with regulatory reporting requirements,0,TRMT,Treatment,TPEN,Process Engineering,Result,Activity staff,Quarterly,2016
 WWW,2200,7294,"Number of I&C and electrical work orders that are in open, scheduled, waiting scheduling status at start of each month",0,TRMT,Treatment,TSUP,Treatment O&M Support,Output,INFOR (CMMS) Computerized Maintenance Management System:  Work order tracking system - Work Order Completion Report.,Quarterly,2016
 WWW,2200,3839,Percent (%) Lab Analyses Reported within Customer Requested Turnaround Time (TAT),0,TRMT,Treatment,TSUP,Treatment O&M Support,Result,Activity database,Quarterly,2016
-WWW,2200,7295,Percent of equipment calibration and preventive maintenance work orders completed to total scheduled,0,TRMT,Treatment,TSUP,Treatment O&M Support,Result,"Work order tracking system in Treatment : INFOR - Computerized Maintenance  & Materials System - Work Orders Percent Completed to Schedule on Time Report.
-",Monthly,2016
+WWW,2200,7295,Percent of equipment calibration and preventive maintenance work orders completed to total scheduled,0,TRMT,Treatment,TSUP,Treatment O&M Support,Result,"Work order tracking system in Treatment : INFOR - Computerized Maintenance  & Materials System - Work Orders Percent Completed to Schedule on Time Report.",Monthly,2016
 WWW,2200,3840,"Percentage of analytical results submitted in TCEQ mandated blind studies and other Proficiency testing blind studies that are evaluated as ""Acceptable"" (biannual)",0,TRMT,Treatment,TSUP,Treatment O&M Support,Result,Activity database,Quarterly,2016
 WWW,2200,7303,kWh per million gallons of wastewater treated,0,TRMT,Treatment,TWWT,Wastewater Operations,Efficiency,AE records and Wastewater Treatment records,Quarterly,2016
-WWW,2200,3863,Wastewater Quality: Ammonia,0,TRMT,Treatment,TWWT,Wastewater Operations,Result,"Laboratory Services Test Results
-",Quarterly,2016
+WWW,2200,3863,Wastewater Quality: Ammonia,0,TRMT,Treatment,TWWT,Wastewater Operations,Result,"Laboratory Services Test Results",Quarterly,2016
 WWW,2200,3862,Wastewater Quality: Carbonaceous Biochemical Oxygen Demand (CBOD),1,TRMT,Treatment,TWWT,Wastewater Operations,Result,Lab tests done daily,Quarterly,2016
 WWW,2200,3861,Drinking Water Quality: Turbidity,1,TRMT,Treatment,TWTR,Water Operations,Result,Lab tests done daily,Quarterly,2016
 WWW,2200,7304,kWh per million gallons of water treated and distributed,0,TRMT,Treatment,TWTR,Water Operations,Efficiency,"AE logs, Water Treatment logs",Quarterly,2016
 WWW,2200,8483,Percent of Austin Water Standard Details reviewed,0,WRMT,Water Resources Management,EPIP,Engineering Design and Construction Standards,Result,Internal file/spreadsheet maintained with Water Resources Management Program,Quarterly,2016
 WWW,2200,8212,Percent of initial review of as-built projects completed within 14 days,0,WRMT,Water Resources Management,EPIP,Engineering Design and Construction Standards,Result,Projects logged in by Infrastructure Mapping & Records team in MARS,Quarterly,2016
 WWW,2200,6561,Percent Invested in Capital Improvements Program (CIP) Projects compared to Planned Spending via the CIP Budget,1,WRMT,Water Resources Management,WINF,Infrastructure Management,Result,Financial data,Quarterly,2016
-WWW,2200,8045,Percentage of CIP projects in the AW GIS available for project coordination and spatial analysis,0,WRMT,Water Resources Management,WINF,Infrastructure Management,Result,"Austin Water and IMMPACT GIS datasets updated weekly, and eCAPRIS (including AIMS data) via MicroStrategy BI
-ESRI ModelBuilder and MS Visual Basic are used to automate many aspects of this analysis: to gather data from many sources, merge feature classes, and analyze data. All current and future funded projects are to be mapped and updated as needed to be current.",Quarterly,2016
+WWW,2200,8045,Percentage of CIP projects in the AW GIS available for project coordination and spatial analysis,0,WRMT,Water Resources Management,WINF,Infrastructure Management,Result,"Austin Water and IMMPACT GIS datasets updated weekly, and eCAPRIS (including AIMS data) via MicroStrategy BI ESRI ModelBuilder and MS Visual Basic are used to automate many aspects of this analysis: to gather data from many sources, merge feature classes, and analyze data. All current and future funded projects are to be mapped and updated as needed to be current.",Quarterly,2016
 WWW,2200,6574,Number of hydraulic studies completed,0,WRMT,Water Resources Management,WSYP,Systems Planning,Output,Staff activity tracking.,Quarterly,2016
 WWW,2200,3870,Peak day water usage as a percentage of water treatment system capacity,0,WRMT,Water Resources Management,WSYP,Systems Planning,Result,Treatment records.,Annually,2016
 WWW,2200,7305,Number of design plans reviewed for new or modified on-site sewage facilities,0,WRMT,Water Resources Management,WUDS,Utility Development Services,Output,UDS plan review logs,Quarterly,2016
