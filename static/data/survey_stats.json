@@ -6,7 +6,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "1838",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1838&m_name=Number%20of%20animals%20sterilized%20in%20the%20community&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -33,7 +33,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8409",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8409&m_name=Percent%20of%20shelter%20live%20outcomes&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -360,7 +360,7 @@
             "dept": "Austin Transportation",
             "dept_short": "TRA",
             "id": "6913",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=6913&m_name=Percent%20of%20signs%20that%20are%20in%20fair%20to%20excellent%20condition&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -434,7 +434,7 @@
             "dept": "Austin Water",
             "dept_short": "WAT",
             "id": "3861",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Water&m_id=3861&m_name=Drinking%20Water%20Quality%3A%20Turbidity&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -774,7 +774,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "1707",
-            "status": "verified",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1707&m_name=Receiving%20Government%20Finance%20Officers%20Association%20Distinguished%20Budget%20Award&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1070,7 +1070,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1984",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1984&m_name=Number%20of%20development%20encounters%20for%20youth%2010-24%20%28leadership%2C%20healthy%20decision%20making%2C%20sexual%20health%20ed.%29&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1079,7 +1079,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1993",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1993&m_name=Percent%20of%20women%20enrolled%20in%20WIC%20during%20pregnancy%20who%20subsequently%20breastfeed%20their%20children&contact=stefan.wray%40austintexas.gov"
         },
         {
