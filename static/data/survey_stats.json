@@ -53,7 +53,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7022",
-            "status": "verified",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7022&m_name=Average%20number%20of%20days%20from%20when%20code%20compliance%20complaints%20are%20first%20assigned%20to%20inspectors%20until%20first%20response&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -548,7 +548,7 @@
             "dept": "Communication and Technology Management",
             "dept_short": "TEC",
             "id": "8034",
-            "status": "verified",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=8034&m_name=Percentage%20of%20applications%20with%20service%20level%20agreements&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -584,7 +584,7 @@
             "dept": "Communication and Technology Management",
             "dept_short": "TEC",
             "id": "8399",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Communication%20and%20Technology%20Management&m_id=8399&m_name=Number%20of%20Projects%20in%20the%20Portfolio%20for%20CTM&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -718,7 +718,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "1400",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1400&m_name=EMS%20Communications%20Center%20average%20call%20processing%20time%20%28in%20seconds%29&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -727,7 +727,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "1405",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=1405&m_name=Percent%20of%20potentially%20life-threatening%20calls%20%28priority%201%29%20responded%20to%20within%209%20minutes%20and%2059%20seconds%20within%20the%20city%20of%20Austin&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -736,7 +736,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "8229",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8229&m_name=Percent%20of%20priority%201%20through%205%20calls%20responded%20to%20on%20time%20within%20the%20city%20of%20Austin&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1388,7 +1388,7 @@
             "dept": "Neighborhood Housing and Community Development",
             "dept_short": "HOU",
             "id": "7038",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7038&m_name=Number%20of%20repair%20services%20provided%20to%20homeowners%20during%20the%20fiscal%20year&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1894,7 +1894,7 @@
             "dept": "Telecommunications and Regulatory Affairs",
             "dept_short": "TEL",
             "id": "8117",
-            "status": "received",
+            "status": "incomplete",
             "url": "https://haileypate1.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=8117&m_name=Percent%20of%20digital%20inclusion%20programs%27%20participants%20that%20improved%20their%20basic%20digital%20skills&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
