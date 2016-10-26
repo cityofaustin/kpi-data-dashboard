@@ -76,8 +76,8 @@
     },
     "Financial Services": {
         "num_measures": 13,
-        "num_verified": 1,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Fire": {
         "num_measures": 8,
