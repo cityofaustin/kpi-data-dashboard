@@ -680,7 +680,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "8166",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=8166&m_name=Number%20of%20contracts%20with%20arts%20professionals%20and%20arts%20organizations&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -698,7 +698,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "1337",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=1337&m_name=Number%20of%20new%20jobs%20created%20with%20public%20private%20initiatives&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -707,7 +707,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "7926",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=7926&m_name=Number%20of%20jobs%20created%20as%20a%20result%20of%20Family%20Business%20Loans&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],
@@ -772,7 +772,7 @@
             "dept": "Emergency Medical Services",
             "dept_short": "EMS",
             "id": "8231",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Emergency%20Medical%20Services&m_id=8231&m_name=Percentage%20of%20patients%20who%20are%20satisfied%20or%20very%20satisfied%20with%20EMS%20customer%20service&contact=david.andersen%40austintexas.gov"
         }
     ],
@@ -902,7 +902,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "7858",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=7858&m_name=Number%20of%20fire%20technical%20inspections&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -911,7 +911,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "1543",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=1543&m_name=Percent%20of%20arson%20cases%20cleared%20by%20arrest&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -920,7 +920,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "7532",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=7532&m_name=Number%20of%20free%20smoke%20alarms%20installed&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -929,7 +929,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "1556",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=1556&m_name=Number%20of%20unintentional%20fire%20deaths%20in%20the%20past%2012%20months&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -938,7 +938,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "8032",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=8032&m_name=Percent%20of%20cardiac%20arrest%20due%20to%20cardiac%20cause%20that%20arrive%20at%20hospital%20with%20a%20pulse&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -947,7 +947,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "7061",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=7061&m_name=Percent%20of%20customers%20satisfied%20with%20the%20quality%20of%20AFD%20services&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -956,7 +956,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "1480",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=1480&m_name=Percent%20of%20emergency%20incidents%20where%20the%20amount%20of%20time%20between%20call%20receipt%20and%20the%20arrival%20of%20AFD%20unit%20is%208%20minutes%20or%20less&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -965,7 +965,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "6763",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=6763&m_name=Percent%20of%20structure%20fires%20confined%20to%20room%20of%20origin&contact=david.andersen%40austintexas.gov"
         }
     ],
@@ -1276,7 +1276,7 @@
             "dept": "Management Services",
             "dept_short": "MGT",
             "id": "7664",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=7664&m_name=City%20of%20Austin%20Combined%20Departmental%20Carbon%20Footprint&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1511,7 +1511,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "8088",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8088&m_name=Number%20of%20departmental%20libraries%2C%20record%20types%2C%20or%20workflow%20processes%20added%20to%20the%20EDIMS&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1520,7 +1520,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "1091",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=1091&m_name=Percent%20of%2010-Step%20deliverables%20completed&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1547,7 +1547,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "8090",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8090&m_name=Number%20of%20Council%2C%20Board%2C%20Commission%20and%20other%20open%20meetings%20documents%20posted%20to%20the%20public%20website&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1556,7 +1556,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "8091",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8091&m_name=Percent%20of%20new%20board%20and%20commission%20members%20completing%20the%20required%20training%20within%20the%20deadlines&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],
@@ -1567,7 +1567,7 @@
             "dept": "Office of the Medical Director",
             "dept_short": "MED",
             "id": "8063",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20Medical%20Director&m_id=8063&m_name=Number%20of%20hours%20of%20continuing%20education%20provided%20%28EMS%20System%20provider%20trainings%2C%20CPR%20classes%2C%20etc.%29&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1576,7 +1576,7 @@
             "dept": "Office of the Medical Director",
             "dept_short": "MED",
             "id": "8476",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20Medical%20Director&m_id=8476&m_name=Percent%20of%20high-risk/low%20frequency%20events%20reviewed&contact=david.andersen%40austintexas.gov"
         }
     ],
@@ -1623,7 +1623,7 @@
             "dept": "Parks and Recreation",
             "dept_short": "PAR",
             "id": "8474",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=8474&m_name=ParkScore%20Ranking%3A%20park%20quality%20rating%20out%20of%20100&contact=stefan.wray%40austintexas.gov"
         }
     ],
