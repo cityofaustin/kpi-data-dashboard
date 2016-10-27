@@ -510,7 +510,7 @@
             "dept": "Building Services",
             "dept_short": "BLD",
             "id": "8422",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8422&m_name=EPA%20Energy%20Star%20Portfolio%20Manager%20Score&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -519,7 +519,7 @@
             "dept": "Building Services",
             "dept_short": "BLD",
             "id": "8427",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8427&m_name=Operating%20Cost%20of%20Ownership%20Per%20Square%20Foot&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -528,7 +528,7 @@
             "dept": "Building Services",
             "dept_short": "BLD",
             "id": "8428",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8428&m_name=Ratio%20of%20Scheduled%20Versus%20Unscheduled%20Maintenance&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
