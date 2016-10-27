@@ -492,7 +492,7 @@
             "dept": "Building Services",
             "dept_short": "BLD",
             "id": "8246",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=8246&m_name=Average%20customer%20satisfaction%20with%20all%20maintenance%20services&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -501,7 +501,7 @@
             "dept": "Building Services",
             "dept_short": "BLD",
             "id": "1797",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=1797&m_name=Customer%20Satisfaction%20with%20Building%20General%20Maintenance%20Services&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -537,7 +537,7 @@
             "dept": "Building Services",
             "dept_short": "BLD",
             "id": "1803",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Building%20Services&m_id=1803&m_name=Customer%20satisfaction%20with%20security%20services&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
@@ -1567,7 +1567,7 @@
             "dept": "Office of the Medical Director",
             "dept_short": "MED",
             "id": "8063",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20Medical%20Director&m_id=8063&m_name=Number%20of%20hours%20of%20continuing%20education%20provided%20%28EMS%20System%20provider%20trainings%2C%20CPR%20classes%2C%20etc.%29&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1576,7 +1576,7 @@
             "dept": "Office of the Medical Director",
             "dept_short": "MED",
             "id": "8476",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20Medical%20Director&m_id=8476&m_name=Percent%20of%20high-risk/low%20frequency%20events%20reviewed&contact=david.andersen%40austintexas.gov"
         }
     ],

@@ -146,8 +146,8 @@
     },
     "Office of the Medical Director": {
         "num_measures": 2,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 2,
+        "status": "completed"
     },
     "Parks and Recreation": {
         "num_measures": 5,
