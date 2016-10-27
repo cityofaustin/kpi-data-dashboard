@@ -486,5 +486,26 @@
         "textarea_31444284": "Data collection is transitioning from Survey Monkey to our in-house records management and data collection system.",
         "token": "920d57af3d5fa10382e1fb1984268af5",
         "website_31441577": "http://www.austintexas.gov/page/customer-satisfaction-score"
+    },
+    {
+        "contact": "jesse.rodriguez@austintexas.gov",
+        "dept": "Telecommunications and Regulatory Affairs",
+        "email_31442534": "jesse.rodriguez@austintexas.gov",
+        "list_29849202_choice": "desktop spreadsheet",
+        "list_29849901_choice": "yes",
+        "list_31434167_choice": "City staff in my department",
+        "list_31434529_choice": "digital tool",
+        "list_31439434_choice": "annually",
+        "list_31441558_choice": "we publish it, but not on the data portal",
+        "m_id": "8117",
+        "network_id": "6c8afbda38",
+        "started": "2016-10-27 14:03:21",
+        "submitted": "2016-10-27 14:11:57",
+        "textarea_31444284": "Key point of clarification: This measure is an aggregated measure of around 9 grant contract performance measures. My responses are from the point of city collection, not the point that the the non-profits collect the data feeding this measure. The non-profits collect this information using many different mediums and processes, and report quarterly.",
+        "textfield_31442505": "Jesse Rodriguez",
+        "textfield_31442528": "Business Process Specialist",
+        "textfield_32615888": "Digital Inclusion Program",
+        "token": "8a8452287b6f04c9fab30cb60412e8d2",
+        "website_31441577": "http://austintexas.gov/department/telecommunications/about"
     }
 ]
