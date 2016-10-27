@@ -351,7 +351,7 @@
             "dept": "Austin Transportation",
             "dept_short": "TRA",
             "id": "3212",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=3212&m_name=Percent%20reduction%20in%20estimated%20vehicular%20travel%20time%20in%20corridors%20and%20intersections%20studied&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -902,7 +902,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "7858",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=7858&m_name=Number%20of%20fire%20technical%20inspections&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -938,7 +938,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "8032",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=8032&m_name=Percent%20of%20cardiac%20arrest%20due%20to%20cardiac%20cause%20that%20arrive%20at%20hospital%20with%20a%20pulse&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -956,7 +956,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "1480",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=1480&m_name=Percent%20of%20emergency%20incidents%20where%20the%20amount%20of%20time%20between%20call%20receipt%20and%20the%20arrival%20of%20AFD%20unit%20is%208%20minutes%20or%20less&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -965,7 +965,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "6763",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=6763&m_name=Percent%20of%20structure%20fires%20confined%20to%20room%20of%20origin&contact=david.andersen%40austintexas.gov"
         }
     ],
@@ -1323,7 +1323,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "7732",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=7732&m_name=Percent%20of%20frequent%20offenders%20who%20complete%20rehabilitative%20recommendations&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1332,7 +1332,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2361",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2361&m_name=Cases%20terminated%20vs%20cases%20filed&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1341,7 +1341,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2366",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2366&m_name=Number%20of%20cases%20filed%20-%20Total&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1350,7 +1350,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2362",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2362&m_name=Number%20of%20cases%20set%20on%20scheduled%20dockets%20and%20appearing%20at%20walk-in%20dockets&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1359,7 +1359,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2355",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2355&m_name=Percent%20of%20cases%20set%20on%20a%20docket%20within%2060%20days&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1368,7 +1368,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2353",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2353&m_name=Average%20age%20of%20terminated%20cases%20%28days%29&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1377,7 +1377,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "7871",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=7871&m_name=Percent%20of%20customers%20served%20within%2010%20minutes&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1386,7 +1386,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2479",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2479&m_name=Level%20of%20customer%20satisfaction%20as%20indicated%20by%20the%20City%20of%20Austin%20Citizen%20Survey&contact=david.andersen%40austintexas.gov"
         }
     ],

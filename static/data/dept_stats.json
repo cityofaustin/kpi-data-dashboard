@@ -81,8 +81,8 @@
     },
     "Fire": {
         "num_measures": 8,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 4,
+        "status": "in progress"
     },
     "Fleet Services": {
         "num_measures": 5,
