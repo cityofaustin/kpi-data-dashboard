@@ -50,7 +50,7 @@ def get_survey_status():
         d = {dept: {'num_measures': num_measures, 'num_verified': num_verified, 'status': ''}}
         dept_stats.update(d)
 
-    print(dept_stats)
+
 
     print(str(len(dept_stats)) + ' records added to new dept_stats object')
 
@@ -62,7 +62,7 @@ def get_survey_status():
             v['status'] = 'in progress'
             print('another dept marked in progress')
 
-    print(dept_stats)
+
 
 
     # write updated dept stats to json so it can get picked up by routes.py:
