@@ -976,7 +976,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1614",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1614&m_name=Fleet%20Availability%20Rate&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -985,7 +985,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "7217",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=7217&m_name=Fleet%20Preventive%20Maintenance%20On-Time%20Completion%20Rate&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -994,7 +994,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1650",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1650&m_name=Alternative%20Fuel%2C%20Hybrid%2C%20or%20Electric%20Capable%20Units%20as%20a%20Percent%20of%20Total%20Units%20Operated&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1003,7 +1003,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1640",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1640&m_name=Percent%20of%20Vehicles%20Exceeding%20Replacement%20Criteria&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1012,7 +1012,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1647",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1647&m_name=Alternative%20Fuel%20Issued%20as%20a%20Percentage%20of%20All%20Fuel%20Issued&contact=hailey.pate%40austintexas.gov"
         }
     ],

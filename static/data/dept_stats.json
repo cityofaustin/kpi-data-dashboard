@@ -86,8 +86,8 @@
     },
     "Fleet Services": {
         "num_measures": 5,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 5,
+        "status": "completed"
     },
     "Government Relations": {
         "num_measures": 1,
