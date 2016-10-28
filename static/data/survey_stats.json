@@ -109,7 +109,7 @@
             "dept": "Austin Convention Center",
             "dept_short": "CON",
             "id": "7734",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=7734&m_name=ACC%20Exhibit%20Hall%20and%20Ballroom%20Occupancy&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -127,7 +127,7 @@
             "dept": "Austin Convention Center",
             "dept_short": "CON",
             "id": "1146",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1146&m_name=Cumulative%20Client%20Evaluation%20Ratings%20Summary%20%285.0%20scale%29&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -145,7 +145,7 @@
             "dept": "Austin Convention Center",
             "dept_short": "CON",
             "id": "1147",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1147&m_name=Percentage%20of%20Clients%20indicating%20they%20would%20schedule%20another%20event%20at%20the%20Convention%20Center%20facilities&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -947,7 +947,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "7061",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=7061&m_name=Percent%20of%20customers%20satisfied%20with%20the%20quality%20of%20AFD%20services&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -976,7 +976,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1614",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1614&m_name=Fleet%20Availability%20Rate&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -985,7 +985,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "7217",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=7217&m_name=Fleet%20Preventive%20Maintenance%20On-Time%20Completion%20Rate&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -994,7 +994,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1650",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1650&m_name=Alternative%20Fuel%2C%20Hybrid%2C%20or%20Electric%20Capable%20Units%20as%20a%20Percent%20of%20Total%20Units%20Operated&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1003,7 +1003,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1640",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1640&m_name=Percent%20of%20Vehicles%20Exceeding%20Replacement%20Criteria&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1012,7 +1012,7 @@
             "dept": "Fleet Services",
             "dept_short": "FLE",
             "id": "1647",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fleet%20Services&m_id=1647&m_name=Alternative%20Fuel%20Issued%20as%20a%20Percentage%20of%20All%20Fuel%20Issued&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -1690,7 +1690,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "7002",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=7002&m_name=Percent%20of%20Part%20I%20crimes%20cleared&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1699,7 +1699,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "6664",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=6664&m_name=Percent%20of%20residents%20who%20are%20satisfied%20with%20the%20overall%20quality%20of%20police%20services&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1708,7 +1708,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "7003",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=7003&m_name=Part%20II%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1717,7 +1717,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "2815",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=2815&m_name=Property%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1726,7 +1726,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "2816",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=2816&m_name=Violent%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1735,7 +1735,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "2848",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=2848&m_name=Rate%20of%20traffic%20fatalities%20per%20100%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1744,7 +1744,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "6691",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=6691&m_name=Total%20police%20response%20time%20for%20EMERGENCY%20and%20URGENT%20calls&contact=david.andersen%40austintexas.gov"
         }
     ],
