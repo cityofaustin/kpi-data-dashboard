@@ -1097,7 +1097,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "8443",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=8443&m_name=Percent%20of%20homeless%20clients%20residing%20in%20shelters%20that%20receive%20case%20management%20services&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1106,7 +1106,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "7791",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=7791&m_name=Percent%20of%20households%20served%20through%20City%20of%20Austin%20social%20service%20contracts%20that%20maintain%20housing%20or%20transition%20into%20housing%20from%20homelessness&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -1511,7 +1511,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "8088",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8088&m_name=Number%20of%20departmental%20libraries%2C%20record%20types%2C%20or%20workflow%20processes%20added%20to%20the%20EDIMS&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1520,7 +1520,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "1091",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=1091&m_name=Percent%20of%2010-Step%20deliverables%20completed&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1547,7 +1547,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "8090",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8090&m_name=Number%20of%20Council%2C%20Board%2C%20Commission%20and%20other%20open%20meetings%20documents%20posted%20to%20the%20public%20website&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1556,7 +1556,7 @@
             "dept": "Office of the City Clerk",
             "dept_short": "CLE",
             "id": "8091",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Clerk&m_id=8091&m_name=Percent%20of%20new%20board%20and%20commission%20members%20completing%20the%20required%20training%20within%20the%20deadlines&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],

@@ -141,8 +141,8 @@
     },
     "Office of the City Clerk": {
         "num_measures": 6,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 4,
+        "status": "in progress"
     },
     "Office of the Medical Director": {
         "num_measures": 2,
