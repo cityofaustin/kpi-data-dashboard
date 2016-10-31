@@ -109,7 +109,7 @@
             "dept": "Austin Convention Center",
             "dept_short": "CON",
             "id": "7734",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=7734&m_name=ACC%20Exhibit%20Hall%20and%20Ballroom%20Occupancy&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -127,7 +127,7 @@
             "dept": "Austin Convention Center",
             "dept_short": "CON",
             "id": "1146",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1146&m_name=Cumulative%20Client%20Evaluation%20Ratings%20Summary%20%285.0%20scale%29&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -145,7 +145,7 @@
             "dept": "Austin Convention Center",
             "dept_short": "CON",
             "id": "1147",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Convention%20Center&m_id=1147&m_name=Percentage%20of%20Clients%20indicating%20they%20would%20schedule%20another%20event%20at%20the%20Convention%20Center%20facilities&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -680,7 +680,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "8166",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=8166&m_name=Number%20of%20contracts%20with%20arts%20professionals%20and%20arts%20organizations&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -698,7 +698,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "1337",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=1337&m_name=Number%20of%20new%20jobs%20created%20with%20public%20private%20initiatives&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -707,7 +707,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "7926",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=7926&m_name=Number%20of%20jobs%20created%20as%20a%20result%20of%20Family%20Business%20Loans&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],
@@ -911,7 +911,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "1543",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=1543&m_name=Percent%20of%20arson%20cases%20cleared%20by%20arrest&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -920,7 +920,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "7532",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=7532&m_name=Number%20of%20free%20smoke%20alarms%20installed&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -929,7 +929,7 @@
             "dept": "Fire",
             "dept_short": "FIR",
             "id": "1556",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Fire&m_id=1556&m_name=Number%20of%20unintentional%20fire%20deaths%20in%20the%20past%2012%20months&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1276,7 +1276,7 @@
             "dept": "Management Services",
             "dept_short": "MGT",
             "id": "7664",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Management%20Services&m_id=7664&m_name=City%20of%20Austin%20Combined%20Departmental%20Carbon%20Footprint&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1323,7 +1323,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "7732",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=7732&m_name=Percent%20of%20frequent%20offenders%20who%20complete%20rehabilitative%20recommendations&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1332,7 +1332,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2361",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2361&m_name=Cases%20terminated%20vs%20cases%20filed&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1341,7 +1341,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2366",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2366&m_name=Number%20of%20cases%20filed%20-%20Total&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1350,7 +1350,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2362",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2362&m_name=Number%20of%20cases%20set%20on%20scheduled%20dockets%20and%20appearing%20at%20walk-in%20dockets&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1359,7 +1359,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2355",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2355&m_name=Percent%20of%20cases%20set%20on%20a%20docket%20within%2060%20days&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1368,7 +1368,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2353",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2353&m_name=Average%20age%20of%20terminated%20cases%20%28days%29&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1377,7 +1377,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "7871",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=7871&m_name=Percent%20of%20customers%20served%20within%2010%20minutes&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1386,7 +1386,7 @@
             "dept": "Municipal Court",
             "dept_short": "COU",
             "id": "2479",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Municipal%20Court&m_id=2479&m_name=Level%20of%20customer%20satisfaction%20as%20indicated%20by%20the%20City%20of%20Austin%20Citizen%20Survey&contact=david.andersen%40austintexas.gov"
         }
     ],
@@ -1690,7 +1690,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "7002",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=7002&m_name=Percent%20of%20Part%20I%20crimes%20cleared&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1699,7 +1699,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "6664",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=6664&m_name=Percent%20of%20residents%20who%20are%20satisfied%20with%20the%20overall%20quality%20of%20police%20services&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1708,7 +1708,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "7003",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=7003&m_name=Part%20II%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1717,7 +1717,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "2815",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=2815&m_name=Property%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1726,7 +1726,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "2816",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=2816&m_name=Violent%20crime%20rate%20per%201%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1735,7 +1735,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "2848",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=2848&m_name=Rate%20of%20traffic%20fatalities%20per%20100%2C000%20population&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1744,7 +1744,7 @@
             "dept": "Police",
             "dept_short": "POL",
             "id": "6691",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Police&m_id=6691&m_name=Total%20police%20response%20time%20for%20EMERGENCY%20and%20URGENT%20calls&contact=david.andersen%40austintexas.gov"
         }
     ],
@@ -1903,7 +1903,7 @@
             "dept": "Telecommunications and Regulatory Affairs",
             "dept_short": "TEL",
             "id": "8117",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=8117&m_name=Percent%20of%20digital%20inclusion%20programs%27%20participants%20that%20improved%20their%20basic%20digital%20skills&contact=jesse.rodriguez%40austintexas.gov"
         },
         {

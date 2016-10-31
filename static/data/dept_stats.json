@@ -11,8 +11,8 @@
     },
     "Austin Convention Center": {
         "num_measures": 5,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 3,
+        "status": "in progress"
     },
     "Austin Energy": {
         "num_measures": 6,
@@ -66,8 +66,8 @@
     },
     "Economic Development": {
         "num_measures": 4,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 3,
+        "status": "in progress"
     },
     "Emergency Medical Services": {
         "num_measures": 7,
@@ -81,8 +81,8 @@
     },
     "Fire": {
         "num_measures": 8,
-        "num_verified": 5,
-        "status": "in progress"
+        "num_verified": 8,
+        "status": "completed"
     },
     "Fleet Services": {
         "num_measures": 5,
@@ -116,13 +116,13 @@
     },
     "Management Services": {
         "num_measures": 8,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 1,
+        "status": "in progress"
     },
     "Municipal Court": {
         "num_measures": 8,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 8,
+        "status": "completed"
     },
     "Neighborhood Housing and Community Development": {
         "num_measures": 4,
@@ -161,8 +161,8 @@
     },
     "Police": {
         "num_measures": 7,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 7,
+        "status": "completed"
     },
     "Public Works": {
         "num_measures": 8,
@@ -176,8 +176,8 @@
     },
     "Telecommunications and Regulatory Affairs": {
         "num_measures": 3,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 1,
+        "status": "in progress"
     },
     "Watershed Protection": {
         "num_measures": 7,
