@@ -15,7 +15,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8415",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8415&m_name=Shelter%20intake%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -24,7 +24,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "1850",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1850&m_name=Number%20of%20spay/neuters%20performed%20at%20the%20Animal%20Center&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -33,7 +33,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8409",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8409&m_name=Percent%20of%20shelter%20live%20outcomes&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -42,7 +42,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8411",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8411&m_name=Percent%20of%20sheltered%20animals%20returned-to-owner&contact=stefan.wray%40austintexas.gov"
         }
     ],
