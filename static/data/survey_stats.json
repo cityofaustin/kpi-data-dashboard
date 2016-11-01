@@ -6,7 +6,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "1838",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1838&m_name=Number%20of%20animals%20sterilized%20in%20the%20community&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -304,7 +304,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "7188",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7188&m_name=Customer%20satisfaction%20with%20the%20quality%20of%20residential%20curbside%20trash%20collection%20in%20the%20City%20of%20Austin%20Citizen%20Survey&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -313,7 +313,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "7986",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7986&m_name=Lost%20Time%20Injury%20Rate%20Per%20the%20Equivalent%20of%20100%20Employees%20%288%2B%20day%20lost%20time%29&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1117,7 +1117,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "7041",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7041&m_name=Percentage%20of%20quality%20assurance%20recommendations%20management%20agrees%20to%20implement&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1171,7 +1171,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "7057",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7057&m_name=Percentage%20of%20employees%20receiving%20annual%20performance%20evaluation&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
@@ -1894,7 +1894,7 @@
             "dept": "Telecommunications and Regulatory Affairs",
             "dept_short": "TEL",
             "id": "7953",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=7953&m_name=Number%20of%20Credit%20Access%20Business%20Certificates%20of%20Registration&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
