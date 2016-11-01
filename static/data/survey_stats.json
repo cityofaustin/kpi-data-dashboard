@@ -53,7 +53,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7022",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7022&m_name=Average%20number%20of%20days%20from%20when%20code%20compliance%20complaints%20are%20first%20assigned%20to%20inspectors%20until%20first%20response&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -62,7 +62,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "6501",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=6501&m_name=Average%20number%20of%20days%20from%20when%20Nuisance%20Abatement%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -71,7 +71,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7225",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7225&m_name=Average%20number%20of%20days%20from%20when%20Substandard%20Structure%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -80,7 +80,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7226",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7226&m_name=Average%20number%20of%20days%20from%20when%20Zoning%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -89,7 +89,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7024",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7024&m_name=Total%20number%20of%20community%20and%20commercial%20events%20attended&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -98,7 +98,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7231",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7231&m_name=Average%20number%20of%20training%20hours%20for%20investigative%20FTEs%20for%20fiscal%20year&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -156,7 +156,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7433",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7433&m_name=Renewable%20Power%20Generated%20as%20a%20Percent%20of%20Consumption&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -165,7 +165,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7412",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7412&m_name=System%20Average%20Interruption%20Frequency%20Index%20%28SAIFI%29%20%28electricity%20outage%20frequency%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -174,7 +174,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7438",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7438&m_name=Power%20Supply%20Cost%20average%20%28cents%20per%20Kilowatt%20hour%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -183,7 +183,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7602",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7602&m_name=Heat%20Rate&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -192,7 +192,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7446",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7446&m_name=Credit%20rating%20for%20separate-lien%20electric%20utility%20system%20revenue%20bonds&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -201,7 +201,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7437",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7437&m_name=Customer%20Satisfaction%20Index&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
@@ -212,7 +212,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2309",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2309&m_name=Citizen%20satisfaction%20with%20materials%20at%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -221,7 +221,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2308",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2308&m_name=Materials%20expenditures%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -230,7 +230,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6869",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6869&m_name=Circulation%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -239,7 +239,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6870",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6870&m_name=Visits%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -248,7 +248,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "8043",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=8043&m_name=Internet%20sessions%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -257,7 +257,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6871",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6871&m_name=Library%20program%20attendance%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -266,7 +266,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2311",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2311&m_name=Citizen%20satisfaction%20with%20quality%20of%20city%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -1455,7 +1455,7 @@
             "dept": "Office of the City Auditor",
             "dept_short": "AUD",
             "id": "2744",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2744&m_name=Council%20Satisfaction%20with%20Audit%20services&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1464,7 +1464,7 @@
             "dept": "Office of the City Auditor",
             "dept_short": "AUD",
             "id": "8448",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=8448&m_name=Percent%20of%20recommendations%20verified%20as%20implemented%20by%20management&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1473,7 +1473,7 @@
             "dept": "Office of the City Auditor",
             "dept_short": "AUD",
             "id": "2753",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2753&m_name=Council%20satisfaction%20with%20Integrity%20services&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1482,7 +1482,7 @@
             "dept": "Office of the City Auditor",
             "dept_short": "AUD",
             "id": "2760",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2760&m_name=Percent%20of%20prior%20year%20investigations%20completed%20where%20needed%20corrective%20action%20occurs&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1491,7 +1491,7 @@
             "dept": "Office of the City Auditor",
             "dept_short": "AUD",
             "id": "8239",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=8239&m_name=Percent%20of%20accepted%20quality%20assurance%20review%20recommendations%20implemented&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1500,7 +1500,7 @@
             "dept": "Office of the City Auditor",
             "dept_short": "AUD",
             "id": "2749",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20the%20City%20Auditor&m_id=2749&m_name=Percent%20of%20professional%20staff%20that%20have%20satisfied%20Governmental%20Auditing%20Standards%20Continuing%20Education%20Requirements&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -1894,7 +1894,7 @@
             "dept": "Telecommunications and Regulatory Affairs",
             "dept_short": "TEL",
             "id": "7953",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=7953&m_name=Number%20of%20Credit%20Access%20Business%20Certificates%20of%20Registration&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
