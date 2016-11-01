@@ -96,8 +96,8 @@
     },
     "Health and Human Services": {
         "num_measures": 9,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 9,
+        "status": "completed"
     },
     "Human Resources": {
         "num_measures": 7,

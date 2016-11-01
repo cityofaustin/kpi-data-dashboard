@@ -1034,7 +1034,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "7809",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=7809&m_name=%25%20of%20clients%20enrolled%20in%20self-sufficiency%20case%20management%20who%20report%20a%20reduction%20or%20elimination%20of%20income%20barriers&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1043,7 +1043,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1880",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1880&m_name=Number%20of%20client%20visits%20at%20the%20Shots%20for%20Tots%20Clinics%20for%20Vaccines%20for%20Children%20%28VFC%29%20eligible%20children%20ages%200-18&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1052,7 +1052,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "8148",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=8148&m_name=Number%20of%20Tobacco%20related%20deaths&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1061,7 +1061,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1902",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1902&m_name=Percent%20of%20all%20reportable%20infectious%20diseases%20that%20result%20in%20a%20disease%20intervention&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1070,7 +1070,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1956",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1956&m_name=Number%20of%20routine%20inspections%20per%20fixed%20food%20establishment%20%28City%29&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1079,7 +1079,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1984",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1984&m_name=Number%20of%20development%20encounters%20for%20youth%2010-24%20%28leadership%2C%20healthy%20decision%20making%2C%20sexual%20health%20ed.%29&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1088,7 +1088,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "1993",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=1993&m_name=Percent%20of%20women%20enrolled%20in%20WIC%20during%20pregnancy%20who%20subsequently%20breastfeed%20their%20children&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1097,7 +1097,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "8443",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=8443&m_name=Percent%20of%20homeless%20clients%20residing%20in%20shelters%20that%20receive%20case%20management%20services&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1106,7 +1106,7 @@
             "dept": "Health and Human Services",
             "dept_short": "HEA",
             "id": "7791",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Health%20and%20Human%20Services&m_id=7791&m_name=Percent%20of%20households%20served%20through%20City%20of%20Austin%20social%20service%20contracts%20that%20maintain%20housing%20or%20transition%20into%20housing%20from%20homelessness&contact=stefan.wray%40austintexas.gov"
         }
     ],
