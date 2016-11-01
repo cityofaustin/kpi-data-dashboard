@@ -16,8 +16,8 @@
     },
     "Austin Energy": {
         "num_measures": 6,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 6,
+        "status": "completed"
     },
     "Austin Public Library": {
         "num_measures": 7,

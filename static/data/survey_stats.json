@@ -156,7 +156,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7433",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7433&m_name=Renewable%20Power%20Generated%20as%20a%20Percent%20of%20Consumption&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -165,7 +165,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7412",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7412&m_name=System%20Average%20Interruption%20Frequency%20Index%20%28SAIFI%29%20%28electricity%20outage%20frequency%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -174,7 +174,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7438",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7438&m_name=Power%20Supply%20Cost%20average%20%28cents%20per%20Kilowatt%20hour%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -183,7 +183,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7602",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7602&m_name=Heat%20Rate&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -192,7 +192,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7446",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7446&m_name=Credit%20rating%20for%20separate-lien%20electric%20utility%20system%20revenue%20bonds&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -201,7 +201,7 @@
             "dept": "Austin Energy",
             "dept_short": "ENE",
             "id": "7437",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Energy&m_id=7437&m_name=Customer%20Satisfaction%20Index&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
