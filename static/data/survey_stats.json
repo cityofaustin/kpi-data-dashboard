@@ -277,7 +277,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "3357",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3357&m_name=Average%20pounds%20of%20yard%20trimmings/organics%20collected%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -286,7 +286,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "3347",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3347&m_name=Average%20pounds%20of%20recycled%20materials%20collected%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -295,7 +295,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "3339",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3339&m_name=Average%20pounds%20of%20trash%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -304,7 +304,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "7188",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7188&m_name=Customer%20satisfaction%20with%20the%20quality%20of%20residential%20curbside%20trash%20collection%20in%20the%20City%20of%20Austin%20Citizen%20Survey&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -313,7 +313,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "7986",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7986&m_name=Lost%20Time%20Injury%20Rate%20Per%20the%20Equivalent%20of%20100%20Employees%20%288%2B%20day%20lost%20time%29&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -322,7 +322,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "7020",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7020&m_name=Percent%20of%20waste%20stream%20diverted%20by%20ARR%20curbside%2C%20reuse%2C%20and%20HHW%20operations&contact=hailey.pate%40austintexas.gov"
         }
     ],
