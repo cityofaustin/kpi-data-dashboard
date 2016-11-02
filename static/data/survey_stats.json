@@ -277,7 +277,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "3357",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3357&m_name=Average%20pounds%20of%20yard%20trimmings/organics%20collected%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -286,7 +286,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "3347",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3347&m_name=Average%20pounds%20of%20recycled%20materials%20collected%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -295,7 +295,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "3339",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=3339&m_name=Average%20pounds%20of%20trash%20per%20customer%20account%20per%20week&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -322,7 +322,7 @@
             "dept": "Austin Resource Recovery",
             "dept_short": "RES",
             "id": "7020",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Resource%20Recovery&m_id=7020&m_name=Percent%20of%20waste%20stream%20diverted%20by%20ARR%20curbside%2C%20reuse%2C%20and%20HHW%20operations&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -604,7 +604,7 @@
             "dept": "Communications and Public Information",
             "dept_short": "COM",
             "id": "2784",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=2784&m_name=Percent%20of%20employee%20respondents%20reporting%20knowledge%20of%20specific%20City%20issues%20%28Listening%20to%20the%20Workforce%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1135,7 +1135,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "7671",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7671&m_name=Annual%20health%20assessment%20conducted%20for%20percentage%20of%20workforce&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1193,7 +1193,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "6486",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=6486&m_name=Total%20number%20of%20employees%20receiving%20ethics%20values%20and%20compliance%20training&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1202,7 +1202,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2223",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2223&m_name=Average%20cost%20per%20hour%20for%20Outside%20Counsel%20services&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1211,7 +1211,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2232",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2232&m_name=Number%20of%20legal%20risk%20mitigation%20trainings%20provided%20to%20city%20employees%2C%20officials%20%26%20appointees&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1220,7 +1220,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2240",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2240&m_name=Percent%20of%20clients%20reporting%20advice%20provided%20by%20attorneys%20was%20clear%2C%20relevant%20and%20communicated%20effectively&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1229,7 +1229,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2239",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2239&m_name=Percent%20of%20clients%20reporting%20legal%20advice%20received%20was%20timely&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1238,7 +1238,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2251",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2251&m_name=Percent%20of%20clients%20who%20report%20that%20service%20received%20is%20good%20or%20excellent&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -1883,7 +1883,7 @@
             "dept": "Small and Minority Business Resources",
             "dept_short": "SMA",
             "id": "6531",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=6531&m_name=Total%20number%20of%20new%20firms%20that%20attend%20outreach%20events&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
@@ -1912,7 +1912,7 @@
             "dept": "Telecommunications and Regulatory Affairs",
             "dept_short": "TEL",
             "id": "1789",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Telecommunications%20and%20Regulatory%20Affairs&m_id=1789&m_name=Right-of-way%20revenue%20collections&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],
