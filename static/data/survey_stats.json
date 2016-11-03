@@ -6,7 +6,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "1838",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1838&m_name=Number%20of%20animals%20sterilized%20in%20the%20community&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -15,7 +15,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8415",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8415&m_name=Shelter%20intake%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -24,7 +24,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "1850",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=1850&m_name=Number%20of%20spay/neuters%20performed%20at%20the%20Animal%20Center&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -33,7 +33,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8409",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8409&m_name=Percent%20of%20shelter%20live%20outcomes&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -42,7 +42,7 @@
             "dept": "Animal Services",
             "dept_short": "ANM",
             "id": "8411",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Animal%20Services&m_id=8411&m_name=Percent%20of%20sheltered%20animals%20returned-to-owner&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -53,7 +53,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7022",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7022&m_name=Average%20number%20of%20days%20from%20when%20code%20compliance%20complaints%20are%20first%20assigned%20to%20inspectors%20until%20first%20response&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -62,7 +62,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "6501",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=6501&m_name=Average%20number%20of%20days%20from%20when%20Nuisance%20Abatement%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -71,7 +71,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7225",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7225&m_name=Average%20number%20of%20days%20from%20when%20Substandard%20Structure%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -80,7 +80,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7226",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7226&m_name=Average%20number%20of%20days%20from%20when%20Zoning%20complaints%20are%20first%20reported%20until%20non-judicial%20compliance&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -89,7 +89,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7024",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7024&m_name=Total%20number%20of%20community%20and%20commercial%20events%20attended&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -98,7 +98,7 @@
             "dept": "Austin Code",
             "dept_short": "COD",
             "id": "7231",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Code&m_id=7231&m_name=Average%20number%20of%20training%20hours%20for%20investigative%20FTEs%20for%20fiscal%20year&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -212,7 +212,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2309",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2309&m_name=Citizen%20satisfaction%20with%20materials%20at%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -221,7 +221,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2308",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2308&m_name=Materials%20expenditures%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -230,7 +230,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6869",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6869&m_name=Circulation%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -239,7 +239,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6870",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6870&m_name=Visits%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -248,7 +248,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "8043",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=8043&m_name=Internet%20sessions%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -257,7 +257,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "6871",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=6871&m_name=Library%20program%20attendance%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -266,7 +266,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2311",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2311&m_name=Citizen%20satisfaction%20with%20quality%20of%20city%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -1193,7 +1193,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "6486",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=6486&m_name=Total%20number%20of%20employees%20receiving%20ethics%20values%20and%20compliance%20training&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1202,7 +1202,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2223",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2223&m_name=Average%20cost%20per%20hour%20for%20Outside%20Counsel%20services&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1211,7 +1211,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2232",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2232&m_name=Number%20of%20legal%20risk%20mitigation%20trainings%20provided%20to%20city%20employees%2C%20officials%20%26%20appointees&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1220,7 +1220,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2240",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2240&m_name=Percent%20of%20clients%20reporting%20advice%20provided%20by%20attorneys%20was%20clear%2C%20relevant%20and%20communicated%20effectively&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1229,7 +1229,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2239",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2239&m_name=Percent%20of%20clients%20reporting%20legal%20advice%20received%20was%20timely&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1238,7 +1238,7 @@
             "dept": "Law",
             "dept_short": "LAW",
             "id": "2251",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Law&m_id=2251&m_name=Percent%20of%20clients%20who%20report%20that%20service%20received%20is%20good%20or%20excellent&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -1406,7 +1406,7 @@
             "dept": "Neighborhood Housing and Community Development",
             "dept_short": "HOU",
             "id": "7036",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7036&m_name=Number%20of%20affordable%20rental%20units%20newly%20constructed%20and/or%20preserved%20through%20capital%20investment&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1415,7 +1415,7 @@
             "dept": "Neighborhood Housing and Community Development",
             "dept_short": "HOU",
             "id": "7034",
-            "status": "verified",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7034&m_name=Number%20of%20housing%20related%20services%20provided%20to%20beneficiaries&contact=stefan.wray%40austintexas.gov"
         },
         {

@@ -1,13 +1,13 @@
 {
     "Animal Services": {
         "num_measures": 5,
-        "num_verified": 5,
-        "status": "completed"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Code": {
         "num_measures": 6,
-        "num_verified": 6,
-        "status": "completed"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Convention Center": {
         "num_measures": 5,
@@ -21,8 +21,8 @@
     },
     "Austin Public Library": {
         "num_measures": 7,
-        "num_verified": 7,
-        "status": "completed"
+        "num_verified": 0,
+        "status": ""
     },
     "Austin Resource Recovery": {
         "num_measures": 6,
@@ -111,8 +111,8 @@
     },
     "Law": {
         "num_measures": 6,
-        "num_verified": 6,
-        "status": "completed"
+        "num_verified": 0,
+        "status": ""
     },
     "Management Services": {
         "num_measures": 8,
@@ -126,8 +126,8 @@
     },
     "Neighborhood Housing and Community Development": {
         "num_measures": 4,
-        "num_verified": 2,
-        "status": "in progress"
+        "num_verified": 0,
+        "status": ""
     },
     "Office of Real Estate Services": {
         "num_measures": 2,
