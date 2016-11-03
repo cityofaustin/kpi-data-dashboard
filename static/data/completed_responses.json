@@ -2566,5 +2566,26 @@
         "textfield_31442528": "Administrative Specialist",
         "textfield_32615888": "Labor Relations",
         "token": "6bb69ec60038da1c2b721262516af9ee"
+    },
+    {
+        "contact": "hailey.pate@austintexas.gov",
+        "dept": "Financial Services",
+        "email_31442534": "diane.siler@austintexas.gov",
+        "list_29849202_choice": "Word/PDF doc",
+        "list_29849901_choice": "yes",
+        "list_31434167_choice": "City staff in my department",
+        "list_31434529_choice": "digital tool",
+        "list_31439434_choice": "annually",
+        "list_31441558_choice": "yes, and it's on the data portal",
+        "m_id": "1707",
+        "network_id": "4823316b90",
+        "started": "2016-11-02 21:11:30",
+        "submitted": "2016-11-02 21:14:52",
+        "textarea_31444284": "This is simply a yes or no based on whether we received the award. No data is necessary.",
+        "textfield_31442505": "Diane Siler",
+        "textfield_31442528": "Deputy Budget Officer",
+        "textfield_32615888": "Budget Office",
+        "token": "0ba868ec3a380d0a4f937e3448d5788e",
+        "website_31441577": "https://www.ci.austin.tx.us/financeonline/finance/financial_docs.cfm?ws=1&pg=1&dl=true&t=t1&b=b2&hash=#BUDGETDOCUMENTS"
     }
 ]
