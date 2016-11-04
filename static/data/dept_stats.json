@@ -61,8 +61,8 @@
     },
     "Development Services": {
         "num_measures": 3,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 3,
+        "status": "completed"
     },
     "Economic Development": {
         "num_measures": 4,
@@ -101,8 +101,8 @@
     },
     "Human Resources": {
         "num_measures": 7,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 7,
+        "status": "completed"
     },
     "Labor Relations": {
         "num_measures": 1,
@@ -156,8 +156,8 @@
     },
     "Planning and Zoning": {
         "num_measures": 6,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 6,
+        "status": "completed"
     },
     "Police": {
         "num_measures": 7,

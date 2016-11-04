@@ -2801,5 +2801,25 @@
         "submitted": "2016-11-04 15:00:12",
         "token": "6f8a33d59c9b88d4d6469b1449e35fe5",
         "website_31441577": "https://data.austintexas.gov/stories/s/8cj6-tm9s"
+    },
+    {
+        "contact": "jesse.rodriguez@austintexas.gov",
+        "dept": "Austin Transportation",
+        "email_31442534": "diana.martin@austintexas.gov",
+        "list_29849202_choice": "desktop spreadsheet",
+        "list_29849901_choice": "yes",
+        "list_31434167_choice": "City staff in my department",
+        "list_31434529_choice": "digital tool",
+        "list_31439434_choice": "weekly",
+        "list_31441558_other": "There are measures that are used to calculate the KPI, however the \"narrative\" on the analysis is not provided to the public. ",
+        "m_id": "6913",
+        "network_id": "4823316b90",
+        "started": "2016-11-04 17:19:33",
+        "submitted": "2016-11-04 17:31:45",
+        "textarea_31444284": "The data that is being used for the measure is entered into an enterprise database system, Maximo. It is then pulled out as a report and then entered into an excel spreadsheet weekly. That is then entered into a master excel spreadsheet for the department. The KPI evaluates two measures from the spreadsheet and relies on a spatial count of how many signs are in the network. The data is then extrapolated by the number of years the manufacturer can guarantee a 70% life cycle of the material. The data counts are then multiplied by the year and then divided by the spatial count in the network to come up with the percentage % of signs in \"Fair to Excellent\" condition. We've recently developed processes to come up with the measure. In years past the way the percentage of signs were produced was extrapolated from an un-vetted process making this KPI questionable. ",
+        "textfield_31442505": "Diana Martin",
+        "textfield_31442528": "IT Geospatial Analyst ",
+        "textfield_32615888": "Signs and Markings Division",
+        "token": "c62bbadadc80bcf0bc1b18c13fb4bf87"
     }
 ]

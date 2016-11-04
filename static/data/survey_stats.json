@@ -360,7 +360,7 @@
             "dept": "Austin Transportation",
             "dept_short": "TRA",
             "id": "6913",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=6913&m_name=Percent%20of%20signs%20that%20are%20in%20fair%20to%20excellent%20condition&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -651,7 +651,7 @@
             "dept": "Development Services",
             "dept_short": "DEV",
             "id": "3578",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Development%20Services&m_id=3578&m_name=Percent%20of%20building%20inspections%20performed%20within%2024%20hours%20of%20request&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -660,7 +660,7 @@
             "dept": "Development Services",
             "dept_short": "DEV",
             "id": "3583",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Development%20Services&m_id=3583&m_name=Percent%20of%20initial%20commercial%20building%20plan%20reviews%20completed%20within%20Land%20Development%20Code%20mandated%20time%20of%2021%20days&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -669,7 +669,7 @@
             "dept": "Development Services",
             "dept_short": "DEV",
             "id": "3647",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Development%20Services&m_id=3647&m_name=Percent%20of%20on-time%20initial%20new%20residential%20zoning%20reviews&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],
@@ -1117,7 +1117,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "7041",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7041&m_name=Percentage%20of%20quality%20assurance%20recommendations%20management%20agrees%20to%20implement&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1126,7 +1126,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "2140",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2140&m_name=Citywide%20lost%20time%20injury%20rate&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1135,7 +1135,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "7671",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7671&m_name=Annual%20health%20assessment%20conducted%20for%20percentage%20of%20workforce&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1144,7 +1144,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "2111",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2111&m_name=Employee%20satisfaction%20with%20benefits%20programs%20%28percent%20favorable%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1153,7 +1153,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "2170",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2170&m_name=Average%20time%20to%20complete%20the%20recruitment%20process%20%28open%20date%20to%20close%20date%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1162,7 +1162,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "2101",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=2101&m_name=Employee%20ratings%20of%20overall%20job%20satisfaction&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1171,7 +1171,7 @@
             "dept": "Human Resources",
             "dept_short": "HUM",
             "id": "7057",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Human%20Resources&m_id=7057&m_name=Percentage%20of%20employees%20receiving%20annual%20performance%20evaluation&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
@@ -1424,7 +1424,7 @@
             "dept": "Neighborhood Housing and Community Development",
             "dept_short": "HOU",
             "id": "7031",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Neighborhood%20Housing%20and%20Community%20Development&m_id=7031&m_name=Total%20number%20of%20services%20provided%20to%20beneficiaries%20through%20all%20housing%20and%20community%20development%20activities&contact=stefan.wray%40austintexas.gov"
         }
     ],
@@ -1634,7 +1634,7 @@
             "dept": "Planning and Zoning",
             "dept_short": "PLA",
             "id": "8020",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=8020&m_name=Completion%20of%20an%20Imagine%20Austin%20Annual%20Report%20by%20October%201st&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1643,7 +1643,7 @@
             "dept": "Planning and Zoning",
             "dept_short": "PLA",
             "id": "2690",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2690&m_name=Number%20of%20neighborhood%20plans%20adopted%20by%20the%20City%20Council&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1652,7 +1652,7 @@
             "dept": "Planning and Zoning",
             "dept_short": "PLA",
             "id": "2691",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2691&m_name=Number%20of%20neighborhood%20plans%20scheduled%20on%20Planning%20Commission%20agenda&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1661,7 +1661,7 @@
             "dept": "Planning and Zoning",
             "dept_short": "PLA",
             "id": "2687",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2687&m_name=Percent%20of%20neighborhood%20planning%20participants%20who%20satisfied%20with%20the%20neighborhood%20planning%20process.&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1670,7 +1670,7 @@
             "dept": "Planning and Zoning",
             "dept_short": "PLA",
             "id": "2710",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2710&m_name=Number%20of%20neighborhood%20plan%20rezonings%20adopted%20by%20the%20City%20Council&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1679,7 +1679,7 @@
             "dept": "Planning and Zoning",
             "dept_short": "PLA",
             "id": "2711",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Planning%20and%20Zoning&m_id=2711&m_name=Number%20of%20neighborhood%20plan%20rezonings%20scheduled%20on%20Planning%20Commission%20agenda&contact=jesse.rodriguez%40austintexas.gov"
         }
     ],
@@ -1829,7 +1829,7 @@
             "dept": "Small and Minority Business Resources",
             "dept_short": "SMA",
             "id": "7047",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=7047&m_name=Number%20of%20post-award%20documents%20reviewed&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
