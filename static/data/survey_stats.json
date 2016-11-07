@@ -783,7 +783,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "1707",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1707&m_name=Receiving%20Government%20Finance%20Officers%20Association%20Distinguished%20Budget%20Award&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -801,7 +801,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "8105",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=8105&m_name=Percentage%20of%20planned%20projects%20and%20programs%20reviewed%20for%20alignment%20with%20Imagine%20Austin&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1587,7 +1587,7 @@
             "dept": "Parks and Recreation",
             "dept_short": "PAR",
             "id": "6959",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=6959&m_name=Percent%20of%20citizens%20satisfied%20with%20recreation%20programs&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1596,7 +1596,7 @@
             "dept": "Parks and Recreation",
             "dept_short": "PAR",
             "id": "7642",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=7642&m_name=Citizen%20satisfaction%20with%20the%20appearance%20of%20park%20grounds&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1605,7 +1605,7 @@
             "dept": "Parks and Recreation",
             "dept_short": "PAR",
             "id": "3033",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=3033&m_name=Number%20of%20city%20park%20acres%20per%201%2C000%20population&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1614,7 +1614,7 @@
             "dept": "Parks and Recreation",
             "dept_short": "PAR",
             "id": "8016",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=8016&m_name=Percent%20of%20CIP%20Spending%20Plan%20achieved&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -1856,7 +1856,7 @@
             "dept": "Small and Minority Business Resources",
             "dept_short": "SMA",
             "id": "3298",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=3298&m_name=Number%20of%20City-certified%20MBE/WBE%20and%20Disadvantaged%20Business%20Enterprise%20%28DBE%29%20businesses&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1865,7 +1865,7 @@
             "dept": "Small and Minority Business Resources",
             "dept_short": "SMA",
             "id": "3296",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=3296&m_name=Percent%20of%20applications%2C%20re-certification%20applications%2C%20and%20annual%20reviews%20processed%20within%2060%20days&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1923,7 +1923,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "7935",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=7935&m_name=Citizen%20satisfaction%20with%20flood%20hazard%20mitigation%20efforts&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
