@@ -212,7 +212,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2309",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2309&m_name=Citizen%20satisfaction%20with%20materials%20at%20libraries%20%28%25%29&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -221,7 +221,7 @@
             "dept": "Austin Public Library",
             "dept_short": "LIB",
             "id": "2308",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Public%20Library&m_id=2308&m_name=Materials%20expenditures%20per%20capita&contact=stefan.wray%40austintexas.gov"
         },
         {
@@ -351,7 +351,7 @@
             "dept": "Austin Transportation",
             "dept_short": "TRA",
             "id": "3212",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=3212&m_name=Percent%20reduction%20in%20estimated%20vehicular%20travel%20time%20in%20corridors%20and%20intersections%20studied&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -360,7 +360,7 @@
             "dept": "Austin Transportation",
             "dept_short": "TRA",
             "id": "6913",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Austin%20Transportation&m_id=6913&m_name=Percent%20of%20signs%20that%20are%20in%20fair%20to%20excellent%20condition&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -604,7 +604,7 @@
             "dept": "Communications and Public Information",
             "dept_short": "COM",
             "id": "2784",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=2784&m_name=Percent%20of%20employee%20respondents%20reporting%20knowledge%20of%20specific%20City%20issues%20%28Listening%20to%20the%20Workforce%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -613,7 +613,7 @@
             "dept": "Communications and Public Information",
             "dept_short": "COM",
             "id": "7166",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=7166&m_name=Percent%20of%20residents%20satisfied%20with%20City%20communications%20%28Citizen%20Survey%29&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -622,7 +622,7 @@
             "dept": "Communications and Public Information",
             "dept_short": "COM",
             "id": "7845",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=7845&m_name=Percent%20of%20residents%20that%20believe%20Austin%20values%20dialogue%20between%20residents%20and%20government&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -631,7 +631,7 @@
             "dept": "Communications and Public Information",
             "dept_short": "COM",
             "id": "6632",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=6632&m_name=Percent%20of%20media%20who%20respond%20positively%20in%20regard%20to%20interactions%20with%20CPI&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -640,7 +640,7 @@
             "dept": "Communications and Public Information",
             "dept_short": "COM",
             "id": "7170",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Communications%20and%20Public%20Information&m_id=7170&m_name=Percent%20of%20residents%20accessing%20ATXN%20programming&contact=sarahs.rodriguez%40austintexas.gov"
         }
     ],
@@ -689,7 +689,7 @@
             "dept": "Economic Development",
             "dept_short": "ECO",
             "id": "1359",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Economic%20Development&m_id=1359&m_name=Number%20of%20Austinites%20attending%20international%20events%2C%20networking%20and%20seminars%20which%20create%20opportunities%20for%20international%20businesses%0A&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -801,7 +801,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "8105",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=8105&m_name=Percentage%20of%20planned%20projects%20and%20programs%20reviewed%20for%20alignment%20with%20Imagine%20Austin&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1623,7 +1623,7 @@
             "dept": "Parks and Recreation",
             "dept_short": "PAR",
             "id": "8474",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Parks%20and%20Recreation&m_id=8474&m_name=ParkScore%20Ranking%3A%20park%20quality%20rating%20out%20of%20100&contact=stefan.wray%40austintexas.gov"
         }
     ],
