@@ -1,13 +1,13 @@
 {
     "Animal Services": {
         "num_measures": 5,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 5,
+        "status": "completed"
     },
     "Austin Code": {
         "num_measures": 6,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 6,
+        "status": "completed"
     },
     "Austin Convention Center": {
         "num_measures": 5,
@@ -21,8 +21,8 @@
     },
     "Austin Public Library": {
         "num_measures": 7,
-        "num_verified": 2,
-        "status": "in progress"
+        "num_verified": 7,
+        "status": "completed"
     },
     "Austin Resource Recovery": {
         "num_measures": 6,
@@ -106,13 +106,13 @@
     },
     "Labor Relations": {
         "num_measures": 1,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 1,
+        "status": "completed"
     },
     "Law": {
         "num_measures": 6,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 6,
+        "status": "completed"
     },
     "Management Services": {
         "num_measures": 8,
@@ -126,8 +126,8 @@
     },
     "Neighborhood Housing and Community Development": {
         "num_measures": 4,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 4,
+        "status": "completed"
     },
     "Office of Real Estate Services": {
         "num_measures": 2,
@@ -151,8 +151,8 @@
     },
     "Parks and Recreation": {
         "num_measures": 5,
-        "num_verified": 1,
-        "status": "in progress"
+        "num_verified": 5,
+        "status": "completed"
     },
     "Planning and Zoning": {
         "num_measures": 6,
