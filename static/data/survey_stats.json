@@ -1874,7 +1874,7 @@
             "dept": "Small and Minority Business Resources",
             "dept_short": "SMA",
             "id": "8018",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Small%20and%20Minority%20Business%20Resources&m_id=8018&m_name=Number%20of%20clients%20that%20received%20bonding&contact=sarahs.rodriguez%40austintexas.gov"
         },
         {
@@ -1932,7 +1932,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "6998",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=6998&m_name=Linear%20feet%20of%20storm%20drain%20infrastructure%20installed%20or%20replaced%20by%20WPD&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1941,7 +1941,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "7604",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=7604&m_name=Number%20of%20structures/roadways%20with%20increased%20flood%20hazard%20protection-project%20completed&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1950,7 +1950,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "6466",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=6466&m_name=Number%20of%20linear%20feet%20of%20stream%20channel%20repairs%20designed&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1959,7 +1959,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "7949",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=7949&m_name=Percent%20of%20CIP%20projects%20substantially%20completed%20on%20schedule&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1968,7 +1968,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "3470",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=3470&m_name=Gallons%20of%20pollutants%20recovered%20as%20a%20result%20of%20business%20inspections%20and%20spills%20response&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1977,7 +1977,7 @@
             "dept": "Watershed Protection",
             "dept_short": "WSH",
             "id": "3484",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Watershed%20Protection&m_id=3484&m_name=Tons%20of%20total%20suspended%20solids%20%28TSS%29%20removed%20annually%20in%20drainage%20areas%20with%20publicly-funded%20structural%20water%20quality%20controls%20%28tons%20per%20year%29&contact=jesse.rodriguez%40austintexas.gov"
         }
     ]
