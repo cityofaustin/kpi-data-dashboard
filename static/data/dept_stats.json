@@ -171,8 +171,8 @@
     },
     "Small and Minority Business Resources": {
         "num_measures": 7,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 1,
+        "status": "in progress"
     },
     "Telecommunications and Regulatory Affairs": {
         "num_measures": 3,
@@ -181,7 +181,7 @@
     },
     "Watershed Protection": {
         "num_measures": 7,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 7,
+        "status": "completed"
     }
 }
