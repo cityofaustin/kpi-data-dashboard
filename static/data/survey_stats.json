@@ -1755,7 +1755,7 @@
             "dept": "Public Works",
             "dept_short": "WOR",
             "id": "3094",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3094&m_name=Percent%20of%20Projects%20that%20pass%20one-year%20warranty%20inspection%20without%20significant%20construction%20deficiencies&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
@@ -1764,7 +1764,7 @@
             "dept": "Public Works",
             "dept_short": "WOR",
             "id": "3169",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Public%20Works&m_id=3169&m_name=Percentage%20of%20warranted%20locations%20staffed&contact=jesse.rodriguez%40austintexas.gov"
         },
         {
