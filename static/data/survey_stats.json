@@ -810,7 +810,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "1697",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1697&m_name=Awarded%20Governmental%20Finance%20Officers%20Association%27s%20%28GFOA%29%20Certificate%20of%20Achievement%20for%20Excellence%20in%20Financial%20Reporting&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -819,7 +819,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "1750",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1750&m_name=Dollar%20amount%20of%20purchases%20made%20that%20meet%20Sustainability%20guidelines&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -828,7 +828,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6712",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6712&m_name=City%20of%20Austin%20Investment%20Pool%20Yield&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -837,7 +837,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6711",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6711&m_name=Compare%20to%20US%20Treasury%20Constant%20Maturity%20%28One%20Year%29&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -846,7 +846,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6718",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6718&m_name=COA%20GO%20Bond%20Rating%20from%20Fitch%20Investors&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -855,7 +855,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6716",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6716&m_name=COA%20GO%20Bond%20Rating%20from%20Moody%27s&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -873,7 +873,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6715",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6715&m_name=Combined%20Utility%20System%20Revenue%20Bond%20Rating%20from%20Fitch&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -882,7 +882,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6713",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6713&m_name=Combined%20Utility%20System%20Revenue%20Bond%20Rating%20from%20Moody%27s&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -891,7 +891,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6714",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6714&m_name=Combined%20Utility%20System%20Revenue%20Bond%20Rating%20from%20S%26P&contact=hailey.pate%40austintexas.gov"
         }
     ],
