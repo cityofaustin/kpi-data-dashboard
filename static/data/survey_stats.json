@@ -454,7 +454,7 @@
             "dept": "Aviation",
             "dept_short": "AVI",
             "id": "1046",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Aviation&m_id=1046&m_name=Non-Airline%20revenue%20per%20enplaned%20passenger&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -463,7 +463,7 @@
             "dept": "Aviation",
             "dept_short": "AVI",
             "id": "8038",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Aviation&m_id=8038&m_name=Airline%20cost%20per%20enplaned%20passenger&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -472,7 +472,7 @@
             "dept": "Aviation",
             "dept_short": "AVI",
             "id": "1067",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Aviation&m_id=1067&m_name=Lost%20Time%20Injury%20Rate%20Per%20the%20Equivalent%20of%20100%20Employees&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -481,7 +481,7 @@
             "dept": "Aviation",
             "dept_short": "AVI",
             "id": "6757",
-            "status": "incomplete",
+            "status": "received",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Aviation&m_id=6757&m_name=Percentage%20of%20passengers%20ranking%20overall%20satisfaction%20with%20the%20airport%20%22Excellent%22%20in%20the%20Airport%20Service%20Quality%20Survey&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -864,7 +864,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "6717",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=6717&m_name=COA%20GO%20Bond%20Rating%20from%20Standard%20%26%20Poor%27s&contact=hailey.pate%40austintexas.gov"
         },
         {
