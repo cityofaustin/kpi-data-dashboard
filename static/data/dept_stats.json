@@ -41,8 +41,8 @@
     },
     "Aviation": {
         "num_measures": 4,
-        "num_verified": 3,
-        "status": "in progress"
+        "num_verified": 4,
+        "status": "completed"
     },
     "Building Services": {
         "num_measures": 6,
@@ -76,7 +76,7 @@
     },
     "Financial Services": {
         "num_measures": 13,
-        "num_verified": 11,
+        "num_verified": 12,
         "status": "in progress"
     },
     "Fire": {
@@ -131,8 +131,8 @@
     },
     "Office of Real Estate Services": {
         "num_measures": 2,
-        "num_verified": 0,
-        "status": ""
+        "num_verified": 2,
+        "status": "completed"
     },
     "Office of the City Auditor": {
         "num_measures": 6,

@@ -481,7 +481,7 @@
             "dept": "Aviation",
             "dept_short": "AVI",
             "id": "6757",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Aviation&m_id=6757&m_name=Percentage%20of%20passengers%20ranking%20overall%20satisfaction%20with%20the%20airport%20%22Excellent%22%20in%20the%20Airport%20Service%20Quality%20Survey&contact=hailey.pate%40austintexas.gov"
         }
     ],
@@ -810,7 +810,7 @@
             "dept": "Financial Services",
             "dept_short": "FIN",
             "id": "1697",
-            "status": "received",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Financial%20Services&m_id=1697&m_name=Awarded%20Governmental%20Finance%20Officers%20Association%27s%20%28GFOA%29%20Certificate%20of%20Achievement%20for%20Excellence%20in%20Financial%20Reporting&contact=hailey.pate%40austintexas.gov"
         },
         {
@@ -1435,7 +1435,7 @@
             "dept": "Office of Real Estate Services",
             "dept_short": "REA",
             "id": "1184",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20Real%20Estate%20Services&m_id=1184&m_name=Percent%20of%20real%20estate%20transactions%20processed%20on%20time&contact=david.andersen%40austintexas.gov"
         },
         {
@@ -1444,7 +1444,7 @@
             "dept": "Office of Real Estate Services",
             "dept_short": "REA",
             "id": "1187",
-            "status": "incomplete",
+            "status": "verified",
             "url": "https://atxopendata.typeform.com/to/IwBZgX?dept=Office%20of%20Real%20Estate%20Services&m_id=1187&m_name=Percent%20of%20properties%20acquired%20on%20time&contact=david.andersen%40austintexas.gov"
         }
     ],
