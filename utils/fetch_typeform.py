@@ -134,4 +134,3 @@ def process_typeform_responses():
 
 if __name__ == '__main__':
     process_typeform_responses()
-    
